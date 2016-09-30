@@ -1,0 +1,25 @@
+# 396 - Sucky
+
+# County Title
+title = c_sucky
+
+# Settlements
+max_settlements = 4
+#b_sucky = castle
+#b_valchin = city
+#b_juerennar = temple
+#b_joadin = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

@@ -1,0 +1,22 @@
+# 661 - Jubadayea
+
+# County Title
+title = c_jubadayea
+
+# Settlements
+max_settlements = 1
+b_jubadayea = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

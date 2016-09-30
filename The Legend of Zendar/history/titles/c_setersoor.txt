@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_alburq
+	holder = 3016 #Jarl Olaf
+}

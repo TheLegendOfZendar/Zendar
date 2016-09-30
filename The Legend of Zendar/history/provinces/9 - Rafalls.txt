@@ -1,0 +1,23 @@
+# 9 - Rafalls
+
+# County Title
+title = c_rafalls
+
+# Settlements
+max_settlements = 2
+b_rafalls = castle
+#b_rulbe = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = woodlander
+	religion = calradic
+}

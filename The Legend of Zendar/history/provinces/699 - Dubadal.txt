@@ -1,0 +1,22 @@
+# 699 - Dubadal
+
+# County Title
+title = c_dubadal
+
+# Settlements
+max_settlements = 1
+b_dubadal = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = sandman
+	religion = sunni
+}

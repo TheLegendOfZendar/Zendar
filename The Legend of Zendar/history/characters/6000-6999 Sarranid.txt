@@ -1,0 +1,1093 @@
+# STRUCTURE
+#5000-5099: Warband
+#5100-5499: Pre-Warband
+#5500-5899: Bannerlord
+#5900-5999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+6000 = {
+	name = "Hakim"
+	dna = acihcijdbdk
+	properties = jm0bf000000000
+	dynasty = 6000
+	
+	father = 6900
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1228.5.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Pretender
+6001 = {
+	name = "Arwa"
+	female = yes
+	dynasty = 6001
+	
+	father = 6100
+	
+	culture = "sarrdak"
+	religion = "sarrani"
+	
+	trait = "legit_bastard"
+	
+	1226.4.1 = {
+		birth = yes
+	}
+	
+	1244.3.18 = {
+		add_matrilineal_spouse = 6101
+		give_nickname = nick_the_pearled_one
+	}
+	
+	1248.5.11 = {
+		add_claim = e_sarranid
+		employer = 6003
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Lords
+6002 = {
+	name = "Amdar"
+	dynasty = 6002
+	
+	father = 6021
+	mother = 6031
+	
+	culture = "sandman"
+	religion = "sunni"
+	
+	1230.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6003 = {
+	name = "Atis"
+	dynasty = 6003
+	
+	father = 6903
+	
+	culture = "sarrdak"
+	religion = "sarrani"
+	
+	1199.4.1 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 6022
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6004 = {
+	name = "Ayyam"
+	dynasty = 6004
+	
+	father = 6017
+	mother = 6025
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1234.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6005 = {
+	name = "Azadun"
+	dynasty = 6005
+	
+	father = 6905
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1231.6.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6006 = {
+	name = "Biliya"
+	dynasty = 6006
+	
+	father = 6008
+	mother = 6028
+	
+	culture = "sarrdak"
+	religion = "shiite"
+	
+	1234.6.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6007 = {
+	name = "Dhashwal"
+	dynasty = 6007
+	
+	father = 6016
+	mother = 6029
+	
+	culture = "qardeb"
+	religion = "manichean"
+	
+	1231.8.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6008 = {
+	name = "Dhiyul"
+	dynasty = 6008
+	
+	father = 6903
+	
+	culture = "sarrdak"
+	religion = "shiite"
+	
+	1211.6.4 = {
+		birth = yes
+	}
+	
+	1228.1.1 = {
+		add_spouse = 6028
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6009 = {
+	name = "Ghanawa"
+	dynasty = 6009
+	
+	father = 6909
+	
+	culture = "sandman"
+	religion = "sunni"
+	
+	1203.7.7 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 6023
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6010 = {
+	name = "Ghulassen"
+	dynasty = 6010
+	
+	father = 6910
+	
+	culture = "mushreg"
+	religion = "shiite"
+	
+	1226.9.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6011 = {
+	name = "Hamezan"
+	dynasty = 6011
+	
+	father = 6911
+	
+	culture = "sandman"
+	religion = "ibadi"
+	
+	1204.7.8 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 6036
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6012 = {
+	name = "Hiwan"
+	dynasty = 6012
+	
+	father = 6011
+	mother = 6036
+	
+	culture = "sandman"
+	religion = "ibadi"
+	
+	1228.5.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6013 = {
+	name = "Lakhem"
+	dynasty = 6013
+	
+	father = 6913
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1229.6.12 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6014 = {
+	name = "Muhnir"
+	dynasty = 6014
+	
+	father = 6003
+	mother = 6022
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1223.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6015 = {
+	name = "Mundhalir"
+	dynasty = 6015
+	
+	father = 6911
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1197.9.13 = {
+		birth = yes
+	}
+	
+	1221.1.1 = {
+		add_spouse = 6024
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6016 = {
+	name = "Nuam"
+	dynasty = 6016
+	
+	father = 6903
+	
+	culture = "qardeb"
+	religion = "manichean"
+	
+	1208.4.14 = {
+		birth = yes
+	}
+	
+	1225.1.1 = {
+		add_spouse = 6029
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6017 = {
+	name = "Nuwas"
+	dynasty = 6017
+	
+	father = 6909
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1210.5.14 = {
+		birth = yes
+	}
+	
+	1227.1.1 = {
+		add_spouse = 6025
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6018 = {
+	name = "Quryas"
+	dynasty = 6018
+	
+	father = 6918
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1227.6.17 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6019 = {
+	name = "Raddoun"
+	dynasty = 6019
+	
+	father = 6015
+	mother = 6024
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1220.7.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6020 = {
+	name = "Tilimsan"
+	dynasty = 6020
+	
+	father = 6009
+	mother = 6023
+	
+	culture = "mushreg"
+	religion = "shiite"
+	
+	1228.8.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6021 = {
+	name = "Uqais"
+	dynasty = 6021
+	
+	father = 6909
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1205.5.21 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 6031
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+6022 = {
+	name = "Bawthan"
+	female = yes
+	
+	culture = "tarkhan"
+	religion = "sarrani"
+	
+	1207.7.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6023 = {
+	name = "Dula"
+	female = yes
+	
+	culture = "mushreg"
+	religion = "sunni"
+	
+	1207.4.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6024 = {
+	name = "Ifar"
+	female = yes
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1204.4.9 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6025 = {
+	name = "Isna"
+	female = yes
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1207.4.9 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6026 = {
+	name = "Janab"
+	female = yes
+	dynasty = 6005
+	
+	father = 6905
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1235.5.10 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6027 = {
+	name = "Khalisa"
+	female = yes
+	dynasty = 6010
+	
+	father = 6910
+	
+	culture = "mushreg"
+	religion = "shiite"
+	
+	1235.7.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6028 = {
+	name = "Lulya"
+	female = yes
+	
+	culture = "sarrdak"
+	religion = "shiite"
+	
+	1207.5.12 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6029 = {
+	name = "Luqa"
+	female = yes
+	
+	culture = "qardeb"
+	religion = "manichean"
+	
+	1207.4.12 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6030 = {
+	name = "Mahayl"
+	female = yes
+	dynasty = 6003
+	
+	father = 6003
+	mother = 6022
+	
+	culture = "sarrdak"
+	religion = "sarrani"
+	
+	1237.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6031 = {
+	name = "Rayma"
+	female = yes
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1207.5.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6032 = {
+	name = "Ruwa"
+	female = yes
+	dynasty = 6009
+	
+	father = 6009
+	mother = 6023
+	
+	culture = "sandman"
+	religion = "sunni"
+	
+	1237.4.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6033 = {
+	name = "Safiya"
+	female = yes
+	dynasty = 6013
+	
+	father = 6913
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1235.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6034 = {
+	name = "Shatha"
+	female = yes
+	dynasty = 6011
+	
+	father = 6011
+	mother = 6036
+	
+	culture = "sandman"
+	religion = "ibadi"
+	
+	1237.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6035 = {
+	name = "Siyafan"
+	female = yes
+	dynasty = 6017
+	
+	father = 6017
+	mother = 6025
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1237.7.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6036 = {
+	name = "Sulaha"
+	female = yes
+	
+	culture = "sandman"
+	religion = "ibadi"
+	
+	1207.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6037 = {
+	name = "Sur"
+	female = yes
+	dynasty = 6018
+	
+	father = 6918
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1236.3.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6038 = {
+	name = "Thanaikha"
+	female = yes
+	dynasty = 6021
+	
+	father = 6021
+	mother = 6031
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1237.9.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6039 = {
+	name = "Yasmin"
+	female = yes
+	dynasty = 6015
+	
+	father = 6015
+	mother = 6024
+	
+	culture = "sandman"
+	religion = "shiite"
+	
+	1237.6.25 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6040 = {
+	name = "Zahara"
+	female = yes
+	dynasty = 6008
+	
+	father = 6008
+	mother = 6028
+	
+	culture = "sarrdak"
+	religion = "shiite"
+	
+	1237.6.26 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+6041 = {
+	name = "Zandina"
+	female = yes
+	dynasty = 6016
+	
+	father = 6016
+	mother = 6029
+	
+	culture = "qardeb"
+	religion = "manichean"
+	
+	1237.7.26 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarchs
+6100 = {
+	name = "Ayzar" # Past Monarch Before Sultan Hakim
+	dynasty = 6001
+	
+	culture = "sarrdak"
+	religion = "sarrani"
+	
+	1183.5.1 = {
+		birth = yes
+	}
+	
+	1244.3.18 = {
+		death = yes
+	}
+}
+
+6101 = {
+	name = "Baybak" # Husband of Arwa the Pearled One & Uncle of Sultan Hakim
+	dynasty = 6000
+	
+	father = 6901
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1201.6.2 = {
+		birth = yes
+	}
+	
+	1248.5.11 = {
+		death = {
+		death_reason = death_battle
+		killer = 5100 # Janakir Khan
+		}
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+6900 = {
+	name = "Emir of" # Sultan Hakim's Line
+	dynasty = 6000
+	occluded = yes
+	
+	father = 6901
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+
+	1210.1.1 = {
+		birth = yes
+	}
+	
+	1240.1.1 = {
+		death = yes
+	}
+}
+
+6901 = {
+	name = "Emir of" # Baybak's Line
+	dynasty = 6000
+	occluded = yes
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1210.1.1 = {
+		death = yes
+	}
+}
+
+6903 = {
+	name = "Emir of Eastern Sarranids" # Atis & Nuam & Dhiyul's Line
+	occluded = yes
+	
+	culture = "sarrdak"
+	religion = "sarrani"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6905 = {
+	name = "Emir of" # Azadun's Line
+	dynasty = 6005
+	occluded = yes
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6909 = {
+	name = "Emir of Western Sarranids" # Ghanawa & Uqais & Nuwas' Line
+	occluded = yes
+	
+	culture = "sandman"
+	religion = "sarrani"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6910 = {
+	name = "Emir of" # Ghulassen's Line
+	dynasty = 6010
+	occluded = yes
+	
+	culture = "mushreg"
+	religion = "shiite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6911 = {
+	name = "Emir of Ahmerrad" # Mundhalir & Hamezan's Line
+	occluded = yes
+	
+	culture = "sandman"
+	religion = "sarrani"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6913 = {
+	name = "Emir of" # Lakhem's Line
+	dynasty = 6013
+	occluded = yes
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+6918 = {
+	name = "Emir of" # Quryas' Line
+	dynasty = 6018
+	occluded = yes
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

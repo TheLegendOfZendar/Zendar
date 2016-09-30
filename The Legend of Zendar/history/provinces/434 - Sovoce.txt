@@ -1,0 +1,22 @@
+# 434 - Sovoce
+
+# County Title
+title = c_sovoce
+
+# Settlements
+max_settlements = 1
+b_sovoce = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

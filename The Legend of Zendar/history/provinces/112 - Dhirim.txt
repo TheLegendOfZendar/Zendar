@@ -1,0 +1,26 @@
+# 112 - Dhirim
+
+# County Title
+title = c_dhirim
+
+# Settlements
+max_settlements = 5
+b_dhirim = castle
+b_monstagar = city
+b_esgad = temple
+#b_nelelar = castle
+#b_boauns = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

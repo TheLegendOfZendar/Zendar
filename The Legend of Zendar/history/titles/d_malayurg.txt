@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = e_narratribute
+	holder = 5006 #Brula Noyan
+	historical_nomad = yes
+}

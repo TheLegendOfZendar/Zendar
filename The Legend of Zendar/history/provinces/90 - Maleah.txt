@@ -1,0 +1,23 @@
+# 90 - Maleah
+
+# County Title
+title = c_maleah
+
+# Settlements
+max_settlements = 2
+b_maleah = castle
+#b_jelreaeza = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

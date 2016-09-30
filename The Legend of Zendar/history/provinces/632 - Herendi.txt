@@ -1,0 +1,25 @@
+# 632 - Herendi
+
+# County Title
+title = c_herendi
+
+# Settlements
+max_settlements = 4
+b_herendi = castle
+b_surwan = city
+#b_qubak = temple
+#b_nunwan = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

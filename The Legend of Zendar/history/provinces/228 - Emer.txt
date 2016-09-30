@@ -1,0 +1,24 @@
+# 228 - Emer
+
+# County Title
+title = c_emer
+
+# Settlements
+max_settlements = 3
+b_emer = castle
+b_ratnieth = city
+#b_neiheene = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = velucan
+	religion = calradic
+}

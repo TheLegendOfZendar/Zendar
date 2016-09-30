@@ -1,0 +1,23 @@
+# 672 - Shibal Zumr
+
+# County Title
+title = c_shibalzumr
+
+# Settlements
+max_settlements = 2
+b_shibalzumr = castle
+#b_teti = city
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = mushreg
+	religion = shiite
+}

@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 6021 #Emir Uqais
+	set_tribute_suzerain = { who = e_sarranid percentage = 0.40 }
+}

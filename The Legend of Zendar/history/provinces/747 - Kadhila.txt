@@ -1,0 +1,22 @@
+# 747 - Kadhila
+
+# County Title
+title = c_kadhila
+
+# Settlements
+max_settlements = 1
+b_kadhila = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = qardeb
+	religion = shiite
+}

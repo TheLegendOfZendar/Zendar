@@ -1,0 +1,22 @@
+# 707 - Bayipasa
+
+# County Title
+title = c_bayipasa
+
+# Settlements
+max_settlements = 1
+b_bayipasa = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = sandman
+	religion = shiite
+}

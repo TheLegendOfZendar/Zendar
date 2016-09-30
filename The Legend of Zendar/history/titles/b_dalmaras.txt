@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = k_yalentribute
+	holding_dynasty = 4015 #Dál Maras
+	holder = 4015 #Count Reland
+}

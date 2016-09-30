@@ -1,0 +1,22 @@
+# 759 - Al Annasyaf
+
+# County Title
+title = c_alannasyaf
+
+# Settlements
+max_settlements = 1
+b_alannasyaf = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sarrani
+}
+1100.1.1 = {
+	culture = sarrdak
+	religion = sarrani
+}

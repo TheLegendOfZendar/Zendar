@@ -1,0 +1,22 @@
+# 729 - Aab
+
+# County Title
+title = c_aab
+
+# Settlements
+max_settlements = 2
+b_aab = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = pashtan
+	religion = zoroastrian
+}

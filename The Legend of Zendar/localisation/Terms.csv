@@ -1,0 +1,36 @@
+empire_of;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+kingdom_of;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+duchy_of;Duchy of;Duché de;Herzogtum von;;Ducado de;;;;;;;;;x
+county_of;County of;Comté de;Grafschaft von;;Condado de;;;;;;;;;x
+barony_of;Barony of;Baronnie de;Baronie von;;Baronía de;;;;;;;;;x
+empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
+kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
+duchies;Duchies;Duchés;Herzogtümer;;Ducados;;;;;;;;;x
+counties;Counties;Comtés;Grafschaften;;Condados;;;;;;;;;x
+baronies;Baronies;Baronnies;Baronien;;Baronías;;;;;;;;;x
+city_empire_of;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_kingdom_of;Most Serene Republic of;République Sérénissime de;Höchst Durchlauchte Republik von;;La Serenísima república de;;;;;;;;;x
+city_duchy_of;Republic of;République de;Republik von;;República de;;;;;;;;;x
+city_county_of;Grand City of;Grande Cité de;Großstadt;;Ciudad de;;;;;;;;;x
+city_barony_of;Town of;Cité de;Stadt;;Villa de;;;;;;;;;x
+#OTHERS
+city;Town;Tributaire;Tributpflichtig;;Tributario;;;;;;;;;x;
+CHRONICLE_OF_HOUSE;The Chronicle of [GetOnlyDynastyName];Les Chroniques de la [GetOnlyDynastyName];Die Chronik des [GetOnlyDynastyName];;La Crónica de la [GetOnlyDynastyName];;;;;;;;;x
+CHRONICLE_START;This is the Chronicle of [Root.GetOnlyDynastyName], in which is contained the record of its yearly fortunes, glories and difficulties.;Voici les chroniques de la [Root.GetOnlyDynastyName], qui relatent la gloire, la fortune et les mésaventures des années passées.;Dies ist die Chronik des [Root.GetOnlyDynastyName], in der die Glücksfälle, der Ruhm und die Schwierigkeiten jeden Jahres verzeichnet sind.;;Esta es la Crónica de la [GetOnlyDynastyName], la cual contiene el registro de sus fortunas anuales, sus glorias y sus dificultades.;;;;;;;;;x
+CLAN_NAME;$DYNASTY$;$DYNASTY$;$DYNASTY$;;$DYNASTY$;;;;;;;;;x;
+DYNATREE_HOUSEOF;$HOUSENAME$;$HOUSENAME$;$HOUSENAME$;;$HOUSENAME$;;;;;;;;;x
+HOUSE;§Y;§Y;§Y;;§Y;;;;;;;;;x
+ONLY_ONE_TRIBAL;Only one village can be built at the same time in each county. You have to upgrade your village first if you want to build a new one.;Chaque comté ne peut héberger qu'une seule tribu.;In jeder Provinz kann nur ein Stamm leben.;;Sólo una tribu puede vivir en cada provincia.;;;;;;;;;x;
+temple_baron_nordic_pagan;Godi;Godi;Godi;;Godi;;;;;;;;;x
+temple_baron_nordic_pagan_reformed;Godi;Godi;Godi;;Godi;;;;;;;;;x
+temple_baron_steppe_pagan;Shaman;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_steppe_pagan_reformed;Shaman;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_taiga_pagan;Shaman;Chaman;Schamane;;Chamán;;;;;;;;;x
+temple_baron_taiga_pagan_reformed;Shaman;Chaman;Schamane;;Chamán;;;;;;;;;x
+tribal;Village;Tributaire;Tributpflichtig;;Tributario;;;;;;;;;x;
+TRIBAL;Village;Tributaire;Tributpflichtig;;Tributario;;;;;;;;;x;
+tribal_barony_of;Village of;Terres tribales de;Stammesland von;;Tierras Tribales de;;;;;;;;;x
+TRIBAL_NAME_PROV;Village of $PROV$;Tribu de $PROV$;Stamm der $PROV$;;Tribu de $PROV$;;;;;;;;;x
+TRIBAL_TITLE;§YTributary Title§! (cannot have de jure vassals);§YTributaire Title§! (ne peut avoir de vassaux de jure);§YTributpflichtig-Titel§! (kann keine rechtmäßigen Vasallen haben);;§YTributario Title§!  (no puede tener vasallos de jure);;;;;;;;;x
+TRIBAL_TITLE_DESC;Tributary Titles do not and cannot have de jure vassal titles. If a tributary chief gains control of a proper title of the same or higher rank, the tributary title will be destroyed forever.;Les titres tributaire ne possèdent pas de titre de vassal de jure et ne peuvent pas en obtenir. Si un chef tributaire prend le contrôle d'un titre valable d'un rang équivalent ou plus élevé, le titre tributaire sera détruit à jamais. ;Tributpflichtig-Titel können keine rechtmäßigen Vasallen-Titel haben. Wenn ein Tributpflichtig-häuptling die Kontrolle über einen richtigen Titel gleichen oder höheren Ranges erlangt, so wird der Tributpflichtig-Titel unwiderbringlich zerstört.;;Los Títulos Tributarios no tienen ni pueden tener vasallos con títulos de jure. Si un jefe tributario gana el control de un título propio del mismo rango o superior, el título tributario será destruido para siempre.;;;;;;;;;x
+TRIBAL_TITLE_DESTROYED_SETUP;Tributary Title Abandoned;Titre tributaire abandonné;Tributpflichtig-Titel aufgegeben;;Título Tributario Abandonado;;;;;;;;;x

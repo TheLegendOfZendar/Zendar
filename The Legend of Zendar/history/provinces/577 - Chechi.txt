@@ -1,0 +1,23 @@
+# 577 - Chechi
+
+# County Title
+title = c_chechi
+
+# Settlements
+max_settlements = 2
+b_chechi = tribal
+#b_marolekban = temple
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

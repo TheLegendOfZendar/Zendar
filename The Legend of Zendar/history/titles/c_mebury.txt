@@ -1,0 +1,4 @@
+1236.8.4={
+	holder = 1000 # King Harlaus
+	liege = d_praven
+}

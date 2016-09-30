@@ -1,0 +1,13 @@
+1160.1.1={
+	holder = 2101 # King Yaroglek
+	liege = d_reyvadin
+}
+1199.12.31={
+	holder = 2900 # King's Line
+}
+1216.6.22={
+	holder = 2100 # King Burelek
+}
+1220.4.11={
+	holder = 2000 # King Yaroglek II
+}

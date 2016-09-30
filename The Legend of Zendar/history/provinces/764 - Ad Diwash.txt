@@ -1,0 +1,22 @@
+# 764 - Ad Diwash
+
+# County Title
+title = c_addiwash
+
+# Settlements
+max_settlements = 1
+b_addiwash = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = pashtan
+	religion = zoroastrian
+}

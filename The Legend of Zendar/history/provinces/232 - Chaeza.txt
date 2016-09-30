@@ -1,0 +1,24 @@
+# 232 - Chaeza
+
+# County Title
+title = c_chaeza
+
+# Settlements
+max_settlements = 3
+b_chaeza = castle
+#b_graveleer = city
+#b_relene = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = velucan
+	religion = calradic
+}

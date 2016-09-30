@@ -1,0 +1,8 @@
+1232.1.1={
+	holder = 3000 #King Ragnar
+	set_tribute_suzerain = { who = e_nords percentage = 0.40 }
+}
+1245.3.13={
+	holder = 0
+	clear_tribute_suzerain = e_nords
+}

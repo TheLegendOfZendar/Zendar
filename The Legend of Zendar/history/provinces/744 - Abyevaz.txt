@@ -1,0 +1,22 @@
+# 744 - Abyevaz
+
+# County Title
+title = c_abyevaz
+
+# Settlements
+max_settlements = 1
+b_abyevaz = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = manichean
+}
+1100.1.1 = {
+	culture = qardeb
+	religion = manichean
+}

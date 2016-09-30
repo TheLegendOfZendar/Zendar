@@ -1,0 +1,23 @@
+# 159 - Rduna
+
+# County Title
+title = c_rduna
+
+# Settlements
+max_settlements = 2
+b_rduna = castle
+#b_arut = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

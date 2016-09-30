@@ -1,0 +1,1633 @@
+# NORDS:
+
+e_nords = {
+	color = { 51 221 221 }
+	color2 = { 0 0 0 }
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	
+	capital = 288 # Sargoth
+	
+	short_name = yes
+	name_tier = king
+	dynasty_title_names = no
+	
+	has_top_de_jure_capital = yes
+	
+	k_sargoth = {
+		color = { 50 115 165 }
+		color2 = { 255 255 255 }
+		
+		capital = 288 # Sargoth
+		
+		d_sargoth = {
+			color = { 49 223 222 }
+			color2 = { 255 255 255 }
+			
+			capital = 288 # Sargoth
+			
+			c_sargoth = {
+				color = { 49 223 222 }
+				color2 = { 255 255 255 }
+				
+				b_sargoth = {}
+				b_brurq = {}
+				b_naeirlin = {}
+				b_rayynn = {}
+				b_brbek = {}
+				b_egberhr = {}
+				b_aycuad = {}
+			}
+			c_germerge = {
+				color = { 8 219 217 }
+				color2 = { 255 255 255 }
+				
+				b_germerge = {}
+				b_afbek = {}
+				b_gian = {}
+				b_hakgi = {}
+				b_tueghr = {}
+				b_rihrsan = {}
+				b_kweirjeg = {}
+			}
+			c_asgardske = {
+				color = { 58 142 141 }
+				color2 = { 255 255 255 }
+				
+				b_asgardske = {}
+				b_hlsan = {}
+				b_bugi = {}
+				b_mebulvar = {}
+				b_ragjayda = {}
+				b_revar = {}
+				b_aean = {}
+			}
+			c_egerverg = {
+				color = { 8 126 125 }
+				color2 = { 255 255 255 }
+				
+				b_egerverg = {}
+				b_jelarr = {}
+				b_brcheg = {}
+				b_jarugi = {}
+				b_dehahr = {}
+				b_suraeurq = {}
+				b_marchen = {}
+			}
+			c_uddetalje = {
+				color = { 22 138 137 }
+				color2 = { 255 255 255 }
+				
+				b_uddetalje = {}
+				b_miynn = {}
+				b_gesan = {}
+				b_irurq = {}
+				b_werurq = {}
+				b_raywerrin = {}
+				b_kwgi = {}
+			}
+			c_borsund = {
+				color = { 42 196 194 }
+				color2 = { 255 255 255 }
+				
+				b_borsund = {}
+				b_fearin = {}
+				b_chgoth = {}
+				b_sarsim = {}
+				b_amchen = {}
+				b_tuodaen = {}
+				b_ingrog = {}
+			}
+		}
+		
+		d_ambean = {
+			color = { 15 153 153 }
+			color2 = { 255 255 255 }
+			
+			capital = 337 # Ambean
+			
+			c_ambean = {
+				color = { 15 153 153 }
+				color2 = { 255 255 255 }
+				
+				b_ambean = {}
+				b_svijeg = {}
+				b_reamkwzi = {}
+				b_cuolen = {}
+				b_driarr = {}
+				b_niynn = {}
+				b_lofasan = {}
+			}
+			c_rizekne = {
+				color = { 71 166 167 }
+				color2 = { 255 255 255 }
+				
+				b_rizekne = {}
+				b_mijeg = {}
+				b_knudreamynn = {}
+				b_hakgudbek = {}
+				b_werbek = {}
+				b_hlvajeg = {}
+				b_cujeg = {}
+			}
+			c_staitene = {
+				color = { 11 140 142 }
+				color2 = { 255 255 255 }
+				
+				b_staitene = {}
+				b_reamrin = {}
+				b_drtiarr = {}
+				b_raynajeg = {}
+				b_werfebek = {}
+				b_feagoth = {}
+				b_rayan = {}
+			}
+			c_silkininkai = {
+				color = { 8 98 99 }
+				color2 = { 255 255 255 }
+				
+				b_silkininkai = {}
+				b_eibek = {}
+				b_migerad = {}
+				b_bezi = {}
+				b_gead = {}
+				b_ragjeg = {}
+				b_feasvilen = {}
+			}
+		}
+		
+		d_fearichen = {
+			color = { 82 169 168 }
+			color2 = { 255 255 255 }
+			
+			capital = 371 # Fearichen
+			
+			c_fearichen = {
+				color = { 82 169 168 }
+				color2 = { 255 255 255 }
+				
+				b_fearichen = {}
+				b_knudsim = {}
+				b_irzi = {}
+				b_alfzi = {}
+				b_mezi = {}
+				b_egtearr = {}
+				b_kwan = {}
+			}
+			c_norrhammar = {
+				color = { 64 128 127 }
+				color2 = { 255 255 255 }
+				
+				b_norrhammar = {}
+				b_fechen = {}
+				b_lecheg = {}
+				b_kuvar = {}
+				b_cuan = {}
+				b_ragzi = {}
+				b_ragad = {}
+			}
+			c_norreve = {
+				color = { 36 90 89 }
+				color2 = { 255 255 255 }
+				
+				b_norreve = {}
+				b_irar = {}
+				b_eisim = {}
+				b_nijeg = {}
+				b_reamgi = {}
+				b_illin = {}
+				b_rusurynn = {}
+			}
+			c_gladsingor = {
+				color = { 52 200 198 }
+				color2 = { 255 255 255 }
+				
+				b_gladsingor = {}
+				b_bulen = {}
+				b_logeijeg = {}
+				b_diynn = {}
+				b_kwodaen = {}
+				b_olrin = {}
+				b_albynn = {}
+				
+			}
+		}
+		
+		d_fenada = {
+			color = { 0 191 189 }
+			color2 = { 255 255 255 }
+			
+			capital = 375 # Fenada
+			
+			c_fenada = {
+				color = { 0 191 189 }
+				color2 = { 255 255 255 }
+				
+				b_fenada = {}
+				b_sarurq = {}
+				b_chsan = {}
+				b_iltunde = {}
+				b_aegi = {}
+				b_niarr = {}
+				b_egda = {}
+			}
+			c_elva = {
+				color = { 16 152 150 }
+				color2 = { 255 255 255 }
+				
+				b_elva = {}
+				b_beweren = {}
+				b_rien = {}
+				b_gejeg = {}
+				b_kuus = {}
+				b_aeurq = {}
+				b_haurq = {}
+			}
+			c_karkhava = {
+				color = { 95 241 239 }
+				color2 = { 255 255 255 }
+				
+				b_karkhava = {}
+				b_svihr = {}
+				b_knudynn = {}
+				b_resurgi = {}
+				b_rihr = {}
+				b_jelgoth = {}
+				b_gudyevar = {}
+			}
+			c_grokile = {
+				color = { 69 227 225 }
+				color2 = { 255 255 255 }
+				
+				b_grokile = {}
+				b_buad = {}
+				b_loda = {}
+				b_logberad = {}
+				b_thhr = {}
+				b_tuzi = {}
+				b_olsim = {}
+			}
+		}
+		
+		d_curin = {
+			color = { 109 217 215 }
+			color2 = { 255 255 255 }
+			
+			capital = 389 # Curin
+			
+			c_curin = {
+				color = { 109 217 215 }
+				color2 = { 255 255 255 }
+				
+				b_curin = {}
+				b_fareamcheg = {}
+				b_gigit = {}
+				b_olus = {}
+				b_kaealbus = {}
+				b_arzi = {}
+				b_lous = {}
+			}
+			c_tarngi = {
+				color = { 28 123 154 }
+				color2 = { 255 255 255 }
+				
+				b_tarngi = {}
+				b_hrbrsan = {}
+				b_vaniarr = {}
+				b_logchen = {}
+				b_mirin = {}
+				b_ilchen = {}
+				b_kuan = {}
+			}
+			c_torkola = {
+				color = { 62 164 198 }
+				color2 = { 255 255 255 }
+				
+				b_torkola = {}
+				b_hergudlen = {}
+				b_dida = {}
+				b_afglulen = {}
+				b_loharrin = {}
+				b_odalen = {}
+				b_hrsim = {}
+			}
+			c_kousa = {
+				color = { 57 143 171 }
+				color2 = { 255 255 255 }
+				
+				b_kousa = {}
+				b_ragrin = {}
+				b_ilus = {}
+				b_rayrog = {}
+				b_reamgoth = {}
+				b_rayknudrin = {}
+				b_kaerog = {}
+			}
+			c_eglisnes = {
+				color = { 43 219 217 }
+				color2 = { 255 255 255 }
+				
+				b_eglisnes = {}
+				b_kulevar = {}
+				b_berhr = {}
+				b_eisurlen = {}
+				b_egsan = {}
+				b_ingdrus = {}
+				b_mararsan = {}
+			}
+		}
+		
+		d_kwynn = {
+			color = { 74 179 178 }
+			color2 = { 255 255 255 }
+			
+			capital = 386 # Kwynn
+			
+			c_kwynn = {
+				color = { 74 179 178 }
+				color2 = { 255 255 255 }
+				
+				b_kwynn = {}
+				b_jelhaken = {}
+				b_tuarr = {}
+				b_kaegoth = {}
+				b_girin = {}
+				b_hargoth = {}
+				b_rayad = {}
+			}
+			c_ballbaeka = {
+				color = { 57 176 175 }
+				color2 = { 255 255 255 }
+				
+				b_ballbaeka = {}
+				b_kwsim = {}
+				b_aeen = {}
+				b_dirog = {}
+				b_vagi = {}
+				b_alsan = {}
+				b_fafeaurq = {}
+			}
+			c_viring = {
+				color = { 54 143 142 }
+				color2 = { 255 255 255 }
+				
+				b_viring = {}
+				b_logoth = {}
+				b_thesvizi = {}
+				b_alben = {}
+				b_yezi = {}
+				b_udirin = {}
+				b_brurq = {}
+			}
+		}
+		
+		d_tehlrog = {
+			color = { 77 191 190 }
+			color2 = { 255 255 255 }
+			
+			capital = 381 # Tehlrog
+			
+			c_tehlrog = {
+				color = { 77 191 190 }
+				color2 = { 255 255 255 }
+				
+				b_tehlrog = {}
+				b_irglugi = {}
+				b_glueirlin = {}
+				b_hlbuus = {}
+				b_arurq = {}
+				b_turirin = {}
+				b_gudda = {}
+			}
+			c_dalnesi = {
+				color = { 99 174 173 }
+				color2 = { 255 255 255 }
+				
+				b_dalnesi = {}
+				b_chen = {}
+				b_faan = {}
+				b_favar = {}
+				b_thrin = {}
+				b_meeizi = {}
+				b_jelbead = {}
+			}
+			c_aksne = {
+				color = { 58 219 217 }
+				color2 = { 255 255 255 }
+				
+				b_aksne = {}
+				b_tuad = {}
+				b_surgoth = {}
+				b_than = {}
+				b_egnaynn = {}
+				b_gudjeg = {}
+				b_hllin = {}
+			}
+			c_akzekne = {
+				color = { 51 162 161 }
+				color2 = { 255 255 255 }
+				
+				b_akzekne = {}
+				b_irlen = {}
+				b_irli = {}
+				b_harjeg = {}
+				b_aelevar = {}
+				b_arafhr = {}
+				b_rius = {}
+			}
+			c_zagdas = {
+				color = { 113 184 183 }
+				color2 = { 255 255 255 }
+				
+				b_zagdas = {}
+				b_werad = {}
+				b_logbek = {}
+				b_niad = {}
+				b_ruynn = {}
+				b_hacheg = {}
+				b_nazi = {}
+			}
+		}
+		
+		d_vayejeg = {
+			color = { 28 128 127 }
+			color2 = { 255 255 255 }
+			
+			capital = 378 # Vayejeg
+			
+			c_vayejeg = {
+				color = { 28 128 127 }
+				color2 = { 255 255 255 }
+				
+				b_vayejeg = {}
+				b_feavar = {}
+				b_reamarr = {}
+				b_rida = {}
+				b_vasim = {}
+				b_drbean = {}
+				b_hrirlen = {}
+			}
+			c_vestlieth = {
+				color = { 18 131 130 }
+				color2 = { 255 255 255 }
+				
+				b_vestlieth = {}
+				b_mitieka = {}
+				b_deus = {}
+				b_bulbegi = {}
+				b_feainggoth = {}
+				b_debuus = {}
+				b_gegerog = {}
+			}
+			c_kekinen = {
+				color = { 31 121 120 }
+				color2 = { 255 255 255 }
+				
+				b_kekinen = {}
+				b_aezi = {}
+				b_hakjeg = {}
+				b_drhr = {}
+				b_raggi = {}
+				b_afvasim = {}
+				b_jelaechen = {}
+			}
+		}
+		
+		d_knudarr = {
+			color = { 56 146 147 }
+			color2 = { 255 255 255 }
+			
+			capital = 341 # Knudarr
+			
+			c_knudarr = {
+				color = { 56 146 147 }
+				color2 = { 255 255 255 }
+				
+				b_knudarr = {}
+				b_alflin = {}
+				b_glurog = {}
+				b_ragarr = {}
+				b_irchen = {}
+				b_hakus = {}
+				b_raytien = {}
+			}
+			c_sedliava = {
+				color = { 82 166 167 }
+				color2 = { 255 255 255 }
+				
+				b_sedliava = {}
+				b_yeeka = {}
+				b_deurq = {}
+				b_amgi = {}
+				b_cufeaurq = {}
+				b_jarog = {}
+				b_hldegi = {}
+			}
+			c_notodstrand = {
+				color = { 61 204 204 }
+				color2 = { 255 255 255 }
+				
+				b_notodstrand = {}
+				b_yejayan = {}
+				b_odarin = {}
+				b_chrin = {}
+				b_eirolcheg = {}
+				b_thirurq = {}
+				b_tiyegoth = {}
+			}
+			c_andalvanger = {
+				color = { 53 153 154 }
+				color2 = { 255 255 255 }
+				
+				b_andalvanger = {}
+				b_berzi = {}
+				b_culin = {}
+				b_odaen = {}
+				b_kaerog = {}
+				b_yebek = {}
+				b_iljeg = {}
+			}
+			c_falsterlleftea = {
+				color = { 10 110 111 }
+				color2 = { 255 255 255 }
+				
+				b_falsterlleftea = {}
+				b_thegoth = {}
+				b_bulrepul = {}
+				b_berugoth = {}
+				b_nian = {}
+				b_suregan = {}
+				b_kulen = {}
+			}
+		}
+		
+		d_mechin = {
+			color = { 47 171 172 }
+			color2 = { 255 255 255 }
+			
+			capital = 346 # Mechin
+			
+			c_mechin = {
+				color = { 47 171 172 }
+				color2 = { 255 255 255 }
+				
+				b_mechin = {}
+				b_harda = {}
+				b_throg = {}
+				b_hlamarr = {}
+				b_nirid = {}
+				b_jayarr = {}
+				b_chreamsim = {}
+			}
+			c_lidfors = {
+				color = { 36 179 179 }
+				color2 = { 255 255 255 }
+				
+				b_lidfors = {}
+				b_mecheg = {}
+				b_besan = {}
+				b_ilalbin = {}
+				b_leus = {}
+				b_knudgegoth = {}
+				b_ingvar = {}
+			}
+			c_thjornidalr = {
+				color = { 5 69 70 }
+				color2 = { 255 255 255 }
+				
+				b_thjornidalr = {}
+				b_lolif = {}
+				b_eicheg = {}
+				b_alrog = {}
+				b_aljelbek = {}
+				b_logus = {}
+				b_ayleurq = {}
+			}
+		}
+	}
+
+	k_tihr = {
+		color = { 165 165 205 }
+		color2 = { 255 255 255 }
+		
+		capital = 319 # Tihr
+		
+		d_tihr = {
+			color = { 149 230 228 }
+			color2 = { 255 255 255 }
+			
+			capital = 319 # Tihr
+			
+			c_tihr = {
+				color = { 149 230 228 }
+				color2 = { 255 255 255 }
+				
+				b_tihr = {}
+				b_rirog = {}
+				b_hernihr = {}
+				b_rayjelurq = {}
+				b_ayvar = {}
+				b_kusan = {}
+				b_kaeen = {}
+			}
+			c_raesekola = {
+				color = { 51 183 178 }
+				color2 = { 255 255 255 }
+				
+				b_raesekola = {}
+				b_haklin = {}
+				b_sarhrhr = {}
+				b_odaeizi = {}
+				b_logzi = {}
+				b_detilen = {}
+				b_jayarr = {}
+			}
+			c_vankeli = {
+				color = { 8 177 171 }
+				color2 = { 255 255 255 }
+				
+				b_vankeli = {}
+				b_werodaen = {}
+				b_svivar = {}
+				b_afen = {}
+				b_gudurq = {}
+				b_gilin = {}
+				b_argoth = {}
+			}
+			c_drangnes = {
+				color = { 45 229 223 }
+				color2 = { 255 255 255 }
+				
+				b_drangnes = {}
+				b_kuherbek = {}
+				b_belen = {}
+				b_jarid = {}
+				b_logrisan = {}
+				b_techeg = {}
+				b_bularr = {}
+			}
+			c_tjarnavik = {
+				color = { 21 203 197 }
+				color2 = { 255 255 255 }
+				
+				b_tjarnavik = {}
+				b_nacheg = {}
+				b_survabek = {}
+				b_tulin = {}
+				b_brrog = {}
+				b_margead = {}
+				b_jayjayvar = {}
+			}
+			c_kanvani = {
+				color = { 18 130 126 }
+				color2 = { 255 255 255 }
+				
+				b_kanvani = {}
+				b_afbek = {}
+				b_jayodali = {}
+				b_ruan = {}
+				b_endarr = {}
+				b_svialfzi = {}
+				b_namarsim = {}
+			}
+		}
+		
+		d_aldelen = {
+			color = { 12 154 152 }
+			color2 = { 255 255 255 }
+			
+			capital = 298 # Aldelen
+			
+			c_aldelen = {
+				color = { 12 154 152 }
+				color2 = { 255 255 255 }
+				
+				b_aldelen = {}
+				b_irrog = {}
+				b_berbek = {}
+				b_udihr = {}
+				b_naynn = {}
+				b_bulgi = {}
+				b_sviurq = {}
+			}
+			c_otejandi = {
+				color = { 70 140 139 }
+				color2 = { 255 255 255 }
+				
+				b_otejandi = {}
+				b_najajeg = {}
+				b_gunmelen = {}
+				b_beyn = {}
+				b_hlgoth = {}
+				b_albjasim = {}
+				b_digluen = {}
+			}
+			c_orimapio = {
+				color = { 55 212 210 }
+				color2 = { 255 255 255 }
+				
+				b_orimapio = {}
+				b_fefehr = {}
+				b_farog = {}
+				b_oleibek = {}
+				b_jelvar = {}
+				b_gerad = {}
+				b_ruad = {}
+			}
+			c_riihikia = {
+				color = { 58 133 132 }
+				color2 = { 255 255 255 }
+				
+				b_riihikia = {}
+				b_deollin = {}
+				b_beus = {}
+				b_irgegi = {}
+				b_kuen = {}
+				b_gunhaksim = {}
+				b_kugunda = {}
+			}
+		}
+		
+		d_haen = {
+			color = { 75 154 151 }
+			color2 = { 255 255 255 }
+			
+			capital = 325 # Haen
+			
+			c_haen = {
+				color = { 75 154 151 }
+				color2 = { 255 255 255 }
+				
+				b_haen = {}
+				b_odatheus = {}
+				b_dius = {}
+				b_demeynn = {}
+				b_alynn = {}
+				b_ferin = {}
+				b_diurq = {}
+			}
+			c_salaclozi = {
+				color = { 114 230 227 }
+				color2 = { 255 255 255 }
+				
+				b_salaclozi = {}
+				b_ilynn = {}
+				b_jacheg = {}
+				b_herus = {}
+				b_glualfarr = {}
+				b_ririn = {}
+				b_jayad = {}
+			}
+			c_radkis = {
+				color = { 65 208 203 }
+				color2 = { 255 255 255 }
+				
+				b_radkis = {}
+				b_eiaeda = {}
+				b_tealjeg = {}
+				b_dehr = {}
+				b_irda = {}
+				b_archeg = {}
+				b_hralfhr = {}
+			}
+			c_visatoji = {
+				color = { 76 188 184 }
+				color2 = { 255 255 255 }
+				
+				b_visatoji = {}
+				b_herjeg = {}
+				b_deleus = {}
+				b_eidrchen = {}
+				b_svigi = {}
+				b_drrog = {}
+				b_ragrugoth = {}
+			}
+		}
+		
+		d_kulum = {
+			color = { 26 225 223 }
+			color2 = { 255 255 255 }
+			
+			capital = 294 # Kulum
+			
+			c_kulum = {
+				color = { 26 225 223 }
+				color2 = { 255 255 255 }
+				
+				b_kulum = {}
+				b_ayloarr = {}
+				b_nirisan = {}
+				b_geaysan = {}
+				b_ingarr = {}
+				b_werbuen = {}
+				b_amus = {}
+			}
+			c_hadersted = {
+				color = { 77 153 152 }
+				color2 = { 255 255 255 }
+				
+				b_hadersted = {}
+				b_herad = {}
+				b_udiolynn = {}
+				b_jeljelcheg = {}
+				b_eirun = {}
+				b_surcuynn = {}
+				b_gethurq = {}
+			}
+			c_haderrupa = {
+				color = { 64 196 194 }
+				color2 = { 255 255 255 }
+				
+				b_haderrupa = {}
+				b_alfarr = {}
+				b_udirog = {}
+				b_ilbrgoth = {}
+				b_bejeg = {}
+				b_sarhr = {}
+				b_natezi = {}
+			}
+			c_torssi = {
+				color = { 22 159 157 }
+				color2 = { 255 255 255 }
+				
+				b_torssi = {}
+				b_kwyn = {}
+				b_arjeg = {}
+				b_thcheg = {}
+				b_cuarr = {}
+				b_alkaegi = {}
+				b_gunbek = {}
+			}
+		}
+		
+		d_buillin = {
+			color = { 83 166 164 }
+			color2 = { 255 255 255 }
+			
+			capital = 302 # Buillin
+			
+			c_buillin = {
+				color = { 83 166 164 }
+				color2 = { 255 255 255 }
+				
+				b_buillin = {}
+				b_ragen = {}
+				b_thynn = {}
+				b_svibek = {}
+				b_gudhr = {}
+				b_thean = {}
+				b_ayeirynn = {}
+			}
+			c_garethasandur = {
+				color = { 47 225 223 }
+				color2 = { 255 255 255 }
+				
+				b_garethasandur = {}
+				b_jelrog = {}
+				b_werchen = {}
+				b_yegi = {}
+				b_bergiia = {}
+				b_gluda = {}
+				b_feachen = {}
+			}
+			c_priekste = {
+				color = { 6 80 79 }
+				color2 = { 255 255 255 }
+				
+				b_priekste = {}
+				b_kwan = {}
+				b_loarr = {}
+				b_rugit = {}
+				b_ribek = {}
+				b_glulin = {}
+				b_ilsargoth = {}
+			}
+		}
+		
+		d_chalbek = {
+			color = { 8 251 248 }
+			color2 = { 255 255 255 }
+			
+			capital = 306 # Chalbek
+			
+			c_chalbek = {
+				color = { 8 251 248 }
+				color2 = { 255 255 255 }
+				
+				b_chalbek = {}
+				b_odawergi = {}
+				b_hlan = {}
+				b_harvar = {}
+				b_thebuvar = {}
+				b_irvar = {}
+				b_naar = {}
+			}
+			c_kybarzys = {
+				color = { 89 179 177 }
+				color2 = { 255 255 255 }
+				
+				b_kybarzys = {}
+				b_reamnde = {}
+				b_logia = {}
+				b_egrin = {}
+				b_deafhr = {}
+				b_hlirchen = {}
+				b_kuen = {}
+			}
+			c_lentvas = {
+				color = { 96 231 229 }
+				color2 = { 255 255 255 }
+				
+				b_lentvas = {}
+				b_alfvar = {}
+				b_raycheg = {}
+				b_ferayzi = {}
+				b_dilin = {}
+				b_riudijeg = {}
+				b_feeka = {}
+			}
+			c_sandgrunn = {
+				color = { 46 142 141 }
+				color2 = { 255 255 255 }
+				
+				b_sandgrunn = {}
+				b_jasim = {}
+				b_amarr = {}
+				b_reamkwbek = {}
+				b_reamynn = {}
+				b_weran = {}
+				b_thirlin = {}
+			}
+			c_ulsteinhelle = {
+				color = { 128 186 185 }
+				color2 = { 255 255 255 }
+				
+				b_ulsteinhelle = {}
+				b_gerar = {}
+				b_reammirun = {}
+				b_buruad = {}
+				b_kaedrarr = {}
+				b_ingolrin = {}
+				b_bead = {}
+			}
+		}
+		
+		d_rizi = {
+			color = { 32 201 199 }
+			color2 = { 255 255 255 }
+			
+			capital = 311 # Rizi
+			
+			c_rizi = {
+				color = { 32 201 199 }
+				color2 = { 255 255 255 }
+				
+				b_rizi = {}
+				b_rayingarr = {}
+				b_gudirvar = {}
+				b_kaebek = {}
+				b_brendrog = {}
+				b_cubek = {}
+				b_arad = {}
+			}
+			c_ayder = {
+				color = { 95 191 189 }
+				color2 = { 255 255 255 }
+				
+				b_ayder = {}
+				b_jayingsim = {}
+				b_reamfearog = {}
+				b_maran = {}
+				b_amgerog = {}
+				b_thus = {}
+				b_logkuchen = {}
+			}
+			c_vetsas = {
+				color = { 49 150 149 }
+				color2 = { 255 255 255 }
+				
+				b_vetsas = {}
+				b_knudjaynde = {}
+				b_rehaksim = {}
+				b_kaegersim = {}
+				b_ingendus = {}
+				b_ingchlin = {}
+				b_wersan = {}
+			}
+		}
+		
+		d_hrus = {
+			color = { 101 204 202 }
+			color2 = { 255 255 255 }
+			
+			capital = 314 # Hrus
+			
+			c_hrus = {
+				color = { 101 204 202 }
+				color2 = { 255 255 255 }
+				
+				b_hrus = {}
+				b_losim = {}
+				b_yecusim = {}
+				b_tegi = {}
+				b_bean = {}
+				b_vatiynn = {}
+				b_archen = {}
+			}
+			c_gladvrea = {
+				color = { 2 126 125 }
+				color2 = { 255 255 255 }
+				
+				b_gladvrea = {}
+				b_lelin = {}
+				b_gudeiad = {}
+				b_marynn = {}
+				b_aeda = {}
+				b_afcheg = {}
+				b_haherynn = {}
+			}
+			c_glokilde = {
+				color = { 31 229 227 }
+				color2 = { 255 255 255 }
+				
+				b_glokilde = {}
+				b_harun = {}
+				b_irrehr = {}
+				b_aegoth = {}
+				b_gudcheg = {}
+				b_wergluad = {}
+				b_egreamcheg = {}
+			}
+			c_valga = {
+				color = { 42 210 208 }
+				color2 = { 255 255 255 }
+				
+				b_valga = {}
+				b_afreamsan = {}
+				b_herbecheg = {}
+				b_drbersim = {}
+				b_amchem = {}
+				b_nasa = {}
+				b_deda = {}
+			}
+			c_elsalu = {
+				color = { 25 157 155 }
+				color2 = { 255 255 255 }
+				
+				b_elsalu = {}
+				b_bujabek = {}
+				b_fabesim = {}
+				b_deen = {}
+				b_riurq = {}
+				b_ticheg = {}
+				b_hlalfsa = {}
+			}
+		}
+		
+		d_jelbegiville = {
+			color = { 25 212 205 }
+			color2 = { 255 255 255 }
+			
+			capital = 329 # Jelbegiville
+			
+			c_jelbegiville = {
+				color = { 25 212 205 }
+				color2 = { 255 255 255 }
+				
+				b_jelbegiville = {}
+				b_knudan = {}
+				b_deknudad = {}
+				b_yesim = {}
+				b_brda = {}
+				b_febek = {}
+				b_divar = {}
+			}
+			c_langekanger = {
+				color = { 0 114 110 }
+				color2 = { 255 255 255 }
+				
+				b_langekanger = {}
+				b_surlin = {}
+				b_albek = {}
+				b_regi = {}
+				b_eichen = {}
+				b_ilknudzi = {}
+				b_oldilin = {}
+			}
+			c_farsos = {
+				color = { 14 131 127 }
+				color2 = { 255 255 255 }
+				
+				b_farsos = {}
+				b_becheg = {}
+				b_bren = {}
+				b_rejayzi = {}
+				b_marbek = {}
+				b_jachen = {}
+				b_bebek = {}
+			}
+		}
+		
+		d_jelbegi = {
+			color = { 71 153 154 }
+			color2 = { 255 255 255 }
+			
+			capital = 332 # Jelbegi
+			
+			c_jelbegi = {
+				color = { 71 153 154 }
+				color2 = { 255 255 255 }
+				
+				b_jelbegi = {}
+				b_digit = {}
+				b_jayjada = {}
+				b_aelin = {}
+				b_albdrchen = {}
+				b_amfaynn = {}
+				b_thsim = {}
+			}
+			c_koukoski = {
+				color = { 116 195 196 }
+				color2 = { 255 255 255 }
+				
+				b_koukoski = {}
+				b_alfbusim = {}
+				b_fanihr = {}
+				b_udigoth = {}
+				b_bran = {}
+				b_kwarr = {}
+				b_thalbek = {}
+			}
+			c_paitra = {
+				color = { 33 194 196 }
+				color2 = { 255 255 255 }
+				
+				b_paitra = {}
+				b_bureamsan = {}
+				b_glurigoth = {}
+				b_endhllin = {}
+				b_melin = {}
+				b_irdrgi = {}
+				b_cuhr = {}
+			}
+			c_eskifgerethi = {
+				color = { 47 149 150 }
+				color2 = { 255 255 255 }
+				
+				b_eskifgerethi = {}
+				b_hrircheg = {}
+				b_aygiurq = {}
+				b_loggluynn = {}
+				b_michus = {}
+				b_geralfarr = {}
+				b_gernde = {}
+			}
+			c_patreksnes = {
+				color = { 0 128 128 }
+				color2 = { 255 255 255 }
+				
+				b_patreksnes = {}
+				b_logcheg = {}
+				b_algihr = {}
+				b_surjelsan = {}
+				b_mien = {}
+				b_kwus = {}
+				b_amvar = {}
+			}
+		}
+	}
+
+	k_wercheg = {
+		color = { 155 155 155 }
+		color2 = { 255 255 255 }
+		
+		capital = 353 # Wercheg
+		
+		d_wercheg = {
+			color = { 100 208 207 }
+			color2 = { 255 255 255 }
+			
+			capital = 353 # Wercheg
+			
+			c_wercheg = {
+				color = { 100 208 207 }
+				color2 = { 255 255 255 }
+				
+				b_wercheg = {}
+				b_naalrin = {}
+				b_gunad = {}
+				b_werynn = {}
+				b_brfaurq = {}
+				b_surzi = {}
+				b_geiarr = {}
+			}
+			c_tarnleva = {
+				color = { 38 136 135 }
+				color2 = { 255 255 255 }
+				
+				b_tarnleva = {}
+				b_jaybulhr = {}
+				b_gerrog = {}
+				b_rigudurq = {}
+				b_yeth = {}
+				b_valen = {}
+				b_odaamlin = {}
+			}
+			c_keikula = {
+				color = { 33 205 203 }
+				color2 = { 255 255 255 }
+				
+				b_keikula = {}
+				b_tilin = {}
+				b_gluhild = {}
+				b_gungi = {}
+				b_logda = {}
+				b_marrog = {}
+				b_drzi = {}
+			}
+			c_kunluoja = {
+				color = { 71 155 154 }
+				color2 = { 255 255 255 }
+				
+				b_kunluoja = {}
+				b_ingafunn = {}
+				b_aeayarr = {}
+				b_ingrin = {}
+				b_vaarr = {}
+				b_fehabek = {}
+				b_rulen = {}
+			}
+			c_jarvenkaupunki = {
+				color = { 0 255 252 }
+				color2 = { 255 255 255 }
+				
+				b_jarvenkaupunki = {}
+				b_harrog = {}
+				b_harin = {}
+				b_jaytura = {}
+				b_albknudarr = {}
+				b_lehaan = {}
+				b_aealad = {}
+			}
+			c_kemijarvi = {
+				color = { 23 183 181 }
+				color2 = { 255 255 255 }
+				
+				b_kemijarvi = {}
+				b_disan = {}
+				b_becunde = {}
+				b_hlgi = {}
+				b_endsa = {}
+				b_ingegzi = {}
+				b_logbulen = {}
+			}
+		}
+		
+		d_odasan = {
+			color = { 53 201 203 }
+			color2 = { 255 255 255 }
+			
+			capital = 349 # Odasan
+			
+			c_odasan = {
+				color = { 53 201 203 }
+				color2 = { 255 255 255 }
+				
+				b_odasan = {}
+				b_kaegigi = {}
+				b_hrodaan = {}
+				b_eiarr = {}
+				b_thesim = {}
+				b_rucheg = {}
+				b_sarafrid = {}
+			}
+			c_ostinskali = {
+				color = { 24 198 200 }
+				color2 = { 255 255 255 }
+				
+				b_ostinskali = {}
+				b_amynn = {}
+				b_gudlin = {}
+				b_olsvilen = {}
+				b_ribuurq = {}
+				b_eirkwan = {}
+				b_logen = {}
+			}
+			c_gudmithveit = {
+				color = { 48 153 154 }
+				color2 = { 255 255 255 }
+				
+				b_gudmithveit = {}
+				b_ferog = {}
+				b_hakchen = {}
+				b_logjeg = {}
+				b_arlogi = {}
+				b_refeada = {}
+				b_odategoth = {}
+			}
+			c_svendbaeka = {
+				color = { 23 230 227 }
+				color2 = { 255 255 255 }
+				
+				b_svendbaeka = {}
+				b_berlin = {}
+				b_hlsa = {}
+				b_milin = {}
+				b_alfrog = {}
+				b_sarlin = {}
+				b_endodazi = {}
+			}
+		}
+		
+		d_ruvar = {
+			color = { 113 181 180 }
+			color2 = { 255 255 255 }
+			
+			capital = 359 # Ruvar
+			
+			c_ruvar = {
+				color = { 113 181 180 }
+				color2 = { 255 255 255 }
+				
+				b_ruvar = {}
+				b_ferun = {}
+				b_tisan = {}
+				b_riafgit = {}
+				b_werreamrin = {}
+				b_ingynn = {}
+				b_svius = {}
+			}
+			c_thinnir = {
+				color = { 17 148 146 }
+				color2 = { 255 255 255 }
+				
+				b_thinnir = {}
+				b_surgi = {}
+				b_dekwbek = {}
+				b_herzi = {}
+				b_gudsurus = {}
+				b_werus = {}
+				b_hlnisan = {}
+			}
+			c_thorskrokur = {
+				color = { 18 184 182 }
+				color2 = { 255 255 255 }
+				
+				b_thorskrokur = {}
+				b_udibek = {}
+				b_fasim = {}
+				b_gluegjeg = {}
+				b_jaarr = {}
+				b_berodahild = {}
+				b_irbek = {}
+			}
+			c_skrunmiera = {
+				color = { 41 204 202 }
+				color2 = { 255 255 255 }
+				
+				b_skrunmiera = {}
+				b_theilurq = {}
+				b_kulogrog = {}
+				b_fesvigoth = {}
+				b_reamsim = {}
+				b_kuhrda = {}
+				b_hergisim = {}
+			}
+		}
+		
+		d_jayek = {
+			color = { 42 200 198 }
+			color2 = { 255 255 255 }
+			
+			capital = 363 # Jayek
+			
+			c_jayek = {
+				color = { 42 200 198 }
+				color2 = { 255 255 255 }
+				
+				b_jayek = {}
+				b_egvar = {}
+				b_egnajeg = {}
+				b_sarrin = {}
+				b_egan = {}
+				b_gerjeg = {}
+				b_loggoth = {}
+			}
+			c_staipute = {
+				color = { 54 179 177 }
+				color2 = { 255 255 255 }
+				
+				b_staipute = {}
+				b_thar = {}
+				b_locheg = {}
+				b_knudgungoth = {}
+				b_ruhlgoth = {}
+				b_naferog = {}
+				b_farin = {}
+			}
+			c_anykkruojis = {
+				color = { 85 183 182 }
+				color2 = { 255 255 255 }
+				
+				b_anykkruojis = {}
+				b_hakhr = {}
+				b_ayen = {}
+				b_inghr = {}
+				b_hrsursim = {}
+				b_berkuunn = {}
+				b_gudberarr = {}
+			}
+		}
+		
+		d_alburq = {
+			color = { 18 121 120 }
+			color2 = { 255 255 255 }
+			
+			capital = 366 # Alburq
+			
+			c_alburq = {
+				color = { 18 121 120 }
+				color2 = { 255 255 255 }
+				
+				b_alburq = {}
+				b_sarjelen = {}
+				b_chnde = {}
+				b_berjeg = {}
+				b_alus = {}
+				b_odagit = {}
+				b_leurq = {}
+			}
+			c_taurdorys = {
+				color = { 5 87 86 }
+				color2 = { 255 255 255 }
+				
+				b_taurdorys = {}
+				b_resim = {}
+				b_gunli = {}
+				b_teharid = {}
+				b_behararr = {}
+				b_nabead = {}
+				b_arherynn = {}
+			}
+			c_setersoor = {
+				color = { 60 167 166 }
+				color2 = { 255 255 255 }
+				
+				b_setersoor = {}
+				b_rean = {}
+				b_besa = {}
+				b_harpul = {}
+				b_gerkwarr = {}
+				b_egsarad = {}
+				b_heralbchen = {}
+			}
+			c_hokkkanger = {
+				color = { 86 164 163 }
+				color2 = { 255 255 255 }
+				
+				b_hokkkanger = {}
+				b_rugi = {}
+				b_ingjahr = {}
+				b_afragar = {}
+				b_jande = {}
+				b_tiragda = {}
+				b_mararr = {}
+			}
+			c_bollberg = {
+				color = { 61 153 152 }
+				color2 = { 255 255 255 }
+				
+				b_bollberg = {}
+				b_varagynn = {}
+				b_riegsim = {}
+				b_giilth = {}
+				b_misurrin = {}
+				b_logtien = {}
+				b_dijelzi = {}
+			}
+		}
+		
+		d_jeirbe = {
+			color = { 236 220 198 }
+			color2 = { 255 255 255 }
+			
+			capital = 506 # Jeirbe
+			
+			c_jeirbe = {
+				color = { 236 220 198 }
+				color2 = { 255 255 255 }
+				
+				b_jeirbe = {}
+				b_albeggoth = {}
+				b_deynn = {}
+				b_arya = {}
+				b_deendpul = {}
+				b_nisan = {}
+				b_tithhr = {}
+			}
+			c_bardetva = {
+				color = { 190 175 155 }
+				color2 = { 255 255 255 }
+				
+				b_bardetva = {}
+				b_yedibek = {}
+				b_yefead = {}
+				b_aechad = {}
+				b_raylen = {}
+				b_hrchen = {}
+				b_ayynn = {}
+			}
+			c_statrutke = {
+				color = { 190 180 167 }
+				color2 = { 255 255 255 }
+				
+				b_statrutke = {}
+				b_geunn = {}
+				b_recheg = {}
+				b_beren = {}
+				b_sargi = {}
+				b_brra = {}
+				b_logyeth = {}
+			}
+			c_rimedza = {
+				color = { 138 126 107 }
+				color2 = { 255 255 255 }
+				
+				b_rimedza = {}
+				b_kwrog = {}
+				b_jaylen = {}
+				b_burin = {}
+				b_beia = {}
+				b_glupit = {}
+				b_egnar = {}
+			}
+			c_borca = {
+				color = { 242 219 183 }
+				color2 = { 255 255 255 }
+				
+				b_borca = {}
+				b_udilen = {}
+				b_yeen = {}
+				b_hadian = {}
+				b_rijeg = {}
+				b_tiynn = {}
+				b_ingar = {}
+			}
+		}
+		
+		d_mazen = {
+			color = { 225 213 195 }
+			color2 = { 255 255 255 }
+			
+			capital = 511 # Mazen
+			
+			c_mazen = {
+				color = { 225 213 195 }
+				color2 = { 255 255 255 }
+				
+				b_mazen = {}
+				b_ilsim = {}
+				b_jaynaynn = {}
+				b_alfarrir = {}
+				b_eirus = {}
+				b_udida = {}
+				b_geus = {}
+			}
+			c_linica = {
+				color = { 187 171 147 }
+				color2 = { 255 255 255 }
+				
+				b_linica = {}
+				b_lehaarr = {}
+				b_brar = {}
+				b_harfasa = {}
+				b_lejeg = {}
+				b_then = {}
+				b_jaychen = {}
+			}
+			c_belovce = {
+				color = { 217 195 164 }
+				color2 = { 255 255 255 }
+				
+				b_belovce = {}
+				b_harilan = {}
+				b_raybek = {}
+				b_eirurq = {}
+				b_tebelin = {}
+				b_nahlgoth = {}
+				b_hakjayjeg = {}
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+# 141 - Obenstein
+
+# County Title
+title = c_obenstein
+
+# Settlements
+max_settlements = 1
+b_obenstein = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

@@ -1,0 +1,25 @@
+# 639 - Weyyah
+
+# County Title
+title = c_weyyah
+
+# Settlements
+max_settlements = 4
+b_weyyah = castle
+b_zathasa = city
+#b_maryul = temple
+#b_aswan = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

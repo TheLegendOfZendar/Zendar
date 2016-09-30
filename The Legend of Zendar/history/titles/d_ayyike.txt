@@ -1,0 +1,4 @@
+1220.4.11={
+	holder = 2000 # King Yaroglek II
+	liege = k_reyvadin
+}

@@ -1,0 +1,22 @@
+# 511 - Mazen
+
+# County Title
+title = c_mazen
+
+# Settlements
+max_settlements = 1
+b_mazen = tribal
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = pirash
+	religion = orthodox
+}

@@ -1,0 +1,24 @@
+# 644 - Ayn Assuadi
+
+# County Title
+title = c_aynassuadi
+
+# Settlements
+max_settlements = 3
+b_aynassuadi = castle
+b_marye = city
+#b_weyin = temple
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

@@ -1,0 +1,23 @@
+# 405 - Hova
+
+# County Title
+title = c_hova
+
+# Settlements
+max_settlements = 2
+b_hova = castle
+#b_naltilmesh = city
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

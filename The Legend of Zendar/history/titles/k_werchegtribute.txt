@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 3012 #Jarl Irya
+	set_tribute_suzerain = { who = e_nords percentage = 0.40 }
+}

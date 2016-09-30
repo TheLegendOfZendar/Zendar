@@ -1,0 +1,22 @@
+# 70 - Saleah
+
+# County Title
+title = c_saleah
+
+# Settlements
+max_settlements = 1
+b_saleah = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

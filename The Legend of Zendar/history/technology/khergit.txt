@@ -1,0 +1,49 @@
+#KHERGIT
+
+technology = {
+	titles = {
+		d_halmar
+		d_ichamur
+		d_narra
+		d_tulga
+		d_asugan
+		d_distar
+		d_malayurg
+		d_sungetche
+		d_tulbuk
+		d_uhhun
+		d_unuzdaq
+		d_adakulun
+		d_amashke
+		d_bhulaban
+		d_bulugur
+		d_dashbigha
+		d_dirighaban
+		d_dugan
+		d_dusturil
+		d_kedelke
+		d_peshmi
+		d_tashkulun
+		d_tulbukville
+		d_uhhunville
+		d_zagush
+	}
+	
+	1060 = {
+		military = 0.5
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1200 = {
+		military = 3
+		economy = 2.5
+		culture = 2.5
+	}
+	
+	1453 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}

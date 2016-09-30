@@ -1,0 +1,25 @@
+# 88 - Vyincourd
+
+# County Title
+title = c_vyincourd
+
+# Settlements
+max_settlements = 4
+b_vyincourd = castle
+b_gharmerer = city
+#b_gevia = temple
+#b_gravner = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

@@ -1,0 +1,144 @@
+#######################################
+#
+# Roman Events
+#
+# Event ID LoR.1 - LoR.199 reserved
+#
+#######################################
+
+# Written by Henrik Eklund
+
+namespace = LoR
+
+### Victory Triumphs
+
+# Triumph Expected
+character_event = {
+	id = LoR.30
+	desc = EVTDESCLoR.30
+	picture = GFX_evt_victory_arch_byzantine
+	
+	hide_from = yes
+	
+	religion_group = christian
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		OR = {
+			has_landed_title = e_calradia
+		}
+	}
+	
+	option = {
+		name = EVTOPTALoR.30
+		character_event = { id = LoR.31 days = 12 tooltip = EVTTOOLTIPLoR.31 }
+		scaled_wealth = -0.3
+		prestige = 75
+	}
+	option = {
+		name = EVTOPTBLoR.30
+		scaled_wealth = -0.1
+		prestige = 25
+	}
+	option = {
+		name = EVTOPTCLoR.30
+		prestige = -30
+	}
+}
+
+# Triumph Held
+character_event = {
+	id = LoR.31
+	desc = EVTDESCLoR.31
+	picture = GFX_evt_victory_arch_byzantine
+	
+	hide_from = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTALoR.31
+		custom_tooltip = {
+			text = triumph_held
+			hidden_tooltip = {
+				any_realm_lord = {
+					limit = {
+						primary_title = { higher_tier_than = BARON }
+						NOT = { character = ROOT }
+					}
+					opinion = {
+						modifier = opinion_triumph_held
+						who = ROOT
+					}
+					character_event = { id = LoR.32 }
+				}
+			}
+		}
+	}
+}
+
+# Triumph Held Vassals
+character_event = {
+	id = LoR.32
+	desc = EVTDESCLoR.32
+	picture = GFX_evt_victory_arch_byzantine
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTALoR.32
+	}
+}
+
+### The Augustus Trait
+
+# Augustus Trait Gained
+character_event = {
+	id = LoR.45
+	desc = EVTDESCLoR.45
+	picture = GFX_evt_rome_restored_byzantine
+	
+	only_playable = yes
+	has_global_flag = rome_restored
+	has_dlc = "Legacy of Rome"
+	
+	trigger = {
+		has_landed_title = e_calradia
+		NOT = { trait = augustus }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.45
+		add_trait = augustus
+	}
+}
+
+# Augustus Trait Lost
+character_event = {
+	id = LoR.46
+	desc = EVTDESCLoR.46
+	picture = GFX_evt_rome_restored_byzantine
+	
+	has_dlc = "Legacy of Rome"
+	has_global_flag = rome_restored
+		
+	trigger = {
+		trait = augustus
+		NOT = { has_landed_title = e_calradia }
+		is_alive = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.46
+		remove_trait = augustus
+	}
+}

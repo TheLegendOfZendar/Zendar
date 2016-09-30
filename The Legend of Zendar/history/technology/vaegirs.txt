@@ -1,0 +1,54 @@
+#VAEGIR
+
+technology = {
+	titles = {
+		d_curaw
+		d_khudan
+		d_reyvadin
+		d_rivacheg
+		d_bulugha
+		d_dramug
+		d_ismirala
+		d_jeirbe
+		d_nelag
+		d_radoghir
+		d_slezkh
+		d_yruma
+		d_ayyike
+		d_bazeck
+		d_fisdnar
+		d_hanun
+		d_ismiralaville
+		d_karindi
+		d_mazen
+		d_rebache
+		d_shapeshte
+		d_shulus
+		d_slezkhville
+		d_sumbuja
+		d_tebandra
+		d_tismirr
+		d_udiniad
+		d_ulburban
+		d_uslum
+		d_vezin
+	}
+	
+	1060 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+	
+	1200 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1453 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

@@ -1,0 +1,7 @@
+1223.1.1={
+	holder = 4100 #Grunwalder - Rhodok Rebellion
+	law = succ_feudal_elective
+}
+1234.5.18={
+	holder = 4000 #King Graveth 
+}

@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_player_vaegirs
+	holder = 2 #Player of Vaegir
+}

@@ -1,0 +1,22 @@
+# 658 - Khabaroh
+
+# County Title
+title = c_khabaroh
+
+# Settlements
+max_settlements = 1
+b_khabaroh = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

@@ -1,0 +1,23 @@
+# 111 - Keroisy
+
+# County Title
+title = c_keroisy
+
+# Settlements
+max_settlements = 2
+b_keroisy = castle
+#b_ushet = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = miaphysite
+}

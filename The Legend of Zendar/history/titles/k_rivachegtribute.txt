@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 2012 # Boyar Meriga
+	set_tribute_suzerain = { who = e_vaegirs percentage = 0.40 }
+}

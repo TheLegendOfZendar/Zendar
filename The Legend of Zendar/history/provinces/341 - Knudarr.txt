@@ -1,0 +1,25 @@
+# 341 - Knudarr
+
+# County Title
+title = c_knudarr
+
+# Settlements
+max_settlements = 4
+b_knudarr = castle
+b_alflin = city
+#b_glurog = temple
+#b_ragarr = castle
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = argadish
+	religion = nordic_pagan
+}

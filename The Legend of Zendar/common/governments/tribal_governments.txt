@@ -1,0 +1,149 @@
+tribal_governments = {
+
+	tribal_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+			FORT
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			republic_government
+			merchant_republic_government
+			theocracy_government
+			muslim_government
+		}
+		vassal_call_to_arms = {
+			tribal_government
+		}
+		no_vassal_tax = {
+			tribal_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				culture_group = khergit
+				religion = steppe_pagan
+				religion = steppe_pagan_reformed
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			is_patrician = no
+			mercenary = no
+			holy_order = no
+		}
+		
+		color = { 92 31 23 }
+		
+		uses_decadence = yes
+		
+		allow_looting = yes
+		max_consorts = 3
+		ignores_de_jure_laws = yes
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = yes
+		can_build_tribal = yes
+		can_build_hospitals = no
+		can_change_to_nomad_on_start = yes
+		
+		demesne_size = 2
+		vassal_limit = -10
+	}
+	
+	seminomadic_government = {
+		preferred_holdings = { 
+			CASTLE
+			TRIBAL
+		}
+		allowed_holdings = {
+			CASTLE
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments_culture = { # Tribals have no opinion penalty towards their liege if of the same culture
+			feudal_government
+			muslim_government
+			tribal_government
+			nomadic_government
+		}
+		free_revoke_on_tiers = {
+			duke
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		vassal_call_to_arms = {
+			seminomadic_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_seminomadic"
+		title_prefix = "seminomadic_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			OR = {
+				culture_group = khergit
+				religion = steppe_pagan
+				religion = steppe_pagan_reformed
+			}
+			is_patrician = no
+		}
+		
+		color = { 255 127 0 }
+		
+		uses_decadence = yes
+		uses_piety_for_law_change = yes
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		have_gender_laws = no
+		allows_matrilineal_marriage = no
+		free_retract_vassalage = yes
+
+		free_levies_in_offensive_war = yes # Took away the hardcoded stuff for muslims where they could raise levies without pissing off vassals if in an offensive war.
+		
+		allow_looting = yes
+		max_consorts = 3
+		ignores_de_jure_laws = yes
+		
+		demesne_size = 2
+		vassal_limit = -10
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+}

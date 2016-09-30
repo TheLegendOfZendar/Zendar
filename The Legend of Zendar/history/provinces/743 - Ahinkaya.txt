@@ -1,0 +1,22 @@
+# 743 - Ahinkaya
+
+# County Title
+title = c_ahinkaya
+
+# Settlements
+max_settlements = 1
+b_ahinkaya = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = manichean
+}
+1100.1.1 = {
+	culture = qardeb
+	religion = manichean
+}

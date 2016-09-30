@@ -1,0 +1,22 @@
+# 571 - Qora
+
+# County Title
+title = c_qora
+
+# Settlements
+max_settlements = 1
+b_qora = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = ergenek
+	religion = steppe_pagan
+}

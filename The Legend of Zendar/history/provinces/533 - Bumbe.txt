@@ -1,0 +1,22 @@
+# 533 - Bumbe
+
+# County Title
+title = c_bumbe
+
+# Settlements
+max_settlements = 1
+b_bumbe = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = nomadic
+	religion = steppe_pagan
+}

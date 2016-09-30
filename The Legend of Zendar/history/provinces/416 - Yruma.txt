@@ -1,0 +1,25 @@
+# 416 - Yruma
+
+# County Title
+title = c_yruma
+
+# Settlements
+max_settlements = 4
+b_yruma = castle
+b_banbeldi = city
+#b_vatezkh = temple
+#b_yisaban = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

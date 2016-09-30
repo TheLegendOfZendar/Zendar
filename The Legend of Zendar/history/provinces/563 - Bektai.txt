@@ -1,0 +1,22 @@
+# 563 - Bektai
+
+# County Title
+title = c_bektai
+
+# Settlements
+max_settlements = 1
+b_bektai = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = bozkirian
+	religion = steppe_pagan
+}

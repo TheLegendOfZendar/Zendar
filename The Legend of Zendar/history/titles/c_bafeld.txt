@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1010 # Count Klargus
+	liege = d_suno
+}

@@ -1,0 +1,19 @@
+#############################################
+# CHARACTER NICKNAMES
+# Independent dukes, kings and emperors only
+#
+# 'factor' is the percentage per year of 
+# gaining the nickname
+#
+#############################################
+
+# TRIGGERED ONLY
+################
+
+nick_del_casa_de_veluca = {}
+nick_far_seeker = {}
+nick_khan = {}
+nick_of_suno = {}
+nick_the_adopted = {}
+nick_the_pearled_one = {}
+nick_the_shrubber = {}

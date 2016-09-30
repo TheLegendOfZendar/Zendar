@@ -1,0 +1,24 @@
+# 28 - Veidar
+
+# County Title
+title = c_veidar
+
+# Settlements
+max_settlements = 3
+b_veidar = castle
+#b_irein = city
+#b_liderru = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = swadian
+	religion = calradic
+}

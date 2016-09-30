@@ -1,0 +1,23 @@
+# 74 - Bacot
+
+# County Title
+title = c_bacot
+
+# Settlements
+max_settlements = 2
+b_bacot = castle
+#b_tino = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

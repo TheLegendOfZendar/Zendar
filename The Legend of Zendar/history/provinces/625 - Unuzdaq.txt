@@ -1,0 +1,23 @@
+# 625 - Unuzdaq
+
+# County Title
+title = c_unuzdaq
+
+# Settlements
+max_settlements = 4
+b_unuzdaq = castle
+b_chagur = temple
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = jewish
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = jewish
+}

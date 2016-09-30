@@ -1,0 +1,22 @@
+# 704 - Banisab
+
+# County Title
+title = c_banisab
+
+# Settlements
+max_settlements = 1
+b_banisab = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

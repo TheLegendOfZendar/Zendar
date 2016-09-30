@@ -1,0 +1,147 @@
+#bm_the_bannerlord = {
+#	name = "BM_THE_BANNERLORD"
+#	desc = "BM_THE_BANNERLORD_DESC"
+#	date = 1060.3.20
+#	
+#	era = yes						## Will be shown on Era screen.
+#	picture = GFX_pick_era_image_2
+#}
+#
+#bm_the_warrider = {
+#	name = "BM_THE_WARRIDER"
+#	desc = "BM_THE_WARRIDER_DESC"
+#	date = 1187.1.1
+#	
+#	era = yes						## Will be shown on Era screen.
+#	picture = GFX_pick_era_image_1
+#}
+#
+#bm_rhodok_rebellion = {
+#	name = "BM_RHODOK_REBELLION"
+#	desc = "BM_RHODOK_REBELLION_DESC"
+#	date = 1223.10.29
+#	
+#	era = yes						## Will be shown on Era screen.
+#	picture = GFX_pick_era_image_3
+#}
+
+bm_the_warband = {
+	name = "BM_THE_WARBAND"
+	desc = "BM_THE_WARBAND_DESC"
+	date = 1257.3.23
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_4
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+	
+	selectable_character = {
+		id = 1 # King Harlaus of Swadia
+		age = 58
+		name = ERA_CHAR_NAME_1
+		title = e_swadia
+		title_name = e_swadia
+		
+		character = {
+			dna = bgdcbtbdgbc
+			properties = ec00a000000000
+			culture="swadian"
+			religion="calradic"
+			government = feudal_government
+			dynasty=1000
+		}
+	}
+	
+	selectable_character = {
+		id = 2 # Grand Prince Yaroglek of Vaegirs
+		age = 53
+		name = ERA_CHAR_NAME_2
+		title = e_vaegirs
+		title_name = e_vaegirs
+		
+		character = {
+			dna = afdddddbbct
+			properties = ao0bb000000000
+			culture="vadynian"
+			religion="orthodox"
+			government = feudal_government
+			dynasty=2000
+		}
+	}
+	
+	selectable_character = {
+		id = 5 # Khan Sanjar of Khergit
+		age = 50
+		name = ERA_CHAR_NAME_5
+		title = e_khergit
+		title_name = e_khergit
+		
+		character = {
+			dna = cjgbjcbeaad
+			properties = gc0bed00000000
+			culture="nomadic"
+			religion="steppe_pagan"
+			government = nomadic_government
+			dynasty=5000
+		}
+	}
+	
+	selectable_character = {
+		id = 3 # Konungr Ragnar of Nords
+		age = 44
+		name = ERA_CHAR_NAME_3
+		title = e_nords
+		title_name = e_nords
+		
+		character = {
+			dna = addbfhieeco
+			properties = aa0ba000000000
+			culture="argadish"
+			religion="nordic_pagan"
+			government = feudal_government
+			dynasty=3000
+		}
+	}
+	
+	selectable_character = {
+		id = 4 # High King Graveth of Rhodoks
+		age = 52
+		name = ERA_CHAR_NAME_4
+		title = e_rhodoks
+		title_name = e_rhodoks
+		
+		character = {
+			dna = bddhjhjbaai
+			properties = ac0bmd00000000
+			culture="rhodok"
+			religion="calradic"
+			government = merchant_republic_government
+			dynasty=4000
+		}
+	}
+	
+	selectable_character = {
+		id = 6 # Sultan Hakim of Sarranid
+		age = 28
+		name = ERA_CHAR_NAME_6
+		title = e_sarranid
+		title_name = e_sarranid
+		
+		character = {
+			dna = acihcijdbdk
+			properties = jm0bf000000000
+			culture="bezanian"
+			religion="shiite"
+			government = muslim_government
+			dynasty=6000
+		}
+	}
+}
+
+#bm_calradia_1267 = {
+#	name = "BM_CALRADIA_1267"
+#	desc = "BM_CALRADIA_1267_DESC"
+#	date = 1267.3.23
+#	
+#	era = yes						## Will be shown on Era screen.
+#	picture = GFX_pick_era_image_5
+#}

@@ -1,0 +1,24 @@
+# 3 - Mebury
+
+# County Title
+title = c_mebury
+
+# Settlements
+max_settlements = 3
+b_mebury = castle
+#b_sarmarr = city
+#b_baour = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = swadian
+	religion = calradic
+}

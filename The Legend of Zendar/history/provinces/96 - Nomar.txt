@@ -1,0 +1,24 @@
+# 96 - Nomar
+
+# County Title
+title = c_nomar
+
+# Settlements
+max_settlements = 3
+b_nomar = castle
+#b_hardah = city
+#b_isisrd = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

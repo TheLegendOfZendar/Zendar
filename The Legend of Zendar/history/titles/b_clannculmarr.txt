@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = k_yalentribute
+	holding_dynasty = 4003 #Clann Culmarr
+	holder = 4003 #Count Falsevor
+}

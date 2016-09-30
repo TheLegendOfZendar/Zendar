@@ -1,0 +1,445 @@
+feudal_governments = {
+
+	feudal_government = {
+		preferred_holdings = { 
+			CASTLE 
+			CITY
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CASTLE 
+			CITY
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			muslim_government
+			imperial_government
+			confederation_government
+			citystate_government
+			satrapy_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = norse_pagan_reformed }
+			}
+			NOR = {
+				religion_group = muslim
+				religion_group = zoroastrian_group
+				religion = steppe_pagan
+				religion = steppe_pagan_reformed
+				religion = zun_pagan
+				religion = zun_pagan_reformed
+				culture = imperial
+				culture = lowlander
+				culture = iyenn
+				culture = rhodok
+				culture = velucan
+				culture_group = khergit
+				culture_group = sarranid
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 91 133 207 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+	
+	muslim_government = {
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE
+			TEMPLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			imperial_government
+			confederation_government
+			citystate_government
+			satrapy_government
+		}
+		free_revoke_on_tiers = {
+			duke
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_iqta"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				culture_group = khergit
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			religion_group = muslim
+			is_patrician = no
+		}
+		
+		color = { 10 138 57 }
+		
+		uses_decadence = yes
+		uses_piety_for_law_change = yes
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		have_gender_laws = no
+		allows_matrilineal_marriage = no
+		free_retract_vassalage = yes
+
+		free_levies_in_offensive_war = yes # Took away the hardcoded stuff for muslims where they could raise levies without pissing off vassals if in an offensive war.
+
+		can_build_tribal = no
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+
+	imperial_government = {
+		preferred_holdings = { 
+			CASTLE
+			CITY
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CASTLE
+			CITY
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			muslim_government
+			confederation_government
+			citystate_government
+			satrapy_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_imperial"
+		title_prefix = "imperial_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				religion_group = muslim
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			AND = {
+				culture = imperial
+				OR = {
+					religion_group = christian
+					religion = calradian_pagan
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 102 2 60 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+
+	confederation_government = {
+		preferred_holdings = { 
+			CASTLE
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CASTLE
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			muslim_government
+			imperial_government
+			citystate_government
+			satrapy_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_confederation"
+		title_prefix = "confederation_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				religion_group = muslim
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			AND = {
+				OR = {
+					culture = lowlander
+					culture = iyenn
+				}
+				OR = {
+					religion_group = christian
+					religion = calradian_pagan
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 191 10 48 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+
+	citystate_government = {
+		preferred_holdings = { 
+			CITY
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CITY
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			muslim_government
+			imperial_government
+			satrapy_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_citystate"
+		title_prefix = "citystate_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				religion_group = muslim
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			AND = {
+				OR = {
+					culture = rhodok
+					culture = velucan
+				}
+				OR = {
+					religion_group = christian
+					religion = calradian_pagan
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 0 255 239 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+
+	satrapy_government = {
+		preferred_holdings = { 
+			CASTLE
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CASTLE
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			muslim_government
+			imperial_government
+			citystate_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_satrapy"
+		title_prefix = "satrapy_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			NOR = {
+				religion_group = muslim
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			AND = {
+				culture_group = sarranid
+				OR = {
+					religion_group = zoroastrian_group
+					religion = zun_pagan
+					religion = zun_pagan_reformed
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 255 255 0 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+
+	warband_government = {
+		preferred_holdings = { 
+			CASTLE
+			CITY
+			TRIBAL
+		}
+		allowed_holdings = { 
+			CASTLE
+			CITY
+			TRIBAL
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			feudal_government
+			muslim_government
+			imperial_government
+			citystate_government
+			satrapy_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_warband"
+		title_prefix = "warband_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+				NOT = { religion = nordic_pagan_reformed }
+			}
+			OR = {
+				landless = yes
+				any_demesne_title = { 
+					OR = {
+						mercenary = yes
+						holy_order = yes
+					}
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 128 128 128 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+	}
+}

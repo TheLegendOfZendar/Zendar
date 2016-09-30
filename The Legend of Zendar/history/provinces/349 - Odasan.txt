@@ -1,0 +1,24 @@
+# 349 - Odasan
+
+# County Title
+title = c_odasan
+
+# Settlements
+max_settlements = 3
+b_odasan = tribal
+#b_kaegigi = temple
+#b_hrodaan = city
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = alaish
+	religion = nordic_pagan
+}

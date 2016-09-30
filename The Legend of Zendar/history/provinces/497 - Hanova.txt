@@ -1,0 +1,22 @@
+# 497 - Hanova
+
+# County Title
+title = c_hanova
+
+# Settlements
+max_settlements = 1
+b_hanova = tribal
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = tundran
+	religion = taiga_pagan
+}

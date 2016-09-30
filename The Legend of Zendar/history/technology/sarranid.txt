@@ -1,0 +1,56 @@
+#SARRANID
+
+technology = {
+	titles = {
+		d_ahmerrad
+		d_bariyye
+		d_durquba
+		d_shariz
+		d_bardaq
+		d_caraf
+		d_durrin
+		d_jameyyed
+		d_samarra
+		d_sharwa
+		d_teremma
+		d_weyyah
+		d_aab
+		d_aynassuadi
+		d_dhibbain
+		d_fishara
+		d_habba
+		d_hawaha
+		d_iqbayl
+		d_mawiti
+		d_mazigh
+		d_mijayet
+		d_mitnun
+		d_qalyut
+		d_rushdigh
+		d_sekhtem
+		d_shibalzumr
+		d_tamnuh
+		d_tazjunat
+		d_tilimsal
+		d_unriya
+		d_uzgha
+	}
+	
+	1060 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+
+	1200 = {
+		military = 0.5
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1453 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = e_ichamurtribute
+	holder = 5012 #Kramuk Noyan
+	historical_nomad = yes
+}

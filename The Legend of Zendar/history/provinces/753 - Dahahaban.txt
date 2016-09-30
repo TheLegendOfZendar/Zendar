@@ -1,0 +1,22 @@
+# 753 - Dahahaban
+
+# County Title
+title = c_dahahaban
+
+# Settlements
+max_settlements = 3
+b_dahahaban = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sarrani
+}
+1100.1.1 = {
+	culture = sarrdak
+	religion = sarrani
+}

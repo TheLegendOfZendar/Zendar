@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = e_nords
+	holder = 3 #Player of Nordland
+}

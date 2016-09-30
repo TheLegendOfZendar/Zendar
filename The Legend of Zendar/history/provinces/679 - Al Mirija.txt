@@ -1,0 +1,23 @@
+# 679 - Al Mirija
+
+# County Title
+title = c_almirija
+
+# Settlements
+max_settlements = 2
+b_almirija = castle
+#b_ghuun = city
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

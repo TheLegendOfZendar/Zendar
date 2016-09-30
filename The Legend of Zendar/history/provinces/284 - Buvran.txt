@@ -1,0 +1,24 @@
+# 284 - Buvran
+
+# County Title
+title = c_buvran
+
+# Settlements
+max_settlements = 3
+b_buvran = castle
+#b_asles = city
+#b_ilbaoiar = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = rhodok
+	religion = calradic
+}

@@ -1,0 +1,25 @@
+# 635 - Bijadoab
+
+# County Title
+title = c_bijadoab
+
+# Settlements
+max_settlements = 4
+b_bijadoab = castle
+b_ryrad = city
+#b_maiqriz = temple
+#b_diya = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

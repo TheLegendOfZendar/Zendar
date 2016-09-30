@@ -1,0 +1,24 @@
+# 298 - Aldelen
+
+# County Title
+title = c_aldelen
+
+# Settlements
+max_settlements = 3
+b_aldelen = tribal
+b_irrog = temple
+#b_berbek = city
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = gundigian
+	religion = calradic
+}

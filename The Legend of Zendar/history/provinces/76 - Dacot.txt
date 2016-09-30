@@ -1,0 +1,23 @@
+# 76 - Dacot
+
+# County Title
+title = c_dacot
+
+# Settlements
+max_settlements = 2
+b_dacot = castle
+#b_degrduerl = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

@@ -1,0 +1,23 @@
+# 439 - Kaparta
+
+# County Title
+title = c_kaparta
+
+# Settlements
+max_settlements = 2
+b_kaparta = tribal
+#b_shudi = temple
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = taiga_pagan
+}

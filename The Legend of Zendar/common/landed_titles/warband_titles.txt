@@ -1,0 +1,406 @@
+######################################
+#     Historical Player Factions     #
+######################################
+
+# PLAYERS:
+
+d_player_swadia = {
+	color = { 238 117 66 }
+	color2 = { 0 0 0 }
+	
+	capital = 2 # Praven
+	
+	# Hire Trigger
+	allow = { culture_group = calrad }
+	
+	# Parent Religion 
+	culture = swadian
+	religion = calradic
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_swadia = {
+	color = { 238 117 66 }
+	color2 = { 0 0 0 }
+	
+	capital = 2 # Praven
+	
+	# Hire Trigger
+	allow = { culture_group = calrad }
+	
+	# Parent Religion 
+	culture = swadian
+	religion = calradic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+d_player_vaegirs = {
+	color = { 204 187 153 }
+	color2 = { 0 0 0 }
+	
+	capital = 394 # Reyvadin
+	
+	# Hire Trigger
+	allow = { culture_group = vaegir }
+	
+	# Parent Religion 
+	culture = vadynian
+	religion = orthodox
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_vaegirs = {
+	color = { 204 187 153 }
+	color2 = { 0 0 0 }
+	
+	capital = 394 # Reyvadin
+	
+	# Hire Trigger
+	allow = { culture_group = vaegir }
+	
+	# Parent Religion 
+	culture = vadynian
+	religion = orthodox
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+d_player_nords = {
+	color = { 51 221 221 }
+	color2 = { 0 0 0 }
+	
+	capital = 288 # Sargoth
+	
+	# Hire Trigger
+	allow = { culture_group = nord }
+	
+	# Parent Religion 
+	culture = argadish
+	religion = nordic_pagan
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_nords = {
+	color = { 51 221 221 }
+	color2 = { 0 0 0 }
+	
+	capital = 288 # Sargoth
+	
+	# Hire Trigger
+	allow = { culture_group = nord }
+	
+	# Parent Religion 
+	culture = argadish
+	religion = nordic_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+d_player_rhodoks = {
+	color = { 51 221 51 }
+	color2 = { 0 0 0 }
+	
+	capital = 274 # Jelkala
+	
+	# Hire Trigger
+	allow = { culture_group = calrad }
+	
+	# Parent Religion 
+	culture = rhodok
+	religion = calradic
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_rhodoks = {
+	color = { 51 221 51 }
+	color2 = { 0 0 0 }
+	
+	capital = 274 # Jelkala
+	
+	# Hire Trigger
+	allow = { culture_group = calrad }
+	
+	# Parent Religion 
+	culture = rhodok
+	religion = calradic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+d_player_khergit = {
+	color = { 134 75 189 }
+	color2 = { 0 0 0 }
+	
+	capital = 522 # Tulga
+	
+	# Hire Trigger
+	allow = { culture_group = khergit }
+	
+	# Parent Religion 
+	culture = nomadic
+	religion = steppe_pagan
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_khergit = {
+	color = { 134 75 189 }
+	color2 = { 0 0 0 }
+	
+	capital = 522 # Tulga
+	
+	# Hire Trigger
+	allow = { culture_group = khergit }
+	
+	# Parent Religion 
+	culture = nomadic
+	religion = steppe_pagan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+d_player_sarranid = {
+	color = { 221 221 51 }
+	color2 = { 0 0 0 }
+	
+	capital = 630 # Shariz
+	
+	# Hire Trigger
+	allow = { culture_group = sarranid }
+	
+	# Parent Religion 
+	culture = bezanian
+	religion = shiite
+	
+	tribe = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+c_player_sarranid = {
+	color = { 221 221 51 }
+	color2 = { 0 0 0 }
+	
+	capital = 630 # Shariz
+	
+	# Hire Trigger
+	allow = { culture_group = sarranid }
+	
+	# Parent Religion 
+	culture = bezanian
+	religion = shiite
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = player_faction
+}
+
+######################################
+#    Historical Mercenary Titles     #
+######################################
+
+# SWADIA:
+
+d_knights_of_ni = {
+	color = { 58 83 44 }
+	color2 = { 241 184 45 }
+	
+	capital = 88 # Vyincourd
+	
+	# Hire Trigger
+	allow = { culture_group = calrad }
+	
+	# Parent Religion 
+	culture = vlandian
+	religion = calradic
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.00
+	
+	# Extra income due to banking, etc
+	monthly_income = 5 # (Must be an integer between 1 and 512)
+	
+	mercenary_type = knights_who_say_ni
+}

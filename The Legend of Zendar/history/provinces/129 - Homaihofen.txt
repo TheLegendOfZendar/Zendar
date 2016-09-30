@@ -1,0 +1,22 @@
+# 129 - Homaihofen
+
+# County Title
+title = c_homaihofen
+
+# Settlements
+max_settlements = 1
+b_homaihofen = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

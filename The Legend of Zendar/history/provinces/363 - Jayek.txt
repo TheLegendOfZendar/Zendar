@@ -1,0 +1,23 @@
+# 363 - Jayek
+
+# County Title
+title = c_jayek
+
+# Settlements
+max_settlements = 2
+b_jayek = tribal
+#b_egvar = temple
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = alaish
+	religion = nordic_pagan
+}

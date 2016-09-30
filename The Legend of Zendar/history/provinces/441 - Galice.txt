@@ -1,0 +1,22 @@
+# 441 - Galice
+
+# County Title
+title = c_galice
+
+# Settlements
+max_settlements = 1
+b_galice = tribal
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = taiga_pagan
+}

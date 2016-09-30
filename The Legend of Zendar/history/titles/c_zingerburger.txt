@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1008 # Count Grainwad
+	liege = d_reindi
+}

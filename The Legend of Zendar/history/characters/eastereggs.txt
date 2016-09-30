@@ -1,0 +1,193 @@
+10000 = {
+	name = "Savas"
+	dynasty = 10000
+	
+	culture = "ergenek"
+	religion = "sunni"
+	
+	diplomacy = 7
+	martial = 11
+	stewardship = 8
+	intrigue = 6
+	learning = 10
+	
+	trait = "skilled_tactician"
+	trait = "aggressive_leader"
+	trait = "experimenter"
+	trait = "gamer"
+	trait = "slothful"
+	trait = "kind"
+	trait = "shy"
+	trait = "trusting"
+	trait = "erudite"
+	trait = "adventurer"
+	
+	disallow_random_traits = yes
+	
+	1237.1.14 = {
+		birth = yes
+	}
+	
+	1257.1.1 = {
+		add_spouse = 10001
+		employer = 5006
+		effect = {
+			give_job_title = job_marshal
+		}
+	}
+	
+	1297.1.1 = {
+		death = yes
+	}
+}
+
+10001 = {
+	name = "Esen"
+	female = yes
+	dynasty = 10001
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 10
+	
+	trait = "fortune_builder"
+	trait = "scholar"
+	trait = "quick"
+	trait = "diligent"
+	trait = "humble"
+	trait = "kind"
+	trait = "shy"
+	trait = "trusting"
+	trait = "adventurer"
+	
+	disallow_random_traits = yes
+	
+	1237.1.5 = {
+		birth = yes
+	}
+	
+	1257.1.1 = {
+		employer = 5006
+	}
+	
+	1297.1.1 = {
+		death = yes
+	}
+}
+
+11000 = {
+	name = "Mert"
+	dynasty = 11000
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	diplomacy = 5
+	martial = 15
+	stewardship = 7
+	intrigue = 3
+	learning = 7
+	
+	trait = "brilliant_strategist"
+	trait = "cavalry_leader"
+	trait = "flat_terrain_leader"
+	trait = "just"
+	trait = "temperate"
+	trait = "honest"
+	trait = "shy"
+	trait = "trusting"
+	trait = "brave"
+	
+	disallow_random_traits = yes
+	
+	
+	1236.8.4 = {
+		birth = yes
+	}
+	
+	1257.1.1 = {
+		add_spouse = 11001
+		employer = 5000
+		effect = {
+			give_job_title = job_marshal
+		}
+	}
+	
+	1297.1.1 = {
+		death = yes
+	}
+}
+
+11001 = {
+	name = "Cansel"
+	female = yes
+	dynasty = 11001
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	diplomacy = 7
+	martial = 5
+	stewardship = 4
+	intrigue = 5
+	learning = 9
+	
+	trait = "charismatic_negotiator"
+	trait = "fair"
+	trait = "lustful"
+	trait = "temperate"
+	trait = "kind"
+	
+	disallow_random_traits = yes
+	
+	1238.5.12 = {
+		birth = yes
+	}
+	
+	1257.1.1 = {
+		employer = 5000
+	}
+	
+	1297.1.1 = {
+		death = yes
+	}
+}
+
+#12000 = {
+#	name = "Tanner"
+#	dynasty = 12000
+#	
+#	culture = ""
+#	religion = ""
+#	
+#	diplomacy = 0
+#	martial = 0
+#	stewardship = 0
+#	intrigue = 0
+#	learning = 0
+#	
+#	trait = ""
+#	trait = ""
+#	trait = ""
+#	
+#	disallow_random_traits = yes
+#	
+#	
+#	12??.?.? = {
+#		birth = yes
+#	}
+#	
+#	1257.1.1 = {
+#		employer = ?
+#		give_job_title = ?
+#	}
+#	
+#	1297.1.1 = {
+#		death = yes
+#	}
+#}

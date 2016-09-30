@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 2012 # Boyar Meriga
+	liege = d_vezin
+}

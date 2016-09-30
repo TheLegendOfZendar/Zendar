@@ -1,0 +1,23 @@
+# 184 - Carda
+
+# County Title
+title = c_carda
+
+# Settlements
+max_settlements = 2
+b_carda = castle
+#b_lisa = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = gleanntir
+	religion = calradic
+}

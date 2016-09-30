@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_uzgha
+	holder = 6011 #Emir Hamezan
+}

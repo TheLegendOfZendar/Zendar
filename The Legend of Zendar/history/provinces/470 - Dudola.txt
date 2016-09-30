@@ -1,0 +1,24 @@
+# 470 - Dudola
+
+# County Title
+title = c_dudola
+
+# Settlements
+max_settlements = 3
+b_dudola = castle
+b_akikavan = city
+#b_sumke = temple
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

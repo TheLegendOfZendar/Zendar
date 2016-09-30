@@ -1,0 +1,69 @@
+decisions = {
+
+	adopt_orphan_boy = {
+		potential = {
+			NOT = {	num_of_children = 3 }
+		}
+		allow = {
+			FROM = {
+				age = 50
+				prestige = 10
+			}
+		}
+		effect = {
+			piety = 5
+			prestige = -10
+			create_character = {
+				random_traits = yes
+				dynasty = FROM
+				age = 5
+			}
+			new_character = {
+				set_father = ROOT
+				add_trait = legit_bastard
+				give_nickname = nick_the_adopted
+				recalc_succession = yes
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	adopt_orphan_girl = {
+		potential = {
+			NOT = {	num_of_children = 3 }
+		}
+		allow = {
+			FROM = {
+				age = 50
+				prestige = 10
+			}
+		}
+		effect = {
+			piety = 5
+			prestige = -10
+			create_character = {
+				random_traits = yes
+				dynasty = FROM
+				age = 5
+				female = yes
+			}
+			new_character = {
+				set_father = ROOT
+				add_trait = legit_bastard
+				give_nickname = nick_the_adopted
+				recalc_succession = yes
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+# 618 - Peshmi
+
+# County Title
+title = c_peshmi
+
+# Settlements
+max_settlements = 3
+b_peshmi = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

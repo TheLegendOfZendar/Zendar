@@ -1,0 +1,53 @@
+#NORD
+
+technology = {
+	titles = {
+		d_sargoth
+		d_tihr
+		d_wercheg
+		d_alburq
+		d_chalbek
+		d_curin
+		d_hrus
+		d_jelbegi
+		d_knudarr
+		d_tehlrog
+		d_aldelen
+		d_ambean
+		d_buillin
+		d_fearichen
+		d_fenada
+		d_haen
+		d_jayek
+		d_jelbegiville
+		d_kulum
+		d_kwynn
+		d_mechin
+		d_odasan
+		d_rizi
+		d_ruvar
+		d_vayejeg
+	}
+
+	1060 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+		TECH_NAVAL = 0.1
+	}
+	
+	1200 = {
+		military = 1.0
+		economy = 0.6
+		culture = 0.6
+		
+		TECH_NAVAL = 2.0
+	}	
+	
+	1453 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

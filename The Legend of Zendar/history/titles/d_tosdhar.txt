@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1018 # Count Rochabarth
+	liege = k_uxkhaltribute
+}

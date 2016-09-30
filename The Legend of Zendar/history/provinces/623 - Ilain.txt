@@ -1,0 +1,22 @@
+# 623 - Ilain
+
+# County Title
+title = c_ilain
+
+# Settlements
+max_settlements = 1
+b_ilain = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = jewish
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = jewish
+}

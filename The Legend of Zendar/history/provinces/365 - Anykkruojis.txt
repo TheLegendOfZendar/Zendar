@@ -1,0 +1,22 @@
+# 365 - Anykkruojis
+
+# County Title
+title = c_anykkruojis
+
+# Settlements
+max_settlements = 1
+b_anykkruojis = tribal
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = alaish
+	religion = nordic_pagan
+}

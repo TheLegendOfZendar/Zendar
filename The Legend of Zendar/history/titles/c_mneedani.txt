@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_qalyut
+	holder = 6010 #Emir Ghulassen
+}

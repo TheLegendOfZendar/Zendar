@@ -1,0 +1,22 @@
+# 615 - Tama
+
+# County Title
+title = c_tama
+
+# Settlements
+max_settlements = 3
+b_tama = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = steppe_pagan
+}

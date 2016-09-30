@@ -1,0 +1,23 @@
+# 598 - Narra
+
+# County Title
+title = c_narra
+
+# Settlements
+max_settlements = 5
+b_narra = tribal
+b_narratemple = temple
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = najar
+	religion = steppe_pagan
+}

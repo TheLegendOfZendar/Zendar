@@ -1,0 +1,23 @@
+# 685 - Mazigh
+
+# County Title
+title = c_mazigh
+
+# Settlements
+max_settlements = 2
+b_mazigh = castle
+b_jabba = temple
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

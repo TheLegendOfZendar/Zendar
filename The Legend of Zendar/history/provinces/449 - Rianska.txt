@@ -1,0 +1,24 @@
+# 449 - Rianska
+
+# County Title
+title = c_rianska
+
+# Settlements
+max_settlements = 3
+b_rianska = castle
+b_rogrube = city
+#b_yima = temple
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

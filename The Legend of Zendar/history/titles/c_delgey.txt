@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_dirighaban
+	holder = 5009 #Hugu Noyan
+}

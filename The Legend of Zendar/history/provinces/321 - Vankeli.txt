@@ -1,0 +1,24 @@
+# 321 - Vankeli
+
+# County Title
+title = c_vankeli
+
+# Settlements
+max_settlements = 3
+b_vankeli = castle
+#b_werodaen = city
+#b_svivar = temple
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = gundigian
+	religion = calradic
+}

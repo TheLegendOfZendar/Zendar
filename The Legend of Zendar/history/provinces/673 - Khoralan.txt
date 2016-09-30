@@ -1,0 +1,22 @@
+# 673 - Khoralan
+
+# County Title
+title = c_khoralan
+
+# Settlements
+max_settlements = 1
+b_khoralan = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = mushreg
+	religion = shiite
+}

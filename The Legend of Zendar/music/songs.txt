@@ -1,0 +1,750 @@
+song = {
+	name = "crusaderkings2_maintitle.ogg"
+	
+	chance = { factor = 0 }
+}
+
+#Warrider
+song = {
+	name = "thegreathall.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+#Mount & Blade
+
+#Mount & Blade: Warband
+song = {
+	name = "ambushed_by_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "ambushed_by_neutral.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "ambushed_by_nord.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = nord }
+		}
+	}
+}
+
+song = {
+	name = "ambushed_by_rhodok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture = rhodok }
+			NOT = { culture = olivron }
+			NOT = { culture = highlander }
+			NOT = { culture = clogwyndyn }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "ambushed_by_swadian.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture = swadian }
+			NOT = { culture = aleman }
+			NOT = { culture = woodlander }
+			NOT = { culture = lowlander }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "ambushed_by_vaegir.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "arena_1.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "armorer.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "bandit_fight.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "calm_night_2.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "crazy_battle_music.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "enter_the_juggernaut.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "fight_1.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "fight_2.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "fight_3.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "fight_as_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "fight_as_nord.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = nord }
+		}
+	}
+}
+
+song = {
+	name = "fight_as_rhodok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture = rhodok }
+			NOT = { culture = olivron }
+			NOT = { culture = highlander }
+			NOT = { culture = clogwyndyn }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "fight_as_vaegir.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "fight_while_mounted_1.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "fight_while_mounted_2.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "hearth_and_brotherhood.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "infiltration_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "lords_hall_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "lords_hall_nord.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = nord }
+		}
+	}
+}
+
+song = {
+	name = "lords_hall_rhodok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = rhodok }
+			NOT = { culture = olivron }
+			NOT = { culture = highlander }
+			NOT = { culture = clogwyndyn }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "lords_hall_swadian.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = swadian }
+			NOT = { culture = aleman }
+			NOT = { culture = woodlander }
+			NOT = { culture = lowlander }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "lords_hall_vaegir.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "middle_eastern_action.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+			NOT = { culture_group = sarranid }
+		}
+	}
+}
+
+song = {
+	name = "middle_eastern_travel.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = sarranid }
+		}
+	}
+}
+
+song = {
+	name = "mounted_snow_terrain_calm.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "neutral_infiltration.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "outdoor_beautiful_land.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "percussion_battery.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "siege_neutral.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "siege_attempt.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "tavern_1.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "tavern_2.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "town_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "town_neutral.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "town_nord.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = nord }
+		}
+	}
+}
+
+song = {
+	name = "town_rhodok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = rhodok }
+			NOT = { culture = olivron }
+			NOT = { culture = highlander }
+			NOT = { culture = clogwyndyn }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "town_swadian.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = swadian }
+			NOT = { culture = aleman }
+			NOT = { culture = woodlander }
+			NOT = { culture = lowlander }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "town_vaegir.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "tragic_village.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "travel_khergit.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = khergit }
+		}
+	}
+}
+
+song = {
+	name = "travel_neutral.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "travel_nord.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = nord }
+		}
+	}
+}
+
+song = {
+	name = "travel_rhodok.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = rhodok }
+			NOT = { culture = olivron }
+			NOT = { culture = highlander }
+			NOT = { culture = clogwyndyn }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "travel_swadian.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture = swadian }
+			NOT = { culture = aleman }
+			NOT = { culture = woodlander }
+			NOT = { culture = lowlander }
+			NOT = { culture = vlandian }
+			NOT = { culture = calradian }
+		}
+	}
+}
+
+song = {
+	name = "travel_vaegir.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+			NOT = { culture_group = vaegir }
+		}
+	}
+}
+
+song = {
+	name = "uncertain_homestead.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}
+
+song = {
+	name = "warband_action.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "warband_siege.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = no
+		}
+	}
+}
+
+song = {
+	name = "wedding.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			war = yes
+		}
+	}
+}

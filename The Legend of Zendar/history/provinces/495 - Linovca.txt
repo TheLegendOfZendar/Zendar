@@ -1,0 +1,22 @@
+# 495 - Linovca
+
+# County Title
+title = c_linovca
+
+# Settlements
+max_settlements = 1
+b_linovca = tribal
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = tundran
+	religion = taiga_pagan
+}

@@ -1,0 +1,22 @@
+# 757 - Burrarimah
+
+# County Title
+title = c_burrarimah
+
+# Settlements
+max_settlements = 1
+b_burrarimah = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sarrani
+}
+1100.1.1 = {
+	culture = sarrdak
+	religion = shiite
+}

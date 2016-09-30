@@ -1,0 +1,25 @@
+# 23 - Haringoth
+
+# County Title
+title = c_haringoth
+
+# Settlements
+max_settlements = 4
+b_haringoth = castle
+b_phiran = city
+#b_angad = temple
+#b_suraflen = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = woodlander
+	religion = calradic
+}

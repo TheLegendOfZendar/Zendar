@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = k_bariyyetribute
+	holder = 6008 #Emir Dhiyul
+}

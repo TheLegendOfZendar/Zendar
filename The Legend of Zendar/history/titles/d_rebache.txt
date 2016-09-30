@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 2008 # Boyar Harish
+	liege = k_curawtribute
+}

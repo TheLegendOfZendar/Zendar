@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = k_jelkala
+	holding_dynasty = 4009 #Casa di Chelez
+	holder = 4009 #Count Kurnias
+}

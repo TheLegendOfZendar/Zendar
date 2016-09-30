@@ -1,0 +1,307 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CALRADIAN TITLES
+empire_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+kingdom_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+duchy_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+county_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+barony_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+city_empire_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+city_kingdom_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+city_duchy_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+city_county_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+city_barony_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+temple_empire_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+temple_kingdom_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+temple_duchy_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+temple_county_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+temple_barony_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_empire_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_duchy_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_county_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_barony_calrad;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+#OLD CALRADIAN TITLES
+emperor_calradian;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_calradian_female;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+empire_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+empire_of_calradian;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+king_calradian;Rex;Rex;Rex;;Rex;;;;;;;;;x
+king_calradian_female;Regina;Regina;Regina;;Regina;;;;;;;;;x
+kingdom_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+kingdom_of_calradian;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+duke_calradian;Dux;Dux;Dux;;Dux;;;;;;;;;x
+duke_calradian_female;Ducessa;Ducessa;Ducessa;;Ducessa;;;;;;;;;x
+duchy_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+duchy_of_calradian;Duchy of;Duché de;Herzogtum von;;Ducado de;;;;;;;;;x
+count_calradian;Comes;Comes;Comes;;Comes;;;;;;;;;x
+count_calradian_female;Comitessa;Comitessa;Comitessa;;Comitessa;;;;;;;;;x
+county_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+county_of_calradian;County of;Comté de;Grafschaft von;;Condado de;;;;;;;;;x
+baron_calradian;Baro;Baro;Baro;;Baro;;;;;;;;;x
+baron_calradian_female;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+barony_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+barony_of_calradian;Barony of;Baronnie de;Baronie von;;Baronía de;;;;;;;;;x
+tribal_emperor_calradian;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+tribal_emperor_calradian_female;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+tribal_empire_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_empire_of_calradian;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+tribal_king_calradian;Rex;Rex;Rex;;Rex;;;;;;;;;x
+tribal_king_calradian_female;Regina;Regina;Regina;;Regina;;;;;;;;;x
+tribal_kingdom_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_of_calradian;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+tribal_duke_calradian;Dux;Dux;Dux;;Dux;;;;;;;;;x
+tribal_duke_calradian_female;Ducessa;Ducessa;Ducessa;;Ducessa;;;;;;;;;x
+tribal_duchy_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_duchy_of_calradian;Duchy of;Duché de;Herzogtum von;;Ducado de;;;;;;;;;x
+tribal_count_calradian;Comes;Comes;Comes;;Comes;;;;;;;;;x
+tribal_count_calradian_female;Comitessa;Comitessa;Comitessa;;Comitessa;;;;;;;;;x
+tribal_county_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_county_of_calradian;County of;Comté de;Grafschaft von;;Condado de;;;;;;;;;x
+tribal_baron_calradian;Baro;Baro;Baro;;Baro;;;;;;;;;x
+tribal_baron_calradian_female;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+tribal_barony_calradian;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_barony_of_calradian;Barony of;Baronnie de;Baronie von;;Baronía de;;;;;;;;;x
+#VAEGIR TITLES
+emperor_vaegir;Grand Prince;Grand Prince;Grand Prinz;;Gran Príncipe;;;;;;;;;x
+emperor_vaegir_female;Grand Princess;Grand Princesse;Grand Prinzessin;;Gran Princesa;;;;;;;;;x
+empire_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+empire_of_vaegir;Grand Principality of;Grande-Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+king_vaegir;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
+king_vaegir_female;Princess;Princesse;Prinzessin;;Princesa;;;;;;;;;x
+kingdom_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+kingdom_of_vaegir;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+duke_vaegir;Boyar;Boyard;Bojaren;;Boyardo;;;;;;;;;x
+duke_vaegir_female;Boyarina;Boyardina;Bojarena;;Boyarda;;;;;;;;;x
+duchy_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+duchy_of_vaegir;Boyar of;Boyard de;Bojaren von;;Boyardo de;;;;;;;;;x
+count_vaegir;Posadnik;Posadnik;Posadnik;;Posádnik;;;;;;;;;x
+count_vaegir_female;Posadnitsa;Posadnitsa;Posadnitsa;;Posádnitsa;;;;;;;;;x
+county_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+county_of_vaegir;Posadnik of;Posadnik de;Posadnik von;;Posádnik de;;;;;;;;;x
+baron_vaegir;Dvoryanin;Dvorianié;Dvoryanin;;Dvorjánstvo;;;;;;;;;x
+baron_vaegir_female;Dvoryanska;Dvorianska;Dvorjanska;;Dvorjánska;;;;;;;;;x
+barony_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+barony_of_vaegir;Dvoryanin of;Dvorianié de;Dvoryanin von;;Dvorjánstvo de;;;;;;;;;x
+tribal_emperor_vaegir;Grand Prince;Grand Prince;Grand Prinz;;Gran Príncipe;;;;;;;;;x
+tribal_emperor_vaegir_female;Grand Princess;Grand Princesse;Grand Prinzessin;;Gran Princesa;;;;;;;;;x
+tribal_empire_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_empire_of_vaegir;Grand Principality of;Grande-Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+tribal_king_vaegir;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
+tribal_king_vaegir_female;Princess;Princesse;Prinzessin;;Princesa;;;;;;;;;x
+tribal_kingdom_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_of_vaegir;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+tribal_duke_vaegir;Boyar;Boyard;Bojaren;;Boyardo;;;;;;;;;x
+tribal_duke_vaegir_female;Boyarina;Boyardina;Bojarena;;Boyarda;;;;;;;;;x
+tribal_duchy_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_duchy_of_vaegir;Boyar of;Boyard de;Bojaren von;;Boyardo de;;;;;;;;;x
+tribal_count_vaegir;Posadnik;Posadnik;Posadnik;;Posádnik;;;;;;;;;x
+tribal_count_vaegir_female;Posadnitsa;Posadnitsa;Posadnitsa;;Posádnitsa;;;;;;;;;x
+tribal_county_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_county_of_vaegir;Posadnik of;Posadnik de;Posadnik von;;Posádnik de;;;;;;;;;x
+tribal_baron_vaegir;Dvoryanin;Dvorianié;Dvoryanin;;Dvorjánstvo;;;;;;;;;x
+tribal_baron_vaegir_female;Dvoryanska;Dvorianska;Dvorjanska;;Dvorjánska;;;;;;;;;x
+tribal_barony_vaegir;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_barony_of_vaegir;Dvoryanska of;Dvorianska de;Dvorjanska von;;Dvorjánska de;;;;;;;;;x
+#NORD TITLES
+emperor_nord;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_nord_female;Keiserfru;Keiserfru;Keiserfru;;Keiserfru;;;;;;;;;x
+empire_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+empire_of_nord;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+king_nord;Konungr;Konungr;Konungr;;Konungr;;;;;;;;;x
+king_nord_female;Dróttning;Dróttning;Dróttning;;Dróttning;;;;;;;;;x
+kingdom_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+kingdom_of_nord;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+duke_nord;Jarl;Jarl;Graf;;Jarl;;;;;;;;;x
+duke_nord_female;Greifynja;Greifynja;Greifynja;;Greifynja;;;;;;;;;x
+duchy_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+duchy_of_nord;Jarldom of;Jarldom de;Grafschaft von;;Jarldom de;;;;;;;;;x
+count_nord;Seidsman;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
+count_nord_female;Seidsfru;Seidsfru;Seidsfru;;Seidsfru;;;;;;;;;x
+county_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+county_of_nord;Seidsman of;Seidsman de;Seidsman von;;Seidsman de;;;;;;;;;x
+baron_nord;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x
+baron_nord_female;Þegnfru;Þegnfru;Þegnfru;;Þegnfru;;;;;;;;;x
+barony_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+barony_of_nord;Þegn of;Þegn de;Þegn von;;Þegn de;;;;;;;;;x
+tribal_emperor_nord;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+tribal_emperor_nord_female;Keiserfru;Keiserfru;Keiserfru;;Keiserfru;;;;;;;;;x
+tribal_empire_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_empire_of_nord;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+tribal_king_nord;Konungr;Konungr;Konungr;;Konungr;;;;;;;;;x
+tribal_king_nord_female;Dróttning;Dróttning;Dróttning;;Dróttning;;;;;;;;;x
+tribal_kingdom_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_of_nord;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+tribal_duke_nord;Jarl;Jarl;Graf;;Jarl;;;;;;;;;x
+tribal_duke_nord_female;Greifynja;Greifynja;Greifynja;;Greifynja;;;;;;;;;x
+tribal_duchy_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_duchy_of_nord;Jarldom of;Jarldom de;Grafschaft von;;Jarldom de;;;;;;;;;x
+tribal_count_nord;Seidsman;Seidsman;Seidsman;;Seidsman;;;;;;;;;x
+tribal_count_nord_female;Seidsfru;Seidsfru;Seidsfru;;Seidsfru;;;;;;;;;x
+tribal_count_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_county_of_nord;Seidsman of;Seidsman de;Seidsman von;;Seidsman de;;;;;;;;;x
+tribal_baron_nord;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x
+tribal_baron_nord_female;Þegnfru;Þegnfru;Þegnfru;;Þegnfru;;;;;;;;;x
+tribal_barony_nord;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_barony_of_nord;Þegn of;Þegn de;Þegn von;;Þegn de;;;;;;;;;x
+#KHERGIT TITLES
+emperor_khergit;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+emperor_female_khergit;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
+empire_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+empire_of_khergit;Khaganate of;Khaganat de;Großkhanat von;;Kaganato de;;;;;;;;;x
+king_khergit;Khan;Khan;Khan;;Kan;;;;;;;;;x
+king_female_khergit;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
+kingdom_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+kingdom_of_khergit;Khanate of;Khanat de;Khanat von;;Kanato de;;;;;;;;;x;
+duke_khergit;Noyan;Noyan;Noyan;;Noyan;;;;;;;;;x
+duke_female_khergit;Nohi;Nohi;Nohi;;Nohi;;;;;;;;;x
+duchy_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+duchy_of_khergit;Noyan of;Noyan de;Noyan von;;Noyan de;;;;;;;;;x
+count_khergit;Darga;Darga;Darga;;Darga;;;;;;;;;x
+count_female_khergit;Dartun;Dartoun;Dartun;;Dartun;;;;;;;;;x
+county_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+county_of_khergit;Darga of;Darga de;Darga von;;Darga de;;;;;;;;;x
+baron_khergit;Taishi;Taishi;Taishi;;Taishi mongol;;;;;;;;;x
+baron_female_khergit;Behi;Behi;Behi;;Behi;;;;;;;;;x
+barony_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+barony_of_khergit;Taishi of;Taishi de;Taishi von;;Taishi de;;;;;;;;;x
+nomadic_emperor_khergit;Khan;Khan;Khan;;Kan;;;;;;;;;x
+nomadic_emperor_khergit_female;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
+nomadic_empire_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+nomadic_empire_of_khergit;Khanate of;Khanat de;Khanat von;;Kanato de;;;;;;;;;x;
+nomadic_king_khergit;Noyan;Noyan;Noyan;;Noyan;;;;;;;;;x
+nomadic_king_female_khergit;Nohi;Nohi;Nohi;;Nohi;;;;;;;;;x
+nomadic_kingdom_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+nomadic_kingdom_of_khergit;Noyan of;Noyan de;Noyan von;;Noyan de;;;;;;;;;x
+nomadic_duke_khergit;Noyan;Noyan;Noyan;;Noyan;;;;;;;;;x
+nomadic_duke_female_khergit;Nohi;Nohi;Nohi;;Nohi;;;;;;;;;x
+nomadic_duchy_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+nomadic_duchy_of_khergit;Noyan of;Noyan de;Noyan von;;Noyan de;;;;;;;;;x
+nomadic_count_khergit;Darga;Darga;Darga;;Darga;;;;;;;;;x
+nomadic_count_female_khergit;Dartun;Dartoun;Dartun;;Dartun;;;;;;;;;x
+nomadic_county_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+nomadic_county_of_khergit;Darga of;Darga de;Darga von;;Darga de;;;;;;;;;x
+nomadic_baron_khergit;Taishi;Taishi;Taishi;;Taishi mongol;;;;;;;;;x
+nomadic_baron_female_khergit;Behi;Behi;Behi;;Behi;;;;;;;;;x
+nomadic_barony_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+nomadic_barony_of_khergit;Taishi of;Taishi de;Taishi von;;Taishi de;;;;;;;;;x
+tribal_emperor_khergit;Khan;Khan;Khan;;Kan;;;;;;;;;x
+tribal_emperor_khergit_female;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
+tribal_empire_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+tribal_empire_of_khergit;Khanate of;Khanat de;Khanat von;;Kanato de;;;;;;;;;x;
+tribal_king_khergit;Wang;Wang;Wang;;Wang;;;;;;;;;x
+tribal_king_khergit_female;Watun;Watoun;Watun;;Watun;;;;;;;;;x
+tribal_kingdom_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_of_khergit;Wang of;Wang de;Wang von;;Wang de;;;;;;;;;x
+tribal_duke_khergit;Noyan;Noyan;Noyan;;Noyan;;;;;;;;;x
+tribal_duke_khergit_female;Nohi;Nohi;Nohi;;Nohi;;;;;;;;;x
+tribal_duchy_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+tribal_duchy_of_khergit;Noyan of;Noyan de;Noyan von;;Noyan de;;;;;;;;;x
+tribal_count_khergit;Darga;Darga;Darga;;Darga;;;;;;;;;x
+tribal_count_khergit_female;Dartun;Dartoun;Dartun;;Dartun;;;;;;;;;x
+tribal_county_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+tribal_county_of_khergit;Darga of;Darga de;Darga von;;Darga de;;;;;;;;;x
+tribal_baron_khergit;Taishi;Taishi;Taishi;;Taishi mongol;;;;;;;;;x
+tribal_baron_khergit_female;Behi;Behi;Behi;;Behi;;;;;;;;;x
+tribal_barony_khergit;§Y;§Y;§Y;;§Y;;;;;;;;;x
+tribal_barony_of_khergit;Taishi of;Taishi de;Taishi von;;Taishi de;;;;;;;;;x
+#SARRANID TITLES
+#emperor_sarranid;Shahanshah;Shahanshah;Shahanshah;;Shahanshah;;;;;;;;;x
+#emperor_sarranid_female;Shahanshaha;Shahanshahe;Shahanshahin;;Shahanshaha;;;;;;;;;x
+#empire_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+#empire_of_sarranid;Shahanshah of;Shahanshah de;Shahanshah von;;Shahanshah de;;;;;;;;;x
+#king_sarranid;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x
+#king_sarranid_female;Sultana;Sultane;Sultanin;;Sultana;;;;;;;;;x
+#kingdom_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+#kingdom_of_sarranid;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
+emperor_sarranid;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x
+emperor_sarranid_female;Sultana;Sultane;Sultanin;;Sultana;;;;;;;;;x
+empire_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+empire_of_sarranid;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
+king_sarranid;Satrap;Satrape;Satrap;;Sátrapa;;;;;;;;;x
+king_sarranid_female;Satrapa;Satrapat;Satrapin;;Sátrapa;;;;;;;;;x
+kingdom_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+kingdom_of_sarranid;Satrapy of;Satrapie de;Satrapie von;;Satrapía de;;;;;;;;;x
+duke_sarranid;Emir;Émir;Emir;;Emir;;;;;;;;;x
+duke_sarranid_female;Emira;Émirat;Emirin;;Emira;;;;;;;;;x
+duchy_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+duchy_of_sarranid;Emirate of;Émirat de;Emirat von;;Emirato de;;;;;;;;;x
+count_sarranid;Sheikh;Cheikh;Scheich;;Jeque;;;;;;;;;x
+county_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+county_of_sarranid;Sheikhdom of;Cheikat de;Scheichtum von;;Dominio del Jeque;;;;;;;;;x
+baron_sarranid;Wâli;Wâli;Wâli;;Valí;;;;;;;;;x
+barony_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+barony_of_sarranid;Wilayah of;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
+tribal_emperor_sarranid;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x
+tribal_emperor_sarranid_female;Sultana;Sultane;Sultanin;;Sultana;;;;;;;;;x
+tribal_empire_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_empire_of_sarranid;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
+tribal_king_sarranid;Satrap;Satrape;Satrap;;Sátrapa;;;;;;;;;x
+tribal_king_sarranid_female;Satrapa;Satrapat;Satrapin;;Sátrapa;;;;;;;;;x
+tribal_kingdom_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_kingdom_of_sarranid;Satrapy of;Satrapie de;Satrapie von;;Satrapía de;;;;;;;;;x
+tribal_duke_sarranid;Emir;Émir;Emir;;Emir;;;;;;;;;x
+tribal_duke_sarranid_female;Emira;Émirat;Emirin;;Emira;;;;;;;;;x
+tribal_duchy_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_duchy_of_sarranid;Emirate of;Émirat de;Emirat von;;Emirato de;;;;;;;;;x
+tribal_count_sarranid;Sheikh;Cheikh;Scheich;;Jeque;;;;;;;;;x
+tribal_count_sarranid_female;Sheikha;Cheikhat;Scheichin;;Jequea;;;;;;;;;x
+tribal_county_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_county_of_sarranid;Sheikhdom of;Cheikat de;Scheichtum von;;Dominio del Jeque;;;;;;;;;x
+tribal_baron_sarranid;Wâli;Wâli;Wâli;;Valí;;;;;;;;;x
+tribal_baron_sarranid_female;Wâliya;Wâliat;Wâlin;;Valía;;;;;;;;;x
+tribal_barony_sarranid;§Y;§Y;§Y;;§Y;;;;;;;;;x;
+tribal_barony_of_sarranid;Wilayah of;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
+#GOVERNMENTS
+gov_default;Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime despotique);[PrimaryTitle.GetRulerTitle] (Despotisch);;Despótico [PrimaryTitle.GetRulerTitle];;;;;;;;;x
+gov_electorial_absolute_monarchy;Elective Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Elektorat);;[PrimaryTitle.GetRulerTitle] absoluto electivo ;;;;;;;;;x
+gov_electorial_absolute_monarchy_norse;Elective Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Elektorat);;[PrimaryTitle.GetRulerTitle] absoluto electivo ;;;;;;;;;x
+gov_electorial_absolute_monarchy_tengri;Elective Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Elektorat);;[PrimaryTitle.GetRulerTitle] absoluto electivo ;;;;;;;;;x
+gov_electorial_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] aristocrático electivo;;;;;;;;;x
+gov_electorial_aristocratic_monarchy_norse;Elective Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] aristocrático electivo;;;;;;;;;x
+gov_electorial_aristocratic_monarchy_tengri;Elective Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] aristocrático electivo;;;;;;;;;x
+gov_electorial_despotic_monarchy;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] despótico electivo;;;;;;;;;x
+gov_electorial_despotic_monarchy_zoro;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] despótico electivo;;;;;;;;;x
+gov_electorial_despotic_monarchy_norse;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] despótico electivo;;;;;;;;;x
+gov_electorial_despotic_monarchy_tengri;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] despótico electivo;;;;;;;;;x
+gov_hereditary_absolute_monarchy;Hereditary Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] absoluto hereditario;;;;;;;;;x
+gov_hereditary_absolute_monarchy_indian;Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime absolu);[PrimaryTitle.GetRulerTitle] (Absolut);;[PrimaryTitle.GetRulerTitle] absoluto hereditario;;;;;;;;;x
+gov_hereditary_absolute_monarchy_norse;Hereditary Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] absoluto hereditario;;;;;;;;;x
+gov_hereditary_absolute_monarchy_tengri;Hereditary Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] absoluto hereditario;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy;Hereditary Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] aristocrático hereditario ;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_indian;Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch);;[PrimaryTitle.GetRulerTitle] aristocrático;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_norse;Hereditary Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] aristocrático hereditario ;;;;;;;;;x
+gov_hereditary_aristocratic_monarchy_tengri;Hereditary Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] aristocrático hereditario ;;;;;;;;;x
+gov_hereditary_despotic_monarchy;Hereditary Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] despótico hereditario ;;;;;;;;;x
+gov_hereditary_despotic_monarchy_zoro;Hereditary Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] despótico hereditario ;;;;;;;;;x
+gov_hereditary_despotic_monarchy_indian;Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime despotique);[PrimaryTitle.GetRulerTitle] (Despotisch);;[PrimaryTitle.GetRulerTitle] despótico;;;;;;;;;x
+gov_hereditary_despotic_monarchy_norse;Hereditary Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] despótico hereditario ;;;;;;;;;x
+gov_hereditary_despotic_monarchy_tengri;Hereditary Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] despótico hereditario ;;;;;;;;;x
+gov_muslim_absolute_monarchy;Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime absolu);[PrimaryTitle.GetRulerTitle] (Absolut);;[PrimaryTitle.GetRulerTitle] absoluto;;;;;;;;;x
+gov_muslim_aristocratic_monarchy;Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch);;[PrimaryTitle.GetRulerTitle] aristocrático;;;;;;;;;x
+gov_muslim_despotic_monarchy;Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime despotique);[PrimaryTitle.GetRulerTitle] (Despotisch);;[PrimaryTitle.GetRulerTitle] despótico;;;;;;;;;x
+gov_aristocratic_republic;Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch);;[PrimaryTitle.GetRulerTitle] aristocrático;;;;;;;;;x
+gov_plutocratic_republic;Plutocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime ploutocratique);[PrimaryTitle.GetRulerTitle] (Plutokratisch);;[PrimaryTitle.GetRulerTitle] plutocrático;;;;;;;;;x
+gov_oligarchic_republic;Oligarchic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime oligarchique);[PrimaryTitle.GetRulerTitle] (Oligarchisch);;[PrimaryTitle.GetRulerTitle] oligárquico;;;;;;;;;x
+gov_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]);[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Religion.GetGroupName];;;;;;;;;x
+gov_grand_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]);[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Religion.GetGroupName];;;;;;;;;x
+gov_noble_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]) noble;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle] (Adlige);;Noble [PrimaryTitle.GetRulerTitle] [Religion.GetGroupName];;;;;;;;;x
+gov_hereditary_zun;Hereditary [PrimaryTitle.GetRulerTitle] of the Sun;[PrimaryTitle.GetRulerTitle] du Soleil (régime héréditaire);Erbfolge-[PrimaryTitle.GetRulerTitle] der Sonne;;[PrimaryTitle.GetRulerTitle] hereditario del Sol;;;;;;;;;x
+gov_electorial_zun;Elective [PrimaryTitle.GetRulerTitle] of the Sun;[PrimaryTitle.GetRulerTitle] du Soleil (régime électoral);Wahl-[PrimaryTitle.GetRulerTitle] der Sonne;;[PrimaryTitle.GetRulerTitle] electivo del Sol;;;;;;;;;x
+gov_terror;[PrimaryTitle.GetRulerTitle] of Terror;[PrimaryTitle.GetRulerTitle] de terreur;[PrimaryTitle.GetRulerTitle] des Schreckens;;[PrimaryTitle.GetRulerTitle] del Terror;;;;;;;;;x
+gov_electorial_absolute_hre;Elective Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Elektorat);;[PrimaryTitle.GetRulerTitle] absoluto electivo;;;;;;;;;x
+gov_hereditary_absolute_hre;Hereditary Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et absolu);[PrimaryTitle.GetRulerTitle] (Absolut und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] absoluto hereditario ;;;;;;;;;x
+gov_electorial_despotic_hre;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] despótico electivo;;;;;;;;;x
+gov_hereditary_despotic_hre;Hereditary Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et despotique);[PrimaryTitle.GetRulerTitle] (Despotisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] despótico hereditario;;;;;;;;;x
+gov_aristocratic_electorial_hre;Elective Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Elektorat);;[PrimaryTitle.GetRulerTitle] aristocrático electivo;;;;;;;;;x
+gov_aristocratic_hereditary_hre;Hereditary Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime héréditaire et aristocratique);[PrimaryTitle.GetRulerTitle] (Aristokratisch und mit Erbfolge);;[PrimaryTitle.GetRulerTitle] aristocrático hereditario;;;;;;;;;x
+gov_khaganate;[Culture.GetName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Culture.GetName]);[Culture.GetName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Culture.GetName];;;;;;;;;x
+gov_clan;[GetOnlyDynastyName];[GetOnlyDynastyName];[GetOnlyDynastyName];;[GetOnlyDynastyName];;;;;;;;;x
+gov_norse_chiefdom;[Religion.GetName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetName]);[Religion.GetName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_noble_norse_chiefdom;Noble [Religion.GetName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetName]) noble;[Religion.GetName] [PrimaryTitle.GetRulerTitle] (Adlige);;Noble [PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_muslim_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]);[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_noble_muslim_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]) noble;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle] (Adlige);;Noble [PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_african_chiefdom;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]);[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];;[PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_noble_african_chiefdom;Noble [Religion.GetGroupName] [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] ([Religion.GetGroupName]) noble;[Religion.GetGroupName] [PrimaryTitle.GetRulerTitle] (Adlige);;Noble [PrimaryTitle.GetRulerTitle] [Religion.GetName];;;;;;;;;x
+gov_elective_muslim_aristocratic_monarchy;Elective Aristocratic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et aristocratique);Aristokratie mit Elektorat [PrimaryTitle.GetRulerTitle];;Aristocrático electivo [PrimaryTitle.GetRulerTitle];;;;;;;;;x
+gov_elective_muslim_despotic_monarchy;Elective Despotic [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et despotique);Despotie mit Elektorat [PrimaryTitle.GetRulerTitle];;Despótico electivo [PrimaryTitle.GetRulerTitle];;;;;;;;;x
+gov_elective_muslim_absolute_monarchy;Elective Absolute [PrimaryTitle.GetRulerTitle];[PrimaryTitle.GetRulerTitle] (régime électoral et absolu);Absolut mit Elektorat [PrimaryTitle.GetRulerTitle];;Absoluto electivo [PrimaryTitle.GetRulerTitle];;;;;;;;;x

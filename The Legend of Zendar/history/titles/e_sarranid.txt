@@ -1,0 +1,9 @@
+1197.1.1={
+	holder = 6100 #Sultan Ayzar
+}
+1244.3.18={
+	holder = 6001 #Arwa the Pearled One
+}
+1248.5.11={
+	holder = 6000 #Sultan Hakim
+}

@@ -1,0 +1,22 @@
+# 596 - Tari
+
+# County Title
+title = c_tari
+
+# Settlements
+max_settlements = 1
+b_tari = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = najar
+	religion = sunni
+}

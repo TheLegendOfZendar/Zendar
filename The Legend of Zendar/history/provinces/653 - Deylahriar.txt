@@ -1,0 +1,23 @@
+# 653 - Deylahriar
+
+# County Title
+title = c_deylahriar
+
+# Settlements
+max_settlements = 2
+b_deylahriar = castle
+#b_ayasmin = city
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

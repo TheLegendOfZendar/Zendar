@@ -1,0 +1,2743 @@
+# PLAYER DYNASTIES
+1 = {
+	name = "of Swadia"
+	culture = "swadian"
+	
+#	coat_of_arms = {
+	religion = "calradic"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 1
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+2 = {
+	name = "of Vaegir"
+	culture = "vadynian"
+	
+#	coat_of_arms = {
+	religion = "orthodox"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 2
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+3 = {
+	name = "of Nordland"
+	culture = "argadish"
+	
+#	coat_of_arms = {
+	religion = "nordic_pagan"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 3
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+4 = {
+	name = "of Rhodok"
+	culture = "rhodok"
+	
+#	coat_of_arms = {
+	religion = "calradic"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 4
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+5 = {
+	name = "of Khergit"
+	culture = "nomadic"
+	
+#	coat_of_arms = {
+	religion = "steppe_pagan"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 5
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+6 = {
+	name = "of Sarranid"
+	culture = "bezanian"
+	
+#	coat_of_arms = {
+	religion = "shiite"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 6
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+# CALRADIAN DYNASTIES
+100 = {
+	name = "House Calrad"
+	culture = "imperial"
+	
+#	coat_of_arms = {
+	religion = "calradic"
+#		template = 0
+#		layer = {
+#			texture = 3
+#			texture_internal = 0
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+}
+
+# SWADIAN DYNASTIES
+1000 = {
+	name = "House of Praven"
+	culture = "swadian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1001 = {
+	name = "House of Suno"
+	culture = "imperial"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1002 = {
+	name = "House of Ibiran"
+	culture = "imperial"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1003 = {
+	name = "House of Dhirim"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1004 = {
+	name = "House of Rindyar"
+	culture = "swadian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1005 = {
+	name = "House of Uxkhal"
+	culture = "iyenn"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1006 = {
+	name = "House of Ushkuru"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1007 = {
+	name = "House of Senuzgda"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1008 = {
+	name = "House of Reindi"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1009 = {
+	name = "House of Haringoth"
+	culture = "woodlander"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1010 = {
+	name = "House of Suno"
+	culture = "imperial"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1011 = {
+	name = "House of Elberl"
+	culture = "woodlander"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1012 = {
+	name = "House of Kelredan"
+	culture = "imperial"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1013 = {
+	name = "House of Tahlberl"
+	culture = "swadian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1014 = {
+	name = "House of Tshibtin"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "miaphysite"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1015 = {
+	name = "House of Tilbaut"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1016 = {
+	name = "House of Vyincourd"
+	culture = "iyenn"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1017 = {
+	name = "House of Tevarin"
+	culture = "woodlander"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1018 = {
+	name = "House of Tosdhar"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "miaphysite"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1019 = {
+	name = "House of Ryibelet"
+	culture = "swadian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1020 = {
+	name = "House of Azgad"
+	culture = "swadian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1021 = {
+	name = "House of Derchios"
+	culture = "lowlander"
+	
+	coat_of_arms = {
+	religion = "miaphysite"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+1042 = {
+	name = "Palin"
+	culture = "vlandian"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# VAEGIR DYNASTIES
+2000 = {
+	name = "Burelekowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2001 = {
+	name = "Yaroglekovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2002 = {
+	name = "Dramugowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2003 = {
+	name = "Radoghirilor"
+	culture = "voivoch"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2004 = {
+	name = "Jeirbe-suku"
+	culture = "pirash"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2005 = {
+	name = "Shulusovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2006 = {
+	name = "Uslumovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2007 = {
+	name = "Shapeshte-suku"
+	culture = "tundran"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2008 = {
+	name = "Rebacheilor"
+	culture = "voivoch"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2009 = {
+	name = "Ismiralailor"
+	culture = "voivoch"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2010 = {
+	name = "Karindiowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2011 = {
+	name = "Slezkhowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2012 = {
+	name = "Rivacheg-suku"
+	culture = "tundran"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2013 = {
+	name = "Fisdnar-suku"
+	culture = "tundran"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2014 = {
+	name = "Curawowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2015 = {
+	name = "Nelagovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2016 = {
+	name = "Bulugha-suku"
+	culture = "pirash"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2017 = {
+	name = "Rudin-suku"
+	culture = "pirash"
+	
+	coat_of_arms = {
+	religion = "taiga_pagan"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2018 = {
+	name = "Taisaovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2019 = {
+	name = "Ulburbanowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2020 = {
+	name = "Yrumaowie"
+	culture = "vadynian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2021 = {
+	name = "Khudanovich"
+	culture = "druzian"
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# NORD DYNASTIES
+3000 = {
+	name = "Huset Ragnarsson"
+	culture = "argadish"
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3001 = {
+	name = "Huset Hakrimsson"
+	culture = "alaish"
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3002 = {
+	name = "Huset Tihr"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3003 = {
+	name = "Huset Curin"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3004 = {
+	name = "Huset Odasan"
+	culture = "alaish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3005 = {
+	name = "Huset Aldelen"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3006 = {
+	name = "Huset Jelbegiville"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3007 = {
+	name = "Huset Buillin"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3008 = {
+	name = "Huset Mechin"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "orthodox"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3009 = {
+	name = "Huset Chalbek"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3010 = {
+	name = "Huset Jelbegi"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3011 = {
+	name = "Huset Hrus"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3012 = {
+	name = "Huset Wercheg"
+	culture = "alaish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3013 = {
+	name = "Huset Knudarr"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3014 = {
+	name = "Huset Logarsson"
+	culture = "alaish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3015 = {
+	name = "Huset Fenada"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3016 = {
+	name = "Huset Alburq"
+	culture = "alaish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3017 = {
+	name = "Huset Jayek"
+	culture = "alaish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3018 = {
+	name = "Huset Kulum"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3019 = {
+	name = "Huset Rizi"
+	culture = "gundigian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 7
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3020 = {
+	name = "Huset Fearichen"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3021 = {
+	name = "Huset Tehlrog"
+	culture = "argadish"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nordic_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# RHODOK DYNASTIES
+4000 = {
+	name = "Casa di Jelkala"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4001 = {
+	name = "Casa de Veluca"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4002 = {
+	name = "Clann Etrosq"
+	culture = "highlander"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4003 = {
+	name = "Clann Culmarr"
+	culture = "highlander"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4004 = {
+	name = "Casa de Pagundur"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4005 = {
+	name = "Casa di Saren"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4006 = {
+	name = "Casa di Jamicheville"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4007 = {
+	name = "Casa d'Ibdeles"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4008 = {
+	name = "Clann Yalen"
+	culture = "highlander"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4009 = {
+	name = "Casa di Chelez"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4010 = {
+	name = "Casa di Jamiche"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4011 = {
+	name = "Casa de Veluca"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4012 = {
+	name = "Dál Istiniar"
+	culture = "gleanntir"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4013 = {
+	name = "Casa d'Almerra"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4014 = {
+	name = "Casa di Sarimish"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4015 = {
+	name = "Dál Maras"
+	culture = "gleanntir"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4016 = {
+	name = "Casa de Ruldi"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4017 = {
+	name = "Casa di Grunwalder"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4018 = {
+	name = "Casa de Ergellon"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4019 = {
+	name = "Casa de Chaeza"
+	culture = "velucan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4020 = {
+	name = "Clann Ilvia"
+	culture = "highlander"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+4021 = {
+	name = "Casa d'Ibdelesville"
+	culture = "rhodok"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "calradic"
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# KHERGIT DYNASTIES
+5000 = {
+	name = "Tulga Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5001 = {
+	name = "Tulga Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5002 = {
+	name = "Tulbuk Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5003 = {
+	name = "Halmar Clan"
+	culture = "tarkhan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5004 = {
+	name = "Asugan Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5005 = {
+	name = "Narra Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5006 = {
+	name = "Malayurg Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5007 = {
+	name = "Zagush Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5008 = {
+	name = "Bhulaban Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5009 = {
+	name = "Dirigh Aban Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5010 = {
+	name = "Distar Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5011 = {
+	name = "Bulugur Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5012 = {
+	name = "Sungetche Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5013 = {
+	name = "Ada Kulun Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5014 = {
+	name = "Uhhun Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5015 = {
+	name = "Kedelke Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5016 = {
+	name = "Dugan Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "nestorian"
+		template = 0
+		layer = {
+			texture = 9
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5017 = {
+	name = "Ichamur Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5018 = {
+	name = "Dashbigha Clan"
+	culture = "nomadic"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5019 = {
+	name = "Tash Kulun Clan"
+	culture = "najar"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5020 = {
+	name = "Unuzdaq Clan"
+	culture = "tarkhan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "jewish"
+		template = 0
+		layer = {
+			texture = 5
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+5021 = {
+	name = "Tulbuk Clan"
+	culture = "ergenek"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "steppe_pagan"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# SARRANID DYNASTIES
+6000 = {
+	name = "Sarranid"
+	culture = "bezanian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6001 = {
+	name = "Ayzarid"
+	culture = "sarrdak"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sarrani"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6002 = {
+	name = "Sekhtemid"
+	culture = "tarkhan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6003 = {
+	name = "Bariyyeid"
+	culture = "sarrdak"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sarrani"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6004 = {
+	name = "Weyyahid"
+	culture = "bezanian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6005 = {
+	name = "Rushdighid"
+	culture = "bezanian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6006 = {
+	name = "Fisharaid"
+	culture = "sarrdak"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6007 = {
+	name = "Tazjunatid"
+	culture = "qardeb"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "manichean"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6008 = {
+	name = "Bardaqid"
+	culture = "sarrdak"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6009 = {
+	name = "Jameyyadid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6010 = {
+	name = "Qalyutid"
+	culture = "mushreg"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6011 = {
+	name = "Ahmerradid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "ibadi"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6012 = {
+	name = "Mawitiid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "ibadi"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6013 = {
+	name = "Dhibbainid"
+	culture = "bezanian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6014 = {
+	name = "Samarraid"
+	culture = "tarkhan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6015 = {
+	name = "Durrinid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6016 = {
+	name = "Sharwaid"
+	culture = "qardeb"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "manichean"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6017 = {
+	name = "Carafid"
+	culture = "bezanian"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6018 = {
+	name = "Terammaid"
+	culture = "tarkhan"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "sunni"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6019 = {
+	name = "Mijayetid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6020 = {
+	name = "Tilimsalid"
+	culture = "mushreg"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+6021 = {
+	name = "Durqubaid"
+	culture = "sandman"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+# ASIAN DYNASTIES
+
+# Easter Eggs
+
+10000 = {
+	name = "Coruh"
+	culture = "ergenek"
+	religion = "sunni"
+	used_for_random = no
+	can_appear = no
+}
+
+10001 = {
+	name = "Coruh"
+	culture = "ergenek"
+	religion = "sunni"
+	used_for_random = no
+	can_appear = no
+}
+
+11000 = {
+	name = "Gultekin"
+	culture = "tarkhan"
+	religion = "sunni"
+	used_for_random = no
+	can_appear = no
+}
+
+11001 = {
+	name = "Gultekin"
+	culture = "tarkhan"
+	religion = "sunni"
+	used_for_random = no
+	can_appear = no
+}
+
+#12000 = {
+#	name = "Flick"
+#	culture = ""
+#	religion = ""
+#	used_for_random = no
+#	can_appear = no
+#}

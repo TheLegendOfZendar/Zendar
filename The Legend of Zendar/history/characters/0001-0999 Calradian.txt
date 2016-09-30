@@ -1,0 +1,142 @@
+# STRUCTURE
+#1-6: Player Characters
+#7-99: Warband
+#100-499: Pre-Warband
+#500-899: Bannerlord
+#900-999: Lineage
+
+# PLAYERS
+
+1 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 1
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+2 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 2
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+3 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 3
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+4 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 4
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+5 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 5
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+6 = {
+	name = "Player"
+	occluded = yes
+	dynasty = 6
+	
+	culture = "bezanian"
+	religion = "shiite"
+	
+	1.1.1 = {
+		birth = yes
+	}
+	
+	1453.1.1 = {
+		death = yes
+	}
+}
+
+#100 = {
+#	name = "Cradon"
+#	dynasty = 100
+#	
+#	culture = "imperial"
+#	religion = "calradian_pagan"
+#	
+#	1096.1.14 = {
+#		birth = yes
+#	}
+#	
+#	1167.6.18 = {
+#		death = yes
+#	}
+#}
+#
+#101 = {
+#	name = "Raesse"
+#	female = yes
+#	
+#	culture = "imperial"
+#	religion = "calradian_pagan"
+#	
+#	1098.1.5 = {
+#		birth = yes
+#	}
+#	
+#	1167.6.18 = {
+#		death = yes
+#	}
+#}

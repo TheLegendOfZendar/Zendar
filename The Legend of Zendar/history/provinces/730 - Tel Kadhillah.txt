@@ -1,0 +1,22 @@
+# 730 - Tel Kadhillah
+
+# County Title
+title = c_telkadhillah
+
+# Settlements
+max_settlements = 1
+b_telkadhillah = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = pashtan
+	religion = zoroastrian
+}

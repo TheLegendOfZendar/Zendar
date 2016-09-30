@@ -1,0 +1,24 @@
+# 656 - Rushdigh
+
+# County Title
+title = c_rushdigh
+
+# Settlements
+max_settlements = 3
+b_rushdigh = castle
+b_yanab = city
+#b_dhitis = temple
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

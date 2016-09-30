@@ -1,0 +1,7 @@
+1244.3.18={
+	liege = d_shariz
+	holder = 6101 #Emir Baybak
+}
+1248.5.11={
+	holder = 6000 #Sultan Hakim
+}

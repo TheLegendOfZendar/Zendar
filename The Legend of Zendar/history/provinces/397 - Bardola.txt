@@ -1,0 +1,25 @@
+# 397 - Bardola
+
+# County Title
+title = c_bardola
+
+# Settlements
+max_settlements = 4
+#b_bardola = castle
+#b_crahtaichin = city
+#b_shaproglum = temple
+#b_sumreyeck = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

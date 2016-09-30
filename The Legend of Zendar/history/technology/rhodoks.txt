@@ -1,0 +1,54 @@
+#RHODOK
+
+technology = {
+	titles = {
+		d_jelkala
+		d_veluca
+		d_yalen
+		d_almerra
+		d_culmarr
+		d_ergellon
+		d_etrosq
+		d_grunwalder
+		d_ibdelesville
+		d_jamiche
+		d_maras
+		d_buvran
+		d_chaeza
+		d_chelez
+		d_dirigsene
+		d_dumar
+		d_emer
+		d_epeshe
+		d_fedner
+		d_glunmar
+		d_ibdeles
+		d_ilvia
+		d_istiniar
+		d_jamicheville
+		d_pagundur
+		d_reveran
+		d_ruldi
+		d_saren
+		d_sarimish
+		d_serindiar
+	}
+	
+	1060 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1200 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1453 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

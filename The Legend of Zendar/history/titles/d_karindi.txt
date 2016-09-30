@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 2010 # Boyar Kumipa
+	liege = k_reyvadin
+}

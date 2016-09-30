@@ -1,0 +1,22 @@
+# 628 - Dorji
+
+# County Title
+title = c_dorji
+
+# Settlements
+max_settlements = 2
+b_dorji = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = jewish
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = jewish
+}

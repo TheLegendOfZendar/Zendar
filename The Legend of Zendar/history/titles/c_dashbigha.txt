@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_dashbigha
+	holder = 5018 #Tulug Noyan
+}

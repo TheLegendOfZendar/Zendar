@@ -1,0 +1,25 @@
+# 404 - Dramug
+
+# County Title
+title = c_dramug
+
+# Settlements
+max_settlements = 4
+b_dramug = castle
+b_ugdin = city
+#b_miuldra = temple
+#b_midi = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

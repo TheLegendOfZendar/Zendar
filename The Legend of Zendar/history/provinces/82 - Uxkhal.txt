@@ -1,0 +1,26 @@
+# 82 - Uxkhal
+
+# County Title
+title = c_uxkhal
+
+# Settlements
+max_settlements = 5
+b_uxkhal = castle
+b_kelan = city
+b_habbe = temple
+#b_melenhar = castle
+#b_mirdar = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

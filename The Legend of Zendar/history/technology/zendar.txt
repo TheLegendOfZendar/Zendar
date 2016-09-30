@@ -1,0 +1,25 @@
+#CALRADIA
+
+technology = {
+	titles = {
+		d_zendar
+	}
+	
+	1060 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+	
+	1200 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1453 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

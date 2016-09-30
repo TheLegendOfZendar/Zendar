@@ -1,0 +1,52 @@
+world_zendar = {
+	duchies = {
+		d_zendar
+	}
+}
+
+world_khergit = {
+	duchies = {
+		d_adakulun d_amashke d_asugan d_bulugur d_dashbigha d_dirighaban d_distar d_dugan d_dusturil d_ehlerdah d_halmar d_ichamur d_jameyyed d_kedelke d_malayurg d_mazigh d_narra d_peshmi d_reindi d_tashkulun d_tulbuk d_tulbukville d_tulga d_uhhun d_uhhunville d_unuzdaq d_zagush	
+	}
+}
+
+world_nords = {
+	duchies = {
+		d_alburq d_aldelen d_ambean d_buillin d_chalbek d_curin d_fearichen d_fenada d_haen d_hrus d_jayek d_jeirbe d_jelbegi d_jelbegiville d_knudarr d_kulum d_kwynn d_mazen d_mechin d_odasan d_rizi d_ruvar d_sargoth d_tehlrog d_tihr d_vayejeg d_wercheg
+	}
+}
+
+world_rhodoks = {
+	duchies = {
+		d_almerra d_buvran d_chaeza d_chelez d_culmarr d_dirigsene d_dumar d_emer d_epeshe d_ergellon d_etrosq d_fedner d_glunmar d_grunwalder d_ibdeles d_ibdelesville d_ilvia d_istiniar d_jamiche d_jamicheville d_jelkala d_maras d_pagundur d_reveran d_ruldi d_saren d_sarimish d_serindiar d_veluca d_vyincourd d_yalen d_yaragar
+	}
+}
+
+world_sarranid = {
+	duchies = {
+		d_aab d_ahmerrad d_aynassuadi d_bardaq d_bariyye d_caraf d_dhibbain d_durquba d_durrin d_fishara d_habba d_hawaha d_iqbayl d_mawiti d_mijayet d_mitnun d_qalyut d_rushdigh d_samarra d_sekhtem d_shariz d_sharwa d_shibalzumr d_tamnuh d_tazjunat d_teremma d_tilimsal d_unriya d_uzgha d_weyyah
+	}
+}
+
+world_swadia = {
+	duchies = {
+		d_amere d_azgad d_balanli d_burglen d_chide d_derchios d_dhirim d_elberl d_emirin d_gisim d_haringoth d_ibiran d_iyindah d_kelredan d_nemeja d_nomar d_praven d_rduna d_rindyar d_ruluns d_ryibelet d_ryibeletville d_senuzgda d_suno d_tadsamesh d_tahlberl d_tevarin d_tilbaut d_tosdhar d_tshibtin d_ushkuru d_uxkhal d_veidar d_yalibe
+	}
+}
+
+world_vaegirs = {
+	duchies = {
+		d_ayyike d_bazeck d_bhulaban d_bulugha d_curaw d_dramug d_fisdnar d_hanun d_ismirala d_ismiralaville d_karindi d_khudan d_nelag d_radoghir d_rebache d_reyvadin d_rivacheg d_shapeshte d_shulus d_slezkh d_slezkhville d_sumbuja d_sungetche d_tebandra d_tismirr d_udiniad d_ulburban d_uslum d_vezin d_yruma
+	}
+}
+
+
+
+custom_historical_plague_free_zone = {
+	duchies = {
+	
+	}
+	counties = {
+	
+	}
+}

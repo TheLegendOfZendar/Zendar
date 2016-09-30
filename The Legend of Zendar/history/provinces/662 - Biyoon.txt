@@ -1,0 +1,22 @@
+# 662 - Biyoon
+
+# County Title
+title = c_biyoon
+
+# Settlements
+max_settlements = 1
+b_biyoon = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = haramid
+	religion = zun_pagan
+}

@@ -1,0 +1,22 @@
+# 268 - Piegne
+
+# County Title
+title = c_piegne
+
+# Settlements
+max_settlements = 1
+b_piegne = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = rhodok
+	religion = calradic
+}

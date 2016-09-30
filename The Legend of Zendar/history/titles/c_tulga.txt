@@ -1,0 +1,7 @@
+1197.1.1={
+	liege = d_tulga
+	holder = 5100 #Janakir Khan
+}
+1248.5.18={
+	holder = 5000 #Sanjar Khan
+}

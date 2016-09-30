@@ -1,0 +1,7 @@
+1164.3.3={
+	holder = 1100 # King Esterich
+}
+1236.8.4={
+	holder = 1000 # King Harlaus
+	liege = d_praven
+}

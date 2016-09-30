@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = k_yalentribute
+	holding_dynasty = 4008 #Clann Yalen
+	holder = 4008 #Count Gutlans
+}

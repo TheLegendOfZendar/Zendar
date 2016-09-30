@@ -1,0 +1,1833 @@
+# SARRANID:
+
+e_sarranid = {
+	color = { 221 221 51 }
+	color2 = { 0 0 0 }
+	
+	coat_of_arms = {
+	religion = "shiite"
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	
+	capital = 630 # Shariz
+	
+	short_name = yes
+	dynasty_title_names = no
+	
+	has_top_de_jure_capital = yes
+	
+	k_shariz = {
+		color = { 100 155 25 }
+		color2 = { 0 0 0 }
+		
+		capital = 630 # Shariz
+		
+		d_shariz = {
+			color = { 153 154 51 }
+			color2 = { 255 255 255 }
+		
+			capital = 630 # Shariz
+		
+			c_shariz = {
+				color = { 153 154 51 }
+				color2 = { 255 255 255 }
+				
+				b_shariz = {}
+				b_zaiye = {}
+				b_tidi = {}
+				b_winat = {}
+				b_dhibal = {}
+				b_nameha = {}
+				b_khasekhyl = {}
+			}
+			c_mushtes = {
+				color = { 170 171 48 }
+				color2 = { 255 255 255 }
+				
+				b_mushtes = {}
+				b_shahana = {}
+				b_iqmin = {}
+				b_lasshikha = {}
+				b_lima = {}
+				b_mazya = {}
+				b_lakis = {}
+			}
+			c_herendi = {
+				color = { 168 169 56 }
+				color2 = { 255 255 255 }
+				
+				b_herendi = {}
+				b_surwan = {}
+				b_qubak = {}
+				b_nunwan = {}
+				b_rushba = {}
+				b_duya = {}
+				b_doin = {}
+			}
+			c_najashahr = {
+				color = { 206 207 86 }
+				color2 = { 255 255 255 }
+				
+				b_najashahr = {}
+				b_weyut = {}
+				b_mitnuh = {}
+				b_unfar = {}
+				b_nalya = {}
+				b_doradwa = {}
+				b_meyya = {}
+			}
+			c_harawi = {
+				color = { 211 213 12 }
+				color2 = { 255 255 255 }
+				
+				b_harawi = {}
+				b_ramsekhsa = {}
+				b_itis = {}
+				b_nais = {}
+				b_ghuthalir = {}
+				b_hisurbak = {}
+				b_mundya = {}
+			}
+			c_bijadoab = {
+				color = { 222 223 49 }
+				color2 = { 255 255 255 }
+				
+				b_bijadoab = {}
+				b_ryrad = {}
+				b_maiqriz = {}
+				b_diya = {}
+				b_tazin = {}
+				b_limba = {}
+				b_asmuhlya = {}
+			}
+		}
+		
+		d_hawaha = {
+			color = { 194 196 47 }
+			color2 = { 255 255 255 }
+		
+			capital = 636 # Hawaha
+		
+			c_hawaha = {
+				color = { 194 196 47 }
+				color2 = { 255 255 255 }
+				
+				b_hawaha = {}
+				b_suasa = {}
+				b_mawa = {}
+				b_mitha = {}
+				b_durnaimin = {}
+				b_bayramhem = {}
+				b_dhashshatyul = {}
+			}
+			c_tikrigash = {
+				color = { 208 210 38 }
+				color2 = { 255 255 255 }
+				
+				b_tikrigash = {}
+				b_muhdutis = {}
+				b_durwas = {}
+				b_ayyluwa = {}
+				b_uut = {}
+				b_mirin = {}
+				b_rylimrad = {}
+			}
+			c_diwabjah = {
+				color = { 228 230 0 }
+				color2 = { 255 255 255 }
+				
+				b_diwabjah = {}
+				b_meyyl = {}
+				b_qama = {}
+				b_ardusa = {}
+				b_teqa = {}
+				b_balya = {}
+				b_barsa = {}
+			}
+		}
+		
+		d_weyyah = {
+			color = { 181 183 51 }
+			color2 = { 255 255 255 }
+		
+			capital = 639 # Weyyah
+		
+			c_weyyah = {
+				color = { 181 183 51 }
+				color2 = { 255 255 255 }
+				
+				b_weyyah = {}
+				b_zathasa = {}
+				b_maryul = {}
+				b_aswan = {}
+				b_habdar = {}
+				b_nasan = {}
+				b_duratis = {}
+			}
+			c_armaria = {
+				color = { 254 255 0 }
+				color2 = { 255 255 255 }
+				
+				b_armaria = {}
+				b_qaut = {}
+				b_dhashriz = {}
+				b_ayyah = {}
+				b_qaamyed = {}
+				b_weyye = {}
+				b_nula = {}
+			}
+			c_khuter = {
+				color = { 230 232 54 }
+				color2 = { 255 255 255 }
+				
+				b_khuter = {}
+				b_ayyra = {}
+				b_muhwa = {}
+				b_mazmin = {}
+				b_duthan = {}
+				b_arun = {}
+				b_bimaam = {}
+			}
+			c_gurazzan = {
+				color = { 210 212 40 }
+				color2 = { 255 255 255 }
+				
+				b_gurazzan = {}
+				b_dhisen = {}
+				b_arwan = {}
+				b_mundsurzan = {}
+				b_khanara = {}
+				b_weyryyed = {}
+				b_dhirad = {}
+			}
+			c_medimran = {
+				color = { 241 243 84 }
+				color2 = { 255 255 255 }
+				
+				b_medimran = {}
+				b_ruha = {}
+				b_sekhrad = {}
+				b_arha = {}
+				b_samimin = {}
+				b_mema = {}
+				b_lywanab = {}
+			}
+		}
+		
+		d_aynassuadi = {
+			color = { 180 181 92 }
+			color2 = { 255 255 255 }
+		
+			capital = 644 # Ayn Assuadi
+		
+			c_aynassuadi = {
+				color = { 180 181 92 }
+				color2 = { 255 255 255 }
+				
+				b_aynassuadi = {}
+				b_marye = {}
+				b_weyin = {}
+				b_dhima = {}
+				b_fisha = {}
+				b_rura = {}
+				b_hazansal = {}
+			}
+			c_sahadschil = {
+				color = { 178 179 0 }
+				color2 = { 255 255 255 }
+				
+				b_sahadschil = {}
+				b_lyba = {}
+				b_mundet = {}
+				b_hiistem = {}
+				b_muhin = {}
+				b_ahya = {}
+				b_namin = {}
+			}
+			c_faqisab = {
+				color = { 225 227 50 }
+				color2 = { 255 255 255 }
+				
+				b_faqisab = {}
+				b_julimsa = {}
+				b_yaayla = {}
+				b_yamin = {}
+				b_dhiramwas = {}
+				b_weyhem = {}
+				b_riylir = {}
+			}
+			c_sasazah = {
+				color = { 232 234 69 }
+				color2 = { 255 255 255 }
+				
+				b_sasazah = {}
+				b_numitam = {}
+				b_dibatis = {}
+				b_zumraf = {}
+				b_udi = {}
+				b_marnunyl = {}
+				b_jayba = {}
+			}
+		}
+		
+		d_mitnun = {
+			color = { 232 234 46 }
+			color2 = { 255 255 255 }
+		
+			capital = 648 # Mit Nun
+		
+			c_mitnun = {
+				color = { 232 234 46 }
+				color2 = { 255 255 255 }
+				
+				b_mitnun = {}
+				b_rishiwa = {}
+				b_zanlya = {}
+				b_aykha = {}
+				b_mewa = {}
+				b_mundthan = {}
+				b_tela = {}
+			}
+			c_sasahnaya = {
+				color = { 225 227 61 }
+				color2 = { 255 255 255 }
+				
+				b_sasahnaya = {}
+				b_limsan = {}
+				b_uun = {}
+				b_tisan = {}
+				b_jawan = {}
+				b_radhem = {}
+				b_jayigh = {}
+			}
+			c_didinpasa = {
+				color = { 127 128 0 }
+				color2 = { 255 255 255 }
+				
+				b_didinpasa = {}
+				b_mundlimwa = {}
+				b_maya = {}
+				b_mesurin = {}
+				b_fijusa = {}
+				b_duryasnab = {}
+				b_hisa = {}
+			}
+		}
+		
+		d_caraf = {
+			color = { 203 204 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 651 # Caraf
+		
+			c_caraf = {
+				color = { 203 204 0 }
+				color2 = { 255 255 255 }
+				
+				b_caraf = {}
+				b_merfan = {}
+				b_nuwa = {}
+				b_fisas = {}
+				b_zayasdar = {}
+				b_dozar = {}
+				b_luya = {}
+			}
+			c_findiyayla = {
+				color = { 205 207 60 }
+				color2 = { 255 255 255 }
+				
+				b_findiyayla = {}
+				b_thanuhem = {}
+				b_dutem = {}
+				b_righudigh = {}
+				b_shiyed = {}
+				b_rayma = {}
+				b_suaya = {}
+			}
+			c_deylahriar = {
+				color = { 187 188 74 }
+				color2 = { 255 255 255 }
+				
+				b_deylahriar = {}
+				b_ayasmin = {}
+				b_rushqa = {}
+				b_cayl = {}
+				b_arweymin = {}
+				b_shibayla = {}
+				b_amhem = {}
+			}
+			c_lavalard = {
+				color = { 227 229 84 }
+				color2 = { 255 255 255 }
+				
+				b_lavalard = {}
+				b_shiis = {}
+				b_weyun = {}
+				b_sharyul = {}
+				b_naiam = {}
+				b_idi = {}
+				b_fismundnuh = {}
+			}
+			c_shalujah = {
+				color = { 175 176 72 }
+				color2 = { 255 255 255 }
+				
+				b_shalujah = {}
+				b_meybarti = {}
+				b_naidaq = {}
+				b_nunfar = {}
+				b_unshinab = {}
+				b_aabyl = {}
+				b_bawmin = {}
+			}
+		}
+		
+		d_rushdigh = {
+			color = { 165 166 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 656 # Rushdigh
+		
+			c_rushdigh = {
+				color = { 165 166 0 }
+				color2 = { 255 255 255 }
+				
+				b_rushdigh = {}
+				b_yanab = {}
+				b_dhitis = {}
+				b_tazbak = {}
+				b_lyhiyul = {}
+				b_hisan = {}
+				b_maha = {}
+			}
+			c_miqdaveh = {
+				color = { 249 251 73 }
+				color2 = { 255 255 255 }
+				
+				b_miqdaveh = {}
+				b_ardi = {}
+				b_umuhut = {}
+				b_uzgliyed = {}
+				b_iqra = {}
+				b_rayjumin = {}
+				b_riyra = {}
+			}
+			c_khabaroh = {
+				color = { 227 229 91 }
+				color2 = { 255 255 255 }
+				
+				b_khabaroh = {}
+				b_bawwa = {}
+				b_dima = {}
+				b_dhashla = {}
+				b_hiwal = {}
+				b_juis = {}
+				b_lajayya = {}
+			}
+			c_shubradiyah = {
+				color = { 208 210 82 }
+				color2 = { 255 255 255 }
+				
+				b_shubradiyah = {}
+				b_weyis = {}
+				b_lakwal = {}
+				b_juriz = {}
+				b_dhashsurti = {}
+				b_bawtem = {}
+				b_caet = {}
+			}
+		}
+		
+		d_dhibbain = {
+			color = { 152 153 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 660 # Dhibbain
+		
+			c_dhibbain = {
+				color = { 152 153 0 }
+				color2 = { 255 255 255 }
+				
+				b_dhibbain = {}
+				b_risuyl = {}
+				b_nunthan = {}
+				b_ryra = {}
+				b_irayqa = {}
+				b_ghumin = {}
+				b_habtelir = {}
+			}
+			c_jubadayea = {
+				color = { 216 217 106 }
+				color2 = { 255 255 255 }
+				
+				b_jubadayea = {}
+				b_tazis = {}
+				b_rushsen = {}
+				b_tazwal = {}
+				b_rudar = {}
+				b_dhidi = {}
+				b_suayah = {}
+			}
+			c_biyoon = {
+				color = { 231 232 130 }
+				color2 = { 255 255 255 }
+				
+				b_biyoon = {}
+				b_ryusal = {}
+				b_lutem = {}
+				b_radwa = {}
+				b_baytazna = {}
+				b_nunbayra = {}
+				b_aabsa = {}
+			}
+			c_addiriyah = {
+				color = { 223 225 77 }
+				color2 = { 255 255 255 }
+				
+				b_addiriyah = {}
+				b_marsa = {}
+				b_mafar = {}
+				b_aabnir = {}
+				b_firiwan = {}
+				b_bayarsen = {}
+				b_durzar = {}
+			}
+		}
+		
+		d_qalyut = {
+			color = { 191 191 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 664 # Qalyut
+		
+			c_qalyut = {
+				color = { 191 191 0 }
+				color2 = { 255 255 255 }
+				
+				b_qalyut = {}
+				b_wasen = {}
+				b_tamba = {}
+				b_jarin = {}
+				b_zadi = {}
+				b_aablasyah = {}
+				b_merdaq = {}
+			}
+			c_addibishah = {
+				color = { 199 201 62 }
+				color2 = { 255 255 255 }
+				
+				b_addibishah = {}
+				b_merjala = {}
+				b_uwaqa = {}
+				b_wafan = {}
+				b_zaya = {}
+				b_zasuun = {}
+				b_maztis = {}
+			}
+			c_mneedani = {
+				color = { 225 227 67 }
+				color2 = { 255 255 255 }
+				
+				b_mneedani = {}
+				b_dhibnir = {}
+				b_nulir = {}
+				b_limwas = {}
+				b_khaet = {}
+				b_fislabal = {}
+				b_ghanat = {}
+			}
+			c_sasadaya = {
+				color = { 176 177 66 }
+				color2 = { 255 255 255 }
+				
+				b_sasadaya = {}
+				b_fisyl = {}
+				b_nunigh = {}
+				b_isqa = {}
+				b_meyshisa = {}
+				b_mitla = {}
+				b_caya = {}
+			}
+		}
+		
+		d_tilimsal = {
+			color = { 230 232 76 }
+			color2 = { 255 255 255 }
+		
+			capital = 668 # Tilimsal
+		
+			c_tilimsal = {
+				color = { 230 232 76 }
+				color2 = { 255 255 255 }
+				
+				b_tilimsal = {}
+				b_uzgmeyha = {}
+				b_laklir = {}
+				b_rydurbak = {}
+				b_mirisan = {}
+				b_nairaywas = {}
+				b_duwa = {}
+			}
+			c_findica = {
+				color = { 251 253 61 }
+				color2 = { 255 255 255 }
+				
+				b_findica = {}
+				b_habdigh = {}
+				b_tinat = {}
+				b_laslimra = {}
+				b_radin = {}
+				b_quasraf = {}
+				b_dhashyl = {}
+			}
+			c_abirsamba = {
+				color = { 140 140 0 }
+				color2 = { 255 255 255 }
+				
+				b_abirsamba = {}
+				b_barla = {}
+				b_difar = {}
+				b_samin = {}
+				b_surhabmin = {}
+				b_qutazun = {}
+				b_bayhem = {}
+			}
+			c_shirahnuj = {
+				color = { 225 227 29 }
+				color2 = { 255 255 255 }
+				
+				b_shirahnuj = {}
+				b_aynishem = {}
+				b_doiqwan = {}
+				b_simazsen = {}
+				b_aynyl = {}
+				b_dhashradut = {}
+				b_zayed = {}
+			}
+		}
+	}
+
+	k_durquba = {
+		color = { 0 155 0 }
+		color2 = { 255 255 255 }
+		
+		capital = 692 # Durquba
+		
+		d_durquba = {
+			color = { 217 219 46 }
+			color2 = { 255 255 255 }
+		
+			capital = 692 # Durquba
+		
+			c_durquba = {
+				color = { 217 219 46 }
+				color2 = { 255 255 255 }
+				
+				b_durquba = {}
+				b_riymidaq = {}
+				b_qaqa = {}
+				b_tamzanab = {}
+				b_sharmin = {}
+				b_weymelya = {}
+				b_zumrlir = {}
+			}
+			c_ninesh = {
+				color = { 127 128 32 }
+				color2 = { 255 255 255 }
+				
+				b_ninesh = {}
+				b_rushmaznir = {}
+				b_suasan = {}
+				b_dibaras = {}
+				b_amdar = {}
+				b_dora = {}
+				b_ramdhashin = {}
+			}
+			c_balamaniyah = {
+				color = { 206 208 64 }
+				color2 = { 255 255 255 }
+				
+				b_balamaniyah = {}
+				b_qabal = {}
+				b_aydi = {}
+				b_tera = {}
+				b_bawha = {}
+				b_nuya = {}
+				b_ayyraynab = {}
+			}
+			c_senuyum = {
+				color = { 223 225 36 }
+				color2 = { 255 255 255 }
+				
+				b_senuyum = {}
+				b_rysekhmin = {}
+				b_rimeyha = {}
+				b_jaywa = {}
+				b_luaabnir = {}
+				b_jaytazas = {}
+				b_tizan = {}
+			}
+			c_faidfa = {
+				color = { 198 200 34 }
+				color2 = { 255 255 255 }
+				
+				b_faidfa = {}
+				b_bawa = {}
+				b_ihiyl = {}
+				b_radut = {}
+				b_uya = {}
+				b_shanat = {}
+				b_qusuret = {}
+			}
+			c_dammafuf = {
+				color = { 215 217 28 }
+				color2 = { 255 255 255 }
+				
+				b_dammafuf = {}
+				b_amiqlya = {}
+				b_athan = {}
+				b_yalayl = {}
+				b_suaha = {}
+				b_tammin = {}
+				b_marbak = {}
+			}
+		}
+		
+		d_sekhtem = {
+			color = { 215 217 23 }
+			color2 = { 255 255 255 }
+		
+			capital = 688 # Sekhtem
+		
+			c_sekhtem = {
+				color = { 215 217 23 }
+				color2 = { 255 255 255 }
+				
+				b_sekhtem = {}
+				b_aya = {}
+				b_baydar = {}
+				b_radis = {}
+				b_zanam = {}
+				b_sekhnat = {}
+				b_dhibma = {}
+			}
+			c_kemerasi = {
+				color = { 208 210 5 }
+				color2 = { 255 255 255 }
+				
+				b_kemerasi = {}
+				b_weywa = {}
+				b_shidigh = {}
+				b_mebaryah = {}
+				b_riylya = {}
+				b_dima = {}
+				b_rayya = {}
+			}
+			c_kamyarmagh = {
+				color = { 211 213 64 }
+				color2 = { 255 255 255 }
+				
+				b_kamyarmagh = {}
+				b_zansursa = {}
+				b_riyma = {}
+				b_linundar = {}
+				b_sekhmanir = {}
+				b_fisis = {}
+				b_baaabwas = {}
+			}
+			c_foush = {
+				color = { 203 204 51 }
+				color2 = { 255 255 255 }
+				
+				b_foush = {}
+				b_mitsen = {}
+				b_dudigh = {}
+				b_bayye = {}
+				b_munddaq = {}
+				b_lasaya = {}
+				b_wiwa = {}
+			}
+		}
+		
+		d_tamnuh = {
+			color = { 196 198 32 }
+			color2 = { 255 255 255 }
+		
+			capital = 698 # Tamnuh
+		
+			c_tamnuh = {
+				color = { 196 198 32 }
+				color2 = { 255 255 255 }
+				
+				b_tamnuh = {}
+				b_sumin = {}
+				b_ghawa = {}
+				b_janab = {}
+				b_khayasma = {}
+				b_bayfan = {}
+				b_wawan = {}
+			}
+			c_dubadal = {
+				color = { 201 203 28 }
+				color2 = { 255 255 255 }
+				
+				b_dubadal = {}
+				b_wihem = {}
+				b_juzan = {}
+				b_aabsurnir = {}
+				b_qununam = {}
+				b_mundut = {}
+				b_dhibramrad = {}
+			}
+			c_alfarbah = {
+				color = { 206 208 59 }
+				color2 = { 255 255 255 }
+				
+				b_alfarbah = {}
+				b_bawut = {}
+				b_ahundigh = {}
+				b_nairiz = {}
+				b_ramfan = {}
+				b_marfissa = {}
+				b_lyya = {}
+			}
+			c_alhudamnat = {
+				color = { 152 153 38 }
+				color2 = { 255 255 255 }
+				
+				b_alhudamnat = {}
+				b_maztifar = {}
+				b_shatmazbak = {}
+				b_weywas = {}
+				b_dilir = {}
+				b_rayzar = {}
+				b_bayzan = {}
+			}
+		}
+		
+		d_teremma = {
+			color = { 198 200 65 }
+			color2 = { 255 255 255 }
+		
+			capital = 675 # Teremma
+		
+			c_teremma = {
+				color = { 198 200 65 }
+				color2 = { 255 255 255 }
+				
+				b_teremma = {}
+				b_wiigh = {}
+				b_muhya = {}
+				b_rurydigh = {}
+				b_filutem = {}
+				b_suadaq = {}
+				b_casa = {}
+			}
+			c_anrasra = {
+				color = { 182 184 27 }
+				color2 = { 255 255 255 }
+				
+				b_anrasra = {}
+				b_dursa = {}
+				b_nashiqa = {}
+				b_surya = {}
+				b_fiswasa = {}
+				b_thamuhsen = {}
+				b_shinir = {}
+			}
+			c_arilem = {
+				color = { 193 195 43 }
+				color2 = { 255 255 255 }
+				
+				b_arilem = {}
+				b_mazdun = {}
+				b_meylydar = {}
+				b_kharisen = {}
+				b_rushyl = {}
+				b_rufitem = {}
+				b_bardigh = {}
+			}
+			c_caista = {
+				color = { 241 242 0 }
+				color2 = { 255 255 255 }
+				
+				b_caista = {}
+				b_dhiut = {}
+				b_sitamwa = {}
+				b_hiha = {}
+				b_juya = {}
+				b_sekhkha = {}
+				b_iqkhana = {}
+			}
+			c_almirija = {
+				color = { 225 227 83 }
+				color2 = { 255 255 255 }
+				
+				b_almirija = {}
+				b_ghuun = {}
+				b_armeryul = {}
+				b_ahwal = {}
+				b_awas = {}
+				b_lutis = {}
+				b_zumrlaut = {}
+			}
+		}
+		
+		d_shibalzumr = {
+			color = { 177 179 36 }
+			color2 = { 255 255 255 }
+		
+			capital = 672 # Shibal Zumr
+		
+			c_shibalzumr = {
+				color = { 177 179 36 }
+				color2 = { 255 255 255 }
+				
+				b_shibalzumr = {}
+				b_teti = {}
+				b_surnunra = {}
+				b_qutem = {}
+				b_yasra = {}
+				b_dhila = {}
+				b_riha = {}
+			}
+			c_khoralan = {
+				color = { 184 186 27 }
+				color2 = { 255 255 255 }
+				
+				b_khoralan = {}
+				b_terira = {}
+				b_aynla = {}
+				b_bawryqa = {}
+				b_temundhem = {}
+				b_zahem = {}
+				b_dhiis = {}
+			}
+			c_annasilujah = {
+				color = { 184 186 27 }
+				color2 = { 255 255 255 }
+				
+				b_annasilujah = {}
+				b_unsen = {}
+				b_riwa = {}
+				b_durdaq = {}
+				b_ahdhibrin = {}
+				b_laye = {}
+				b_rushshatem = {}
+			}
+		}
+	}
+	
+	k_ahmerrad = {
+		color = { 75 155 75 }
+		color2 = { 255 255 255 }
+		
+		capital = 723 # Ahmerrad
+		
+		d_ahmerrad = {
+			color = { 123 124 19 }
+			color2 = { 255 255 255 }
+		
+			capital = 723 # Ahmerrad
+		
+			c_ahmerrad = {
+				color = { 123 124 19 }
+				color2 = { 255 255 255 }
+				
+				holy_site = steppe_pagan
+				holy_site = steppe_pagan_reformed
+				
+				b_ahmerrad = {}
+				b_menuh = {}
+				b_mityah = {}
+				b_iqmadi = {}
+				b_arlasal = {}
+				b_bayrin = {}
+				b_lytem = {}
+			}
+			c_rabima = {
+				color = { 193 195 34 }
+				color2 = { 255 255 255 }
+				
+				b_rabima = {}
+				b_unyl = {}
+				b_sharad = {}
+				b_riynadi = {}
+				b_iqyl = {}
+				b_weydhibin = {}
+				b_zumrwa = {}
+			}
+			c_bulanaga = {
+				color = { 225 227 54 }
+				color2 = { 255 255 255 }
+				
+				b_bulanaga = {}
+				b_naut = {}
+				b_mundraf = {}
+				b_bardi = {}
+				b_uzgra = {}
+				b_mundnuh = {}
+				b_luqati = {}
+			}
+			c_abyaqqez = {
+				color = { 203 205 32 }
+				color2 = { 255 255 255 }
+				
+				b_abyaqqez = {}
+				b_naitiya = {}
+				b_maramra = {}
+				b_shatye = {}
+				b_nanuh = {}
+				b_qain = {}
+				b_lubawa = {}
+			}
+			c_abyaroud = {
+				color = { 215 217 19 }
+				color2 = { 255 255 255 }
+				
+				b_abyaroud = {}
+				b_qumaet = {}
+				b_tenat = {}
+				b_suudi = {}
+				b_merba = {}
+				b_baryl = {}
+				b_ghahabyed = {}
+			}
+			c_shawja = {
+				color = { 241 242 61 }
+				color2 = { 255 255 255 }
+				
+				b_shawja = {}
+				b_maba = {}
+				b_meyti = {}
+				b_bawti = {}
+				b_habrad = {}
+				b_ghalimut = {}
+				b_dhibigh = {}
+			}
+		}
+		
+		d_mawiti = {
+			color = { 240 240 135 }
+			color2 = { 255 255 255 }
+		
+			capital = 719 # Mawiti
+		
+			c_mawiti = {
+				color = { 240 240 135 }
+				color2 = { 255 255 255 }
+				
+				b_mawiti = {}
+				b_surlimya = {}
+				b_laya = {}
+				b_radut = {}
+				b_mitdhib = {}
+				b_nunyah = {}
+				b_muhahdigh = {}
+			}
+			c_dhihi = {
+				color = { 140 140 35 }
+				color2 = { 255 255 255 }
+				
+				b_dhihi = {}
+				b_ayyraf = {}
+				b_iqrin = {}
+				b_zanundaq = {}
+				b_yayah = {}
+				b_habma = {}
+				b_doya = {}
+			}
+			c_alqadschil = {
+				color = { 234 236 79 }
+				color2 = { 255 255 255 }
+				
+				b_alqadschil = {}
+				b_lakiriz = {}
+				b_alama = {}
+				b_wima = {}
+				b_aynnuh = {}
+				b_shiut = {}
+				b_aynbaab = {}
+			}
+			c_nawannadi = {
+				color = { 229 231 29 }
+				color2 = { 255 255 255 }
+				
+				b_nawannadi = {}
+				b_birad = {}
+				b_lununat = {}
+				b_sadaqah = {}
+				b_tefidigh = {}
+				b_fisekhrin = {}
+				b_baydaq = {}
+			}
+		}
+		
+		d_mijayet = {
+			color = { 201 203 57 }
+			color2 = { 255 255 255 }
+		
+			capital = 705 # Mijayet
+		
+			c_mijayet = {
+				color = { 201 203 57 }
+				color2 = { 255 255 255 }
+				
+				b_mijayet = {}
+				b_saghurad = {}
+				b_uye = {}
+				b_bidi = {}
+				b_uba = {}
+				b_asya = {}
+				b_titeye = {}
+			}
+			c_aglayankaya = {
+				color = { 205 207 18 }
+				color2 = { 255 255 255 }
+				
+				b_aglayankaya = {}
+				b_lasbal = {}
+				b_lakdi = {}
+				b_mazye = {}
+				b_taziyah = {}
+				b_merzaraf = {}
+				b_wahhab = {}
+			}
+			c_bayipasa = {
+				color = { 187 189 28 }
+				color2 = { 255 255 255 }
+				
+				b_bayipasa = {}
+				b_bim = {}
+				b_dhashya = {}
+				b_dhiti = {}
+				b_huhigh = {}
+				b_nunat = {}
+				b_dhashtazin = {}
+			}
+			c_fashanshahr = {
+				color = { 165 166 41 }
+				color2 = { 255 255 255 }
+				
+				b_fashanshahr = {}
+				b_nadigh = {}
+				b_shadaq = {}
+				b_wisal = {}
+				b_ghunat = {}
+				b_nasidigh = {}
+				b_witamdigh = {}
+			}
+		}
+		
+		d_uzgha = {
+			color = { 238 241 10 }
+			color2 = { 255 255 255 }
+		
+			capital = 745 # Uzgha
+		
+			c_uzgha = {
+				color = { 238 241 10 }
+				color2 = { 255 255 255 }
+				
+				b_uzgha = {}
+				b_mundtem = {}
+				b_dhibra = {}
+				b_suriqin = {}
+				b_unyl = {}
+				b_khayl = {}
+				b_yasnuh = {}
+			}
+			c_parsatian = {
+				color = { 178 179 54 }
+				color2 = { 255 255 255 }
+				
+				b_parsatian = {}
+				b_sharraf = {}
+				b_meahnat = {}
+				b_mazra = {}
+				b_aynnat = {}
+				b_bawwa = {}
+				b_sarin = {}
+			}
+			c_kadhila = {
+				color = { 186 188 35 }
+				color2 = { 255 255 255 }
+				
+				b_kadhila = {}
+				b_bawra = {}
+				b_zanyed = {}
+				b_diwa = {}
+				b_fisma = {}
+				b_highara = {}
+				b_cabal = {}
+			}
+			c_telkhanalujah = {
+				color = { 236 239 4 }
+				color2 = { 255 255 255 }
+				
+				b_telkhanalujah = {}
+				b_bashatye = {}
+				b_ritem = {}
+				b_mimitraf = {}
+				b_rymuhbal = {}
+				b_jabal = {}
+				b_ruyah = {}
+			}
+		}
+		
+		d_durrin = {
+			color = { 217 219 17 }
+			color2 = { 255 255 255 }
+		
+			capital = 709 # Durrin
+		
+			c_durrin = {
+				color = { 217 219 17 }
+				color2 = { 255 255 255 }
+				
+				b_durrin = {}
+				b_cain = {}
+				b_limaye = {}
+				b_diha = {}
+				b_barin = {}
+				b_zanwa = {}
+				b_mardi = {}
+			}
+			c_pembekaya = {
+				color = { 216 217 54 }
+				color2 = { 255 255 255 }
+				
+				b_pembekaya = {}
+				b_widigh = {}
+				b_unshatma = {}
+				b_zumrti = {}
+				b_mitbaba = {}
+				b_aynwabi = {}
+				b_limya = {}
+			}
+			c_hillakho = {
+				color = { 203 205 18 }
+				color2 = { 255 255 255 }
+				
+				b_hillakho = {}
+				b_dhibal = {}
+				b_zandigh = {}
+				b_weyba = {}
+				b_qafirad = {}
+				b_zarin = {}
+				b_mitni = {}
+			}
+			c_zamia = {
+				color = { 164 166 16 }
+				color2 = { 255 255 255 }
+				
+				b_zamia = {}
+				b_aabyah = {}
+				b_aydigh = {}
+				b_zumrdaq = {}
+				b_lakya = {}
+				b_radzanyl = {}
+				b_aabrabbin = {}
+			}
+			c_fahel = {
+				color = { 229 232 11 }
+				color2 = { 255 255 255 }
+				
+				b_fahel = {}
+				b_ghaya = {}
+				b_shardiba = {}
+				b_biyah = {}
+				b_tishatyah = {}
+				b_tewidigh = {}
+				b_surdhibba = {}
+			}
+		}
+		
+		d_aab = {
+			color = { 240 243 23 }
+			color2 = { 255 255 255 }
+		
+			capital = 729 # Aab
+		
+			c_aab = {
+				color = { 240 243 23 }
+				color2 = { 255 255 255 }
+				
+				b_aab = {}
+				b_jaymuhdi = {}
+				b_liayet = {}
+				b_marnat = {}
+				b_aydaq = {}
+				b_lakyanat = {}
+				b_dhima = {}
+			}
+			c_telkadhillah = {
+				color = { 213 215 74 }
+				color2 = { 255 255 255 }
+				
+				b_telkadhillah = {}
+				b_biwa = {}
+				b_sekhma = {}
+				b_ritem = {}
+				b_ghamazraf = {}
+				b_menaiye = {}
+				b_muhdaq = {}
+			}
+			c_alkanaqiya = {
+				color = { 224 227 11 }
+				color2 = { 255 255 255 }
+				
+				b_alkanaqiya = {}
+				b_shananat = {}
+				b_ghayl = {}
+				b_qama = {}
+				b_qayed = {}
+				b_waba = {}
+				b_kharaf = {}
+			}
+		}
+		
+		d_samarra = {
+			color = { 251 253 87 }
+			color2 = { 255 255 255 }
+		
+			capital = 714 # Samarra
+		
+			c_samarra = {
+				color = { 251 253 87 }
+				color2 = { 255 255 255 }
+				
+				b_samarra = {}
+				b_hira = {}
+				b_turkoman = {}
+				b_khaznedarr = {}
+				b_turkmeneli = {}
+				b_saladin = {}
+				b_osmaneli = {}
+			}
+			c_kayalar = {
+				color = { 190 191 48 }
+				color2 = { 255 255 255 }
+				
+				b_kayalar = {}
+				b_sisal = {}
+				b_ramrin = {}
+				b_wiut = {}
+				b_hain = {}
+				b_himundbal = {}
+				b_duma = {}
+			}
+			c_hurma = {
+				color = { 199 201 58 }
+				color2 = { 255 255 255 }
+				
+				b_hurma = {}
+				b_palmiye = {}
+				b_nunyl = {}
+				b_barsal = {}
+				b_mitigh = {}
+				b_abal = {}
+				b_mariz = {}
+			}
+			c_alhasamiyya = {
+				color = { 233 236 11 }
+				color2 = { 255 255 255 }
+				
+				b_alhasamiyya = {}
+				b_yamitdigh = {}
+				b_ramha = {}
+				b_zandaq = {}
+				b_yastem = {}
+				b_zazumryah = {}
+				b_zanyed = {}
+			}
+			c_hofuhyan = {
+				color = { 220 222 50 }
+				color2 = { 255 255 255 }
+				
+				b_hofuhyan = {}
+				b_cadiye = {}
+				b_bimitriz = {}
+				b_arye = {}
+				b_cadoyah = {}
+				b_riha = {}
+				b_dhiiset = {}
+			}
+		}
+		
+		d_habba = {
+			color = { 178 179 45 }
+			color2 = { 255 255 255 }
+		
+			capital = 702 # Habba
+		
+			c_habba = {
+				color = { 178 179 45 }
+				color2 = { 255 255 255 }
+				
+				b_habba = {}
+				b_rybal = {}
+				b_ramba = {}
+				b_rinuh = {}
+				b_aabshatra = {}
+				b_dhibha = {}
+				b_undigh = {}
+			}
+			c_kisirkaya = {
+				color = { 191 193 51 }
+				color2 = { 255 255 255 }
+				
+				b_kisirkaya = {}
+				b_bawrad = {}
+				b_lynuwa = {}
+				b_maha = {}
+				b_naraynat = {}
+				b_ayndaqlar = {}
+				b_meylaut = {}
+			}
+			c_banisab = {
+				color = { 220 222 49 }
+				color2 = { 255 255 255 }
+				
+				b_banisab = {}
+				b_shiti = {}
+				b_asdi = {}
+				b_jayra = {}
+				b_nain = {}
+				b_suasurin = {}
+				b_tira = {}
+			}
+		}
+	}
+	
+	k_bariyye = {
+		color = { 205 205 100 }
+		color2 = { 255 255 255 }
+		
+		capital = 749 # Bariyye
+		
+		d_bariyye = {
+			color = { 153 155 20 }
+			color2 = { 255 255 255 }
+		
+			capital = 749 # Bariyye
+		
+			c_bariyye = {
+				color = { 153 155 20 }
+				color2 = { 255 255 255 }
+				
+				b_bariyye = {}
+				b_ghaet = {}
+				b_bawsal = {}
+				b_wirad = {}
+				b_mejuut = {}
+				b_doya = {}
+				b_thashanat = {}
+			}
+			c_alzarib = {
+				color = { 156 157 34 }
+				color2 = { 255 255 255 }
+				
+				b_alzarib = {}
+				b_meye = {}
+				b_udigh = {}
+				b_wati = {}
+				b_runat = {}
+				b_siya = {}
+				b_shatye = {}
+			}
+			c_etashtul = {
+				color = { 181 183 29 }
+				color2 = { 255 255 255 }
+				
+				b_etashtul = {}
+				b_unaiba = {}
+				b_lima = {}
+				b_rushba = {}
+				b_lasyl = {}
+				b_arjuyed = {}
+				b_merwa = {}
+			}
+			c_tanudina = {
+				color = { 234 236 28 }
+				color2 = { 255 255 255 }
+				
+				b_tanudina = {}
+				b_rushin = {}
+				b_nuahtem = {}
+				b_dhashdaq = {}
+				b_lyyed = {}
+				b_rayzanya = {}
+				b_tazrad = {}
+			}
+			c_dahahaban = {
+				color = { 241 242 12 }
+				color2 = { 255 255 255 }
+				
+				b_dahahaban = {}
+				b_baytem = {}
+				b_aardigh = {}
+				b_quaabyah = {}
+				b_baybal = {}
+				b_nunmerdaq = {}
+				b_iqraf = {}
+			}
+			c_dibarut = {
+				color = { 205 207 71 }
+				color2 = { 255 255 255 }
+				
+				b_dibarut = {}
+				b_rushut = {}
+				b_naibaye = {}
+				b_jaynunin = {}
+				b_ahsal = {}
+				b_dhinat = {}
+				b_zumrrad = {}
+			}
+		}
+		
+		d_fishara = {
+			color = { 193 195 33 }
+			color2 = { 255 255 255 }
+		
+			capital = 758 # Fishara
+		
+			c_fishara = {
+				color = { 193 195 33 }
+				color2 = { 255 255 255 }
+				
+				b_fishara = {}
+				b_suarin = {}
+				b_raytem = {}
+				b_qudhashnuh = {}
+				b_luweyyah = {}
+				b_jaahet = {}
+				b_basal = {}
+			}
+			c_alannasyaf = {
+				color = { 218 220 46 }
+				color2 = { 255 255 255 }
+				
+				b_alannasyaf = {}
+				b_ruradbal = {}
+				b_rushin = {}
+				b_yatem = {}
+				b_teiwa = {}
+				b_lut = {}
+				b_biet = {}
+			}
+			c_varalmas = {
+				color = { 170 172 13 }
+				color2 = { 255 255 255 }
+				
+				b_varalmas = {}
+				b_aytem = {}
+				b_dhibriz = {}
+				b_duyl = {}
+				b_hajurin = {}
+				b_amaynrin = {}
+				b_limfisyah = {}
+			}
+			c_bardavaz = {
+				color = { 165 166 58 }
+				color2 = { 255 255 255 }
+				
+				b_bardavaz = {}
+				b_bawlaba = {}
+				b_iqdaq = {}
+				b_zandurdaq = {}
+				b_zumrdoha = {}
+				b_ayynuh = {}
+				b_baysurigh = {}
+			}
+		}
+		
+		d_iqbayl = {
+			color = { 230 232 58 }
+			color2 = { 255 255 255 }
+		
+			capital = 762 # Iqbayl
+		
+			c_iqbayl = {
+				color = { 230 232 58 }
+				color2 = { 255 255 255 }
+				
+				b_iqbayl = {}
+				b_arad = {}
+				b_ghadhirin = {}
+				b_shishirad = {}
+				b_isaynsal = {}
+				b_zanriz = {}
+				b_zumrdigh = {}
+			}
+			c_miqdatha = {
+				color = { 216 217 33 }
+				color2 = { 255 255 255 }
+				
+				b_miqdatha = {}
+				b_baut = {}
+				b_aynmiriz = {}
+				b_qutazra = {}
+				b_filakrad = {}
+				b_raybal = {}
+				b_maba = {}
+			}
+			c_addiwash = {
+				color = { 146 147 44 }
+				color2 = { 255 255 255 }
+				
+				b_addiwash = {}
+				b_sharmundin = {}
+				b_shadhibin = {}
+				b_jaet = {}
+				b_wayl = {}
+				b_didigh = {}
+				b_aynsal = {}
+			}
+			c_alkabes = {
+				color = { 196 198 21 }
+				color2 = { 255 255 255 }
+				
+				b_alkabes = {}
+				b_iqigh = {}
+				b_dhibet = {}
+				b_qumarriz = {}
+				b_habye = {}
+				b_mundrin = {}
+				b_rumuhraf = {}
+			}
+		}
+		
+		d_bardaq = {
+			color = { 243 246 23 }
+			color2 = { 255 255 255 }
+		
+			capital = 732 # Bardaq
+		
+			c_bardaq = {
+				color = { 243 246 23 }
+				color2 = { 255 255 255 }
+				
+				b_bardaq = {}
+				b_tira = {}
+				b_mazyl = {}
+				b_luisriz = {}
+				b_qabal = {}
+				b_zumrra = {}
+				b_lasrin = {}
+			}
+			c_elghannoud = {
+				color = { 139 140 63 }
+				color2 = { 255 255 255 }
+				
+				b_elghannoud = {}
+				b_unrin = {}
+				b_lakra = {}
+				b_ditem = {}
+				b_rydowa = {}
+				b_suaayywa = {}
+				b_khazaraf = {}
+			}
+			c_thadiqbah = {
+				color = { 205 207 27 }
+				color2 = { 255 255 255 }
+				
+				b_thadiqbah = {}
+				b_wiradrad = {}
+				b_rayti = {}
+				b_biyed = {}
+				b_suti = {}
+				b_mitut = {}
+				b_bawya = {}
+			}
+			c_uyurashi = {
+				color = { 210 212 62 }
+				color2 = { 255 255 255 }
+				
+				b_uyurashi = {}
+				b_jayjuwa = {}
+				b_nairaf = {}
+				b_sanat = {}
+				b_lanuh = {}
+				b_ryha = {}
+				b_bidaq = {}
+			}
+			c_mabariyah = {
+				color = { 172 174 14 }
+				color2 = { 255 255 255 }
+				
+				b_mabariyah = {}
+				b_dhiyl = {}
+				b_shatnuh = {}
+				b_quet = {}
+				b_yawidi = {}
+				b_waha = {}
+				b_nuwawa = {}
+			}
+		}
+		
+		d_unriya = {
+			color = { 210 212 42 }
+			color2 = { 255 255 255 }
+		
+			capital = 755 # Unriya
+		
+			c_unriya = {
+				color = { 210 212 42 }
+				color2 = { 255 255 255 }
+				
+				b_unriya = {}
+				b_limriz = {}
+				b_jaywa = {}
+				b_ariz = {}
+				b_uzgnuriz = {}
+				b_fisuaha = {}
+				b_isghawa = {}
+			}
+			c_arrawkhah = {
+				color = { 250 253 37 }
+				color2 = { 255 255 255 }
+				
+				b_arrawkhah = {}
+				b_raynaidigh = {}
+				b_surye = {}
+				b_rushyed = {}
+				b_mundbayti = {}
+				b_jayigh = {}
+				b_rutiyl = {}
+			}
+			c_burrarimah = {
+				color = { 152 153 61 }
+				color2 = { 255 255 255 }
+				
+				b_burrarimah = {}
+				b_thanat = {}
+				b_tiba = {}
+				b_rayha = {}
+				b_bardigh = {}
+				b_jayl = {}
+				b_muhriz = {}
+			}
+		}
+		
+		d_sharwa = {
+			color = { 228 230 23 }
+			color2 = { 255 255 255 }
+		
+			capital = 737 # Sharwa
+		
+			c_sharwa = {
+				color = { 228 230 23 }
+				color2 = { 255 255 255 }
+				
+				b_sharwa = {}
+				b_sekhryyah = {}
+				b_siyah = {}
+				b_durtem = {}
+				b_meyra = {}
+				b_ahtem = {}
+				b_mariz = {}
+			}
+			c_milajibar = {
+				color = { 179 181 16 }
+				color2 = { 255 255 255 }
+				
+				b_milajibar = {}
+				b_rushrynat = {}
+				b_aybal = {}
+				b_domazyah = {}
+				b_jayah = {}
+				b_naitidaq = {}
+				b_limradbal = {}
+			}
+			c_sahasab = {
+				color = { 220 222 40 }
+				color2 = { 255 255 255 }
+				
+				b_sahasab = {}
+				b_rushlassal = {}
+				b_wiut = {}
+				b_harad = {}
+				b_rim = {}
+				b_undaq = {}
+				b_riyhadaq = {}
+			}
+			c_alsuqardaha = {
+				color = { 211 213 56 }
+				color2 = { 255 255 255 }
+				
+				b_alsuqardaha = {}
+				b_lasut = {}
+				b_lassal = {}
+				b_rammayl = {}
+				b_baydurad = {}
+				b_tiqutem = {}
+				b_durradti = {}
+			}
+			c_seridere = {
+				color = { 205 207 35 }
+				color2 = { 255 255 255 }
+				
+				b_seridere = {}
+				b_thadigh = {}
+				b_habdi = {}
+				b_sharasnuh = {}
+				b_hiha = {}
+				b_teshidi = {}
+				b_weyrin = {}
+			}
+		}
+		
+		d_tazjunat = {
+			color = { 203 204 41 }
+			color2 = { 255 255 255 }
+		
+			capital = 742 # Tazjunat
+		
+			c_tazjunat = {
+				color = { 203 204 41 }
+				color2 = { 255 255 255 }
+				
+				b_tazjunat = {}
+				b_mernuh = {}
+				b_zumret = {}
+				b_ayndhibriz = {}
+				b_bawbawrad = {}
+				b_zadi = {}
+				b_nadaq = {}
+			}
+			c_ahinkaya = {
+				color = { 223 225 45 }
+				color2 = { 255 255 255 }
+				
+				b_ahinkaya = {}
+				b_bawdhitem = {}
+				b_doduti = {}
+				b_radbitem = {}
+				b_muhriz = {}
+				b_ramyl = {}
+				b_nunwadaq = {}
+			}
+			c_abyevaz = {
+				color = { 222 224 15 }
+				color2 = { 255 255 255 }
+				
+				b_abyevaz = {}
+				b_isnat = {}
+				b_tamra = {}
+				b_biriz = {}
+				b_sekhrin = {}
+				b_wiunha = {}
+				b_shama = {}
+			}
+		}
+	}
+}

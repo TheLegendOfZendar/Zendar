@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_teremma
+	holder = 6018 #Emir Quryas
+}

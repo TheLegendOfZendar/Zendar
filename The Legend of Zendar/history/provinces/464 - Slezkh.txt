@@ -1,0 +1,25 @@
+# 464 - Slezkh
+
+# County Title
+title = c_slezkh
+
+# Settlements
+max_settlements = 4
+b_slezkh = castle
+b_ogbe = city
+#b_chivedin = temple
+#b_siugke = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

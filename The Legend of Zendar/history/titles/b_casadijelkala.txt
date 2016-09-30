@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = k_jelkala
+	holding_dynasty = 4000 #Casa di Jelkala
+	holder = 4000 #King Graveth 
+}

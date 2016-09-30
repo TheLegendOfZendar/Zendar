@@ -1,0 +1,25 @@
+# 401 - Samory
+
+# County Title
+title = c_samory
+
+# Settlements
+max_settlements = 4
+#b_samory = castle
+#b_sarogdin = city
+#b_erenlus = temple
+#b_yirallus = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

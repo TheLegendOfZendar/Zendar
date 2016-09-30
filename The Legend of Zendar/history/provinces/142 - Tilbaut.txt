@@ -1,0 +1,25 @@
+# 142 - Tilbaut
+
+# County Title
+title = c_tilbaut
+
+# Settlements
+max_settlements = 4
+b_tilbaut = castle
+b_ehna = city
+#b_veiven = temple
+#b_aneja = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

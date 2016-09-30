@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_tehlrog
+	holder = 3021 #Jarl Turya
+}

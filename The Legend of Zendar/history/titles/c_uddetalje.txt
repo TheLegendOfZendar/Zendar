@@ -1,0 +1,4 @@
+1232.1.1={
+	liege = d_sargoth
+	holder = 3000 #King Ragnar
+}

@@ -1,0 +1,1205 @@
+##dummy titles to allow the changing of other title's coats of arms dynamically
+
+######################################
+#     Dynamic Dynasty CoA Titles     #
+######################################
+
+# SWADIA:
+
+c_dyn_1000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_1021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+# VAEGIRS:
+
+c_dyn_2000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_2021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+# NORDS:
+
+c_dyn_3000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_3021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+# RHODOKS:
+
+c_dyn_4000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_4021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+# KHERGIT:
+
+c_dyn_5000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_5021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+# SARRANID:
+
+c_dyn_6000 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6001 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6002 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6003 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6004 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6005 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6006 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6007 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6008 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6009 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6010 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6011 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6012 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6013 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6014 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6015 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6016 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6017 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6018 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6019 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6020 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}
+
+c_dyn_6021 = {
+	color = { 0 0 0 }
+	color2 = { 255 255 255 }
+	
+	allow = {
+			always = no # Only created at start
+	}
+}

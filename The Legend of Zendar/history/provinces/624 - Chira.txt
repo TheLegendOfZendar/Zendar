@@ -1,0 +1,22 @@
+# 624 - Chira
+
+# County Title
+title = c_chira
+
+# Settlements
+max_settlements = 1
+b_chira = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = jewish
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = jewish
+}

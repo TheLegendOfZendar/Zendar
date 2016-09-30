@@ -1,0 +1,22 @@
+# 646 - Faqisab
+
+# County Title
+title = c_faqisab
+
+# Settlements
+max_settlements = 1
+b_faqisab = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

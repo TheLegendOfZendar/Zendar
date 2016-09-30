@@ -1,0 +1,62 @@
+#SWADIA
+
+technology = {
+	titles = {
+		d_dhirim
+		d_praven
+		d_suno
+		d_uxkhal
+		d_derchios
+		d_haringoth
+		d_kelredan
+		d_reindi
+		d_rindyar
+		d_ryibelet
+		d_senuzgda
+		d_tevarin
+		d_tilbaut
+		d_vyincourd
+		d_amere
+		d_azgad
+		d_balanli
+		d_burglen
+		d_chide
+		d_elberl
+		d_ehlerdah
+		d_emirin
+		d_gisim
+		d_ibiran
+		d_iyindah
+		d_nemeja
+		d_nomar
+		d_rduna
+		d_ruluns
+		d_ryibeletville
+		d_tadsamesh
+		d_tahlberl
+		d_tosdhar
+		d_tshibtin
+		d_ushkuru
+		d_veidar
+		d_yalibe
+		d_yaragar
+	}
+	
+	1060 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+
+	1200 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1453 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

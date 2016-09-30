@@ -1,0 +1,23 @@
+# 648 - Mit Nun
+
+# County Title
+title = c_mitnun
+
+# Settlements
+max_settlements = 2
+b_mitnun = castle
+#b_rishiwa = city
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

@@ -1,0 +1,24 @@
+# 78 - Burglen
+
+# County Title
+title = c_burglen
+
+# Settlements
+max_settlements = 3
+b_burglen = castle
+#b_ridar = city
+#b_odolian = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

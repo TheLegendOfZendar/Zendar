@@ -1,0 +1,4 @@
+1232.1.1={
+	liege = d_fenada
+	holder = 3000 #King Ragnar
+}

@@ -1,0 +1,24 @@
+# 451 - Stovska
+
+# County Title
+title = c_stovska
+
+# Settlements
+max_settlements = 3
+b_stovska = castle
+b_iramug = city
+#b_vacnun = temple
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

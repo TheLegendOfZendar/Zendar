@@ -1,0 +1,24 @@
+# 280 - Ruldi
+
+# County Title
+title = c_ruldi
+
+# Settlements
+max_settlements = 3
+b_ruldi = castle
+b_rimar = city
+#b_kurcheur = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = velucan
+	religion = calradic
+}

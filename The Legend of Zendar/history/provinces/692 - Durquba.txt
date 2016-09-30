@@ -1,0 +1,26 @@
+# 692 - Durquba
+
+# County Title
+title = c_durquba
+
+# Settlements
+max_settlements = 5
+b_durquba = castle
+b_riymidaq = city
+#b_qaqa = temple
+#b_tamzanab = castle
+#b_sharmin = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = sandman
+	religion = shiite
+}

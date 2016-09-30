@@ -1,0 +1,25 @@
+# 293 - Borsund
+
+# County Title
+title = c_borsund
+
+# Settlements
+max_settlements = 4
+b_borsund = castle
+b_fearin = city
+#b_chgoth = temple
+#b_sarsim = castle
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = argadish
+	religion = nordic_pagan
+}

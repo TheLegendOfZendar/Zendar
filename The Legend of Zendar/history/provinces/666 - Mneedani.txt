@@ -1,0 +1,22 @@
+# 666 - Mneedani
+
+# County Title
+title = c_mneedani
+
+# Settlements
+max_settlements = 1
+b_mneedani = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = mushreg
+	religion = shiite
+}

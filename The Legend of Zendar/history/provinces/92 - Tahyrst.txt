@@ -1,0 +1,23 @@
+# 92 - Tahyrst
+
+# County Title
+title = c_tahyrst
+
+# Settlements
+max_settlements = 2
+b_tahyrst = castle
+#b_esar = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

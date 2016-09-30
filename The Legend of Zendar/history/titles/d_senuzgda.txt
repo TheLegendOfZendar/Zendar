@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1007 # Count Devlian
+	liege = k_dhirimtribute
+}

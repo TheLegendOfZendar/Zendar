@@ -1,0 +1,22 @@
+# 493 - Krenca
+
+# County Title
+title = c_krenca
+
+# Settlements
+max_settlements = 1
+b_krenca = tribal
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = tundran
+	religion = taiga_pagan
+}

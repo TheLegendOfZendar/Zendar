@@ -1,0 +1,8 @@
+1225.1.1={
+	liege = k_wercheg
+	holder = 3100 #King Hakrim
+}
+1245.3.13={
+	holder = 3012 #Jarl Irya
+	liege = k_werchegtribute
+}

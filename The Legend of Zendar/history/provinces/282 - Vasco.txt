@@ -1,0 +1,22 @@
+# 282 - Vasco
+
+# County Title
+title = c_vasco
+
+# Settlements
+max_settlements = 1
+b_vasco = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = velucan
+	religion = calradic
+}

@@ -1,0 +1,22 @@
+# 68 - Hratun
+
+# County Title
+title = c_hratun
+
+# Settlements
+max_settlements = 1
+b_hratun = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

@@ -1,0 +1,7 @@
+1197.1.1={
+	liege = e_khergit
+	holder = 5100 #Janakir Khan
+}
+1248.5.18={
+	holder = 5000 #Sanjar Khan
+}

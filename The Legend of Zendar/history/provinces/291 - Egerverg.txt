@@ -1,0 +1,25 @@
+# 291 - Egerverg
+
+# County Title
+title = c_egerverg
+
+# Settlements
+max_settlements = 4
+b_egerverg = castle
+b_jelarr = city
+#b_brcheg = temple
+#b_jarugi = castle
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = argadish
+	religion = nordic_pagan
+}

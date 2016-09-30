@@ -1,0 +1,23 @@
+# 223 - Tywon
+
+# County Title
+title = c_tywon
+
+# Settlements
+max_settlements = 2
+b_tywon = castle
+#b_indaliel = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = rhodok
+	religion = calradic
+}

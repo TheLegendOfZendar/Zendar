@@ -1,0 +1,23 @@
+# 677 - Arilem
+
+# County Title
+title = c_arilem
+
+# Settlements
+max_settlements = 2
+b_arilem = castle
+#b_mazdun = city
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

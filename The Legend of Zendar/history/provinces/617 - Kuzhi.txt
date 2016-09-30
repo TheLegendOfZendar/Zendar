@@ -1,0 +1,22 @@
+# 617 - Kuzhi
+
+# County Title
+title = c_kuzhi
+
+# Settlements
+max_settlements = 3
+b_kuzhi = castle
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

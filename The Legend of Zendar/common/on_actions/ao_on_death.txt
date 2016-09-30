@@ -1,0 +1,16 @@
+#This should overload on_death in 00_on_actions
+on_death = {
+	events = {
+#		8250
+		650
+		24500
+		24502
+		70041
+		ao_cleanup.0
+	}
+	random_events = {
+		10 = 24505
+		10 = 24510
+		100 = 0
+	}
+}

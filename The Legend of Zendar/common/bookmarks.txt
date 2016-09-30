@@ -1,0 +1,70 @@
+#bookmark =
+#{
+#	name = "BM_BANNERLORD"
+#	desc = "BM_BANNERLORD_DESC"
+#	date = 1060.3.20
+#
+#	character = 1 # Player Character											Gray
+#	character = ? # (Empire/Feudal) Emperor of Northern Calradia (Calradian)	Pink
+#	character = ? # (Empire/Merchant) Chancellor of Western Calradia (Rhodok)	Orange
+#	character = ? # (Kingdom/Feudal) King of Vlandia (Swadian)					Red
+#	character = ? # (Duchy/Tribal) Prince of Battania (Vaegir)					Green
+#	character = ? # (Duchy/Tribal) High Chief of Sturgia (Nord)					Blue
+#	character = ? # (Empire-Kingdom/Nomad-Tribal) Khan of Khuzait (Khergit)		Brown
+#	character = ? # (Empire/Iqta) Sultan of Aserai (Sarranid)					Yellow
+#}
+
+#bookmark =
+#{
+#	name = "BM_WARRIDER"
+#	desc = "BM_WARRIDER_DESC"
+#	date = 1187.1.1
+#
+#	character = 1 # Player Character											Red
+#	character = 1000 # (Empire/Feudal) Emperor Larec of Swadia					Orange
+#	character = 2000 # (Empire/Feudal) Tsar Yaroglek of Vaegir					Gray
+#	character = 600 # (Empire/Iqta) Shah Ayzar of Sarranid						Yellow
+#}
+
+#bookmark =
+#{
+#	name = "BM_CIVIL_WAR"
+#	desc = "BM_CIVIL_WAR_DESC"
+#	date = 1254.9.27
+#	
+#	character = 1 # Player Character											Red
+#	character = 100 # (Empire/Feudal) Emperor Harlaus of Swadia					Orange
+#	character = 400 # (Kingdom/Merchant) Leader Grunwalder of Rhodok			Green
+#	character = 3000 # (Kingdom/Tribal) Konungr Ragnar of Nord					Blue
+#	character = 2000 # (Kingdom/Feudal) Grand Prince Yaroglek of Vaegir			Gray
+#}
+
+bookmark =
+{
+	name = "BM_WARBAND"
+	desc = "BM_WARBAND_DESC"
+	date = 1257.3.23
+
+	character = 1 # Player Character											Red
+	character = 1000 # (Empire/Feudal) King Harlaus of Swadia					Orange
+	character = 2000 # (Kingdom/Feudal) Grand Prince Yaroglek of Vaegir			Gray
+	character = 3000 # (Kingdom/Tribal) Konungr Ragnar of Nord					Blue
+	character = 4000 # (Kingdom/Merchant) Doge Graveth of Rhodok				Green
+	character = 5000 # (Empire-Kingdom/Nomad-Tribal) Khan Sanjar of Khergit		Purple
+	character = 6000 # (Kingdom/Iqta) Sultan Hakim of Sarranid					Yellow
+}
+
+#bookmark =
+#{
+#	name = "BM_PRETENDERS"
+#	desc = "BM_PRETENDERS_DESC"
+#	date = 1267.3.23
+#
+#	character = 1 # Player Character											Red
+#	character = 1001 # (Empire/Feudal) Queen Isolla of Swadia					Orange
+#	character = 2001 # (Kingdom/Feudal) Grand Prince Valdym of Vaegir			Gray
+#	character = 3001 # (Kingdom/Feudal) Konungr Lethwin of Nord					Blue
+#	character = 4001 # (Kingdom/Feudal) King Veluca of Rhodok					Green
+#	character = 5001 # (Empire-Kingdom/Nomad-Tribal) Khan Dustum of Khergit		Purple
+#	character = 6001 # (Kingdom/Iqta) Sultana Arwa of Sarranid					Yellow
+#}

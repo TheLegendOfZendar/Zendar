@@ -1,0 +1,24 @@
+# 84 - Chaigate
+
+# County Title
+title = c_chaigate
+
+# Settlements
+max_settlements = 3
+b_chaigate = castle
+#b_tilos = city
+#b_klarerl = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

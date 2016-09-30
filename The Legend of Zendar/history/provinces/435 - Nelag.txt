@@ -1,0 +1,25 @@
+# 435 - Nelag
+
+# County Title
+title = c_nelag
+
+# Settlements
+max_settlements = 4
+b_nelag = castle
+b_niha = city
+#b_inmug = temple
+#b_cutiska = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

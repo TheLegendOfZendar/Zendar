@@ -1,0 +1,4 @@
+1248.5.18={
+	liege = d_tulga
+	holder = 5000 #Sanjar Khan
+}

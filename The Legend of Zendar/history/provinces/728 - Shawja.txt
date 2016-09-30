@@ -1,0 +1,22 @@
+# 728 - Shawja
+
+# County Title
+title = c_shawja
+
+# Settlements
+max_settlements = 3
+b_shawja = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = ibadi
+}
+1100.1.1 = {
+	culture = sandman
+	religion = ibadi
+}

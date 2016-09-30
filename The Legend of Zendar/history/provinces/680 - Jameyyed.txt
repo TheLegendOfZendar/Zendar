@@ -1,0 +1,23 @@
+# 680 - Jameyyed
+
+# County Title
+title = c_jameyyed
+
+# Settlements
+max_settlements = 4
+b_jameyyed = castle
+b_mahia = temple
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = tarkhan
+	religion = sunni
+}

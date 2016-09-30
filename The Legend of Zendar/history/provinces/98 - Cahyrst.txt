@@ -1,0 +1,22 @@
+# 98 - Cahyrst
+
+# County Title
+title = c_cahyrst
+
+# Settlements
+max_settlements = 1
+b_cahyrst = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = iyenn
+	religion = calradic
+}

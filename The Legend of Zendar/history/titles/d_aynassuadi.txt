@@ -1,0 +1,4 @@
+1248.5.11={
+	liege = k_shariz
+	holder = 6000 #Sultan Hakim
+}

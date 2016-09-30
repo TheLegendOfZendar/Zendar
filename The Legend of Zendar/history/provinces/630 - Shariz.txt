@@ -1,0 +1,28 @@
+# 630 - Shariz
+
+# County Title
+title = c_shariz
+
+# Settlements
+max_settlements = 7
+b_shariz = castle
+b_zaiye = city
+b_tidi = temple
+b_winat = castle
+#b_dhibal = castle
+#b_nameha = castle
+#b_khasekhyl = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

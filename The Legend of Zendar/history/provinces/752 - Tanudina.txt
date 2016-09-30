@@ -1,0 +1,22 @@
+# 752 - Tanudina
+
+# County Title
+title = c_tanudina
+
+# Settlements
+max_settlements = 3
+b_tanudina = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = sarrani
+}
+1100.1.1 = {
+	culture = sarrdak
+	religion = sarrani
+}

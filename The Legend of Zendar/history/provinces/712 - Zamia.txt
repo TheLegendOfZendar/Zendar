@@ -1,0 +1,22 @@
+# 712 - Zamia
+
+# County Title
+title = c_zamia
+
+# Settlements
+max_settlements = 2
+b_zamia = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = sandman
+	religion = sunni
+}

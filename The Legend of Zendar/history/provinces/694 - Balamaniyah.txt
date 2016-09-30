@@ -1,0 +1,24 @@
+# 694 - Balamaniyah
+
+# County Title
+title = c_balamaniyah
+
+# Settlements
+max_settlements = 3
+b_balamaniyah = castle
+b_qabal = city
+#b_aydi = temple
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = sandman
+	religion = shiite
+}

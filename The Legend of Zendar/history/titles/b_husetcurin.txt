@@ -1,0 +1,5 @@
+1257.1.1={
+	liege = d_curin
+	holding_dynasty = 3003 #Huset Curin
+	holder = 3003 #Jarl Aeric
+}

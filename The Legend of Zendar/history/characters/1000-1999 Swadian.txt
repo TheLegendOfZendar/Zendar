@@ -1,0 +1,1113 @@
+# STRUCTURE
+#1000-1099: Warband
+#1100-1499: Pre-Warband
+#1500-1899: Bannerlord
+#1900-1999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+1000 = {
+	name = "Harlaus"
+	dna = bgdcbtbdgbc
+	properties = ec00a000000000
+	dynasty = 1000
+	
+	father = 1900
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1198.7.8 = {
+		birth = yes
+	}
+	
+	1236.8.4 = {
+		give_nickname = nick_the_fat
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Pretender
+1001 = {
+	name = "Isolla"
+	female = yes
+	dynasty = 1001
+	
+	father = 1100
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1217.6.9 = {
+		birth = yes
+	}
+	
+	1236.8.4 = {
+		give_nickname = nick_of_suno
+		add_claim = e_swadia
+		employer = 1003
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Lords
+1002 = {
+	name = "Beranz"
+	dynasty = 1002
+	
+	father = 1010
+	mother = 1022
+	
+	culture = "imperial"
+	religion = "calradic"
+
+	1222.6.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1003 = {
+	name = "Clais"
+	dynasty = 1003
+	
+	father = 1903
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1195.5.3 = {
+		birth = yes
+	}
+	
+	1219.1.1 = {
+		add_spouse = 1023
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1004 = {
+	name = "Deglan"
+	dynasty = 1004
+	
+	father = 1903
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1206.6.4 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 1034
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1005 = {
+	name = "Delinard"
+	dynasty = 1005
+	
+	father = 1905
+	
+	culture = "iyenn"
+	religion = "calradic"
+	
+	1198.8.4 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 1024
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1006 = {
+	name = "Despin"
+	dynasty = 1006
+	
+	father = 1008
+	mother = 1037
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1231.6.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1007 = {
+	name = "Devlian"
+	dynasty = 1007
+	
+	father = 1003
+	mother = 1023
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1218.7.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1008 = {
+	name = "Grainwad"
+	dynasty = 1008
+	
+	father = 1903
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1208.8.7 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 1037
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1009 = {
+	name = "Haringoth"
+	dynasty = 1009
+	
+	father = 1900
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1197.9.8 = {
+		birth = yes
+	}
+	
+	1221.1.1 = {
+		add_spouse = 1027
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1010 = {
+	name = "Klargus"
+	dynasty = 1010
+	
+	father = 1905
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1198.7.11 = {
+		birth = yes
+	}
+	
+	1223.1.1 = {
+		add_spouse = 1022
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1011 = {
+	name = "Meltor"
+	dynasty = 1011
+	
+	father = 1911
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1227.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1012 = {
+	name = "Mirchaud"
+	dynasty = 1012
+	
+	father = 1912
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1223.8.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1013 = { 
+	name = "Montewar"
+	dynasty = 1013
+	
+	father = 1019
+	mother = 1026
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1233.8.13 = { 
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1014 = {
+	name = "Plais"
+	dynasty = 1014
+	
+	father = 1914
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1228.5.16 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1015 = {
+	name = "Rafarch"
+	dynasty = 1015
+	
+	father = 1004
+	mother = 1034
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1231.7.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1016 = {
+	name = "Rafard"
+	dynasty = 1016
+	
+	father = 1005
+	mother = 1024
+	
+	culture = "iyenn"
+	religion = "calradic"
+	
+	1223.6.18 = {
+		birth="yes"
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1017 = {
+	name = "Regas"
+	dynasty = 1017
+	
+	father = 1009
+	mother = 1027
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1220.5.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1018 = {
+	name = "Rochabarth"
+	dynasty = 1018
+	
+	father = 1021
+	mother = 1035
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1216.10.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1019 = {
+	name = "Ryis"
+	dynasty = 1019
+	
+	father = 1900
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1208.4.18 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 1026
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1020 = {
+	name = "Stamar"
+	dynasty = 1020
+	
+	father = 1920
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1228.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1021 = {
+	name = "Tredian"
+	dynasty = 1021
+	
+	father = 1903
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1193.7.20 = {
+		birth = yes
+	}
+	
+	1217.1.1 = {
+		add_spouse = 1035
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+1022 = {
+	name = "Anna"
+	female = yes
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1206.4.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1023 = {
+	name = "Auberina"
+	female = yes
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1202.8.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1024 = {
+	name = "Bela"
+	female = yes
+	
+	culture = "iyenn"
+	religion = "calradic"
+	
+	1207.4.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1025 = {
+	name = "Bernatys"
+	female = yes
+	dynasty = 1012
+	
+	father = 1912
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1235.8.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1026 = {
+	name = "Boadila"
+	female = yes
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1207.7.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1027 = {
+	name = "Constanis"
+	female = yes
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1204.9.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1028 = {
+	name = "Elina"
+	female = yes
+	dynasty = 1005
+	
+	father = 1005
+	mother = 1024
+	
+	culture = "iyenn"
+	religion = "calradic"
+	
+	1237.5.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1029 = {
+	name = "Elys"
+	female = yes
+	dynasty = 1019
+	
+	father = 1019
+	mother = 1026
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1237.4.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1030 = {
+	name = "Enricata"
+	female = yes
+	dynasty = 1020
+	
+	father = 1920
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	1235.8.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1031 = {
+	name = "Gaeta"
+	female = yes
+	dynasty = 1011
+	
+	father = 1911
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1235.5.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1032 = {
+	name = "Irena"
+	female = yes
+	dynasty = 1021
+	
+	father = 1021
+	mother = 1035
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1237.5.9 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1033 = {
+	name = "Johana"
+	female = yes
+	dynasty = 1014
+	
+	father = 1914
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1235.6.10 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1034 = {
+	name = "Magar"
+	female = yes
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1207.5.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1035 = {
+	name = "Melisar"
+	female = yes
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	1200.7.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1036 = {
+	name = "Nelda"
+	female = yes
+	dynasty = 1010
+	
+	father = 1010
+	mother = 1022
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1237.5.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1037 = {
+	name = "Philenna"
+	female = yes
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1207.8.16 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1038 = {
+	name = "Sonadel"
+	female = yes
+	dynasty = 1008
+	
+	father = 1008
+	mother = 1037
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1237.7.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1039 = {
+	name = "Thedosa"
+	female = yes
+	dynasty = 1004
+	
+	father = 1004
+	mother = 1034
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1237.7.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1040 = {
+	name = "Tibal"
+	female = yes
+	dynasty = 1003
+	
+	father = 1003
+	mother = 1023
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	1237.5.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1041 = {
+	name = "Vera"
+	female = yes
+	dynasty = 1009
+	
+	father = 1009
+	mother = 1027
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	1237.4.22 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Others
+1042 = {
+	name = "Michael"
+	dynasty = 1042
+	
+	culture = "vlandian"
+	religion = "calradic"
+	
+	trait = "sympathy_pagans"
+	trait = "gardener"
+	
+	1224.5.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+1043 = {
+	name = "Roger"
+	
+	culture = "vlandian"
+	religion = "calradic"
+	
+	1224.3.29 = {
+		birth = yes
+	}
+	
+	1257.1.1 = {
+		employer = 1042
+		trait = "gardener"
+		give_nickname = nick_the_shrubber
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarchs
+1100 = {
+	name = "Esterich" # Father of Lady Isolla
+	dynasty = 1001
+	
+	father = 1101
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1159.5.8 = {
+		birth = yes
+	}
+	
+	1236.8.4 = {
+		death = yes
+	}
+}
+
+1101 = {
+	name = "Larec" # Father of King Harlaus
+	dynasty = 100
+	
+	father = 1901
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	1116.5.12 = {
+		birth = yes
+	}
+	
+	1164.3.3 = {
+		death = {
+		death_reason = death_duel
+		killer = 2101
+		}
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+1900 = {
+	name = "Count of" # King Harlaus & Count Haringoth & Count Ryis' Line
+	occluded = yes
+	dynasty = 1000
+	
+	father = 1901
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1901 = {
+	name = "King of" # King Harlaus & Count Haringoth & Count Ryis' Line
+	dynasty = 100
+	occluded = yes
+	
+	culture = "imperial"
+	religion = "calradian_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1060.1.1 = {
+		birth = yes
+	}
+	
+	1160.1.1 = {
+		death = yes
+	}
+}
+
+1903 = {
+	name = "Count of Dhirim" # Tredian & Clais & Deglan & Grainwad's Line
+	occluded = yes
+	
+	culture = "lowlander"
+	religion = "orthodox"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1905 = {
+	name = "Count of" # Klargus & Delinard's Father
+	dynasty = 100
+	occluded = yes
+	
+	father = 1101
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1911 = {
+	name = "Count of" # Meltor's Line
+	dynasty = 1011
+	occluded = yes
+	
+	culture = "woodlander"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1912 = {
+	name = "Count of" # Mirchaud's Line
+	dynasty = 1012
+	occluded = yes
+	
+	culture = "imperial"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1914 = {
+	name = "Count of" # Plais' Line
+	dynasty = 1014
+	occluded = yes
+	
+	culture = "lowlander"
+	religion = "miaphysite"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+1920 = {
+	name = "Count of" # Stamar's Line
+	dynasty = 1020
+	occluded = yes
+	
+	culture = "swadian"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = e_rhodoks
+	holder = 4 #Player of Rhodok
+}

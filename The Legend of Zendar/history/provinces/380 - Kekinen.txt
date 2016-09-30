@@ -1,0 +1,22 @@
+# 380 - Kekinen
+
+# County Title
+title = c_kekinen
+
+# Settlements
+max_settlements = 1
+b_kekinen = castle
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = argadish
+	religion = nordic_pagan
+}

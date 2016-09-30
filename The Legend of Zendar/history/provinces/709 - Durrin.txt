@@ -1,0 +1,22 @@
+# 709 - Durrin
+
+# County Title
+title = c_durrin
+
+# Settlements
+max_settlements = 4
+b_durrin = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = sandman
+	religion = sunni
+}

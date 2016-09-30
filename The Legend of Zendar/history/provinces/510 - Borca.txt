@@ -1,0 +1,22 @@
+# 510 - Borca
+
+# County Title
+title = c_borca
+
+# Settlements
+max_settlements = 1
+b_borca = tribal
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = pirash
+	religion = orthodox
+}

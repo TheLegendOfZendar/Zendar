@@ -1,0 +1,23 @@
+# 144 - Kersedorf
+
+# County Title
+title = c_kersedorf
+
+# Settlements
+max_settlements = 2
+b_kersedorf = castle
+#b_devda = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

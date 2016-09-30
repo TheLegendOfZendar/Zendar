@@ -1,0 +1,23 @@
+# 47 - Thryford
+
+# County Title
+title = c_thryford
+
+# Settlements
+max_settlements = 2
+b_thryford = castle
+#b_ibtdar = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = swadian
+	religion = calradic
+}

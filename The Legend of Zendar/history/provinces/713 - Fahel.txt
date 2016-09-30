@@ -1,0 +1,22 @@
+# 713 - Fahel
+
+# County Title
+title = c_fahel
+
+# Settlements
+max_settlements = 2
+b_fahel = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = zoroastrian
+}
+1100.1.1 = {
+	culture = sandman
+	religion = shiite
+}

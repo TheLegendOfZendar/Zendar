@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 2003 # Boyar Bracha
+	liege = k_reyvadin
+}

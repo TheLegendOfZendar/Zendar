@@ -1,0 +1,22 @@
+# 671 - Shirahnuj
+
+# County Title
+title = c_shirahnuj
+
+# Settlements
+max_settlements = 1
+b_shirahnuj = tribal
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = haramid
+	religion = shiite
+}

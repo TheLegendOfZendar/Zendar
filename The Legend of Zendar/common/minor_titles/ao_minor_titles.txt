@@ -1,0 +1,146 @@
+title_favored_son={
+	grant_limit = 1
+	opinion_effect = 0
+	monthly_salary = 0
+	monthly_prestige = 0
+	allow = {
+		is_female = no
+		is_adult = no
+		independent = no
+		dynasty = FROM
+		NOT = { trait = bastard }
+		is_child_of = FROM
+		father_even_if_dead = {is_alive = yes}
+		#NOT = {has_minor_title = title_favored_son}
+	}
+	gain_effect = {
+		add_trait = favored_son
+	}
+	lose_effect = {
+		remove_trait = favored_son
+	}
+	message = no
+}
+
+title_revoke_title={
+	grant_limit = 99
+	opinion_effect = 0
+	monthly_salary = 0
+	monthly_prestige = 0
+	allow = {
+		FROM = { ai = no }
+		OR = {
+			has_minor_title = title_keeper_of_swans
+			has_minor_title = title_master_of_the_horse
+			has_minor_title = title_master_of_the_hunt
+			has_minor_title = title_high_almoner
+			has_minor_title = title_cupbearer
+			has_minor_title = title_seneschal
+			has_minor_title = title_favored_son
+			has_minor_title = title_tanist
+			has_minor_title = title_court_eunuch
+			has_minor_title = title_court_dwarf
+			has_minor_title = title_court_jester
+			has_minor_title = title_despot
+			has_minor_title = title_caesar
+			has_minor_title = title_sebastokrator
+			has_minor_title = title_kouropalates
+			has_minor_title = title_anthypatos
+			has_minor_title = title_imperial_eunuch
+			has_minor_title = title_food_taster
+			has_minor_title = title_court_calligrapher
+			has_minor_title = title_court_musician
+			has_minor_title = title_court_poet
+			has_minor_title = title_chief_architect
+			has_minor_title = title_chief_qadi
+			has_minor_title = title_state_inquisitor
+			has_minor_title = title_high_admiral
+			has_minor_title = title_high_judge
+			has_minor_title = title_patrician_heir
+			has_minor_title = title_lawspeaker
+			has_minor_title = title_volva
+			has_minor_title = title_drottseti
+			has_minor_title = title_court_skald
+			has_minor_title = title_marksman
+			has_minor_title = title_hirdman
+			has_minor_title = title_baghatur
+			has_minor_title = title_cherbi
+			has_minor_title = title_darkhan
+			has_minor_title = title_noyan
+			has_minor_title = title_shahrwaraz
+			has_minor_title = title_kardarigan
+			has_minor_title = title_shahin
+			has_minor_title = title_pushtigban_salar
+			has_minor_title = title_spahbod
+			has_minor_title = title_eran_ambaragbed
+			has_minor_title = title_champion
+			has_minor_title = title_master_of_the_blade
+			has_minor_title = title_master_of_the_bow
+			has_minor_title = title_venerable_elder
+			has_minor_title = title_yabgu
+			has_minor_title = title_ishad
+			has_minor_title = title_kundur
+		}
+		#NOT = { has_minor_title = title_revoke_title }
+	}
+	gain_effect = {
+			remove_title = title_keeper_of_swans
+			remove_title = title_master_of_the_horse
+			remove_title = title_master_of_the_hunt
+			remove_title = title_high_almoner
+			remove_title = title_cupbearer
+			remove_title = title_seneschal
+			remove_title = title_favored_son
+			remove_title = title_tanist
+			remove_title = title_court_eunuch
+			remove_title = title_court_dwarf
+			remove_title = title_court_jester
+			remove_title = title_despot
+			remove_title = title_caesar
+			remove_title = title_sebastokrator
+			remove_title = title_kouropalates
+			remove_title = title_anthypatos
+			remove_title = title_imperial_eunuch
+			remove_title = title_food_taster
+			remove_title = title_court_calligrapher
+			remove_title = title_court_musician
+			remove_title = title_court_poet
+			remove_title = title_chief_architect
+			remove_title = title_chief_qadi
+			remove_title = title_state_inquisitor
+			remove_title = title_high_admiral
+			remove_title = title_high_judge
+			remove_title = title_patrician_heir
+			remove_title = title_lawspeaker
+			remove_title = title_volva
+			remove_title = title_drottseti
+			remove_title = title_court_skald
+			remove_title = title_marksman
+			remove_title = title_hirdman
+			remove_title = title_baghatur
+			remove_title = title_cherbi
+			remove_title = title_darkhan
+			remove_title = title_noyan
+			remove_title = title_shahrwaraz
+			remove_title = title_kardarigan
+			remove_title = title_shahin
+			remove_title = title_pushtigban_salar
+			remove_title = title_spahbod
+			remove_title = title_eran_ambaragbed
+			remove_title = title_champion
+			remove_title = title_master_of_the_blade
+			remove_title = title_master_of_the_bow
+			remove_title = title_venerable_elder
+			remove_title = title_yabgu
+			remove_title = title_ishad
+			remove_title = title_kundur
+			remove_title = title_revoke_title
+			opinion = {
+				who = ROOT
+				modifier = opinion_revoke_minor_title
+				months = 120
+			}
+	}
+	lose_effect = {}
+	message = no
+}

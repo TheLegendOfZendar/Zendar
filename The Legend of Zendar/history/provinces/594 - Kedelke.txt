@@ -1,0 +1,22 @@
+# 594 - Kedelke
+
+# County Title
+title = c_kedelke
+
+# Settlements
+max_settlements = 3
+b_kedelke = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = sunni
+}
+1100.1.1 = {
+	culture = najar
+	religion = sunni
+}

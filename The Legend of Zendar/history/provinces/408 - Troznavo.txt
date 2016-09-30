@@ -1,0 +1,23 @@
+# 408 - Troznavo
+
+# County Title
+title = c_troznavo
+
+# Settlements
+max_settlements = 2
+b_troznavo = castle
+#b_nigaha = city
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

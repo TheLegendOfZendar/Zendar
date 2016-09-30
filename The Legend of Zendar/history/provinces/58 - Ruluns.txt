@@ -1,0 +1,24 @@
+# 58 - Ruluns
+
+# County Title
+title = c_ruluns
+
+# Settlements
+max_settlements = 3
+b_ruluns = castle
+#b_larno = city
+#b_soncounli = temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

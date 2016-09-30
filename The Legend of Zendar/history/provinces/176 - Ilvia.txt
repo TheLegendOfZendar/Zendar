@@ -1,0 +1,24 @@
+# 176 - Ilvia
+
+# County Title
+title = c_ilvia
+
+# Settlements
+max_settlements = 3
+b_ilvia = castle
+b_reaish = city
+#b_rateza - temple
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = hills
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = gleanntir
+	religion = calradic
+}

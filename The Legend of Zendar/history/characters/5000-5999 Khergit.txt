@@ -1,0 +1,1013 @@
+# STRUCTURE
+#5000-5099: Warband
+#5100-5499: Pre-Warband
+#5500-5899: Bannerlord
+#5900-5999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+5000 = {
+	name = "Sanjar"
+	dna = cjgbjcbeaad
+	properties = gc0bed00000000
+	dynasty = 5000
+	
+	father = 5100
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1206.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Pretender
+5001 = {
+	name = "Dustum"
+	dynasty = 5001
+	
+	father = 5100
+	
+	culture = "nomadic"
+	religion = "sunni"
+	
+	1220.6.4 = {
+		birth = yes
+	}
+	
+	1248.5.18 = {
+		give_nickname = nick_khan
+		add_claim = e_khergit
+		employer = 5003
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Lords
+5002 = {
+	name = "Akadan"
+	dynasty = 5002
+	
+	father = 5021
+	mother = 5040
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1233.6.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5003 = {
+	name = "Alagur"
+	dynasty = 5003
+	
+	father = 5903
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1210.6.1 = {
+		birth = yes
+	}
+	
+	1227.1.1 = {
+		add_spouse = 5025
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5004 = {
+	name = "Asugan"
+	dynasty = 5004
+	
+	father = 5904
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1199.6.1 = {
+		birth = yes
+	}
+	
+	1223.1.1 = {
+		add_spouse = 5026
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5005 = {
+	name = "Belir"
+	dynasty = 5005
+	
+	father = 5903
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1198.5.2 = {
+		birth = yes
+	}
+	
+	1222.1.1 = {
+		add_spouse = 5035
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5006 = {
+	name = "Brula"
+	dynasty = 5006
+	
+	father = 5903
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1206.5.2 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 5033
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5007 = {
+	name = "Chaurka"
+	dynasty = 5007
+	
+	father = 5907
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1229.7.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5008 = {
+	name = "Dundush"
+	dynasty = 5008
+	
+	father = 5012
+	mother = 5041
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1223.7.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5009 = {
+	name = "Hugu"
+	dynasty = 5009
+	
+	father = 5017
+	mother = 5030
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1228.4.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5010 = {
+	name = "Imirza"
+	dynasty = 5010
+	
+	father = 5904
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1204.6.9 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 5037
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5011 = {
+	name = "Karaban"
+	dynasty = 5011
+	
+	father = 5010
+	mother = 5037
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1227.7.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5012 = {
+	name = "Kramuk"
+	dynasty = 5012
+	
+	father = 5912
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1199.6.11 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 5041
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5013 = {
+	name = "Nasugei"
+	dynasty = 5013
+	
+	father = 5913
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1229.7.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5014 = {
+	name = "Sebula"
+	dynasty = 5014
+	
+	father = 5914
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1223.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5015 = {
+	name = "Tansugai"
+	dynasty = 5015
+	
+	father = 5005
+	mother = 5035
+	
+	culture = "najar"
+	religion = "sunni"
+	
+	1221.8.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5016 = {
+	name = "Tirida"
+	dynasty = 5016
+	
+	father = 5004
+	mother = 5026
+	
+	culture = "nomadic"
+	religion = "nestorian"
+	
+	1222.6.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5017 = {
+	name = "Tonju"
+	dynasty = 5017
+	
+	father = 5912
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1205.5.20 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 5030
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5018 = {
+	name = "Tulug"
+	dynasty = 5018
+	
+	father = 5918
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1229.5.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5019 = {
+	name = "Ulusamai"
+	dynasty = 5019
+	
+	father = 5006
+	mother = 5033
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1229.8.21 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5020 = {
+	name = "Urubay"
+	dynasty = 5020
+	
+	father = 5003
+	mother = 5025
+	
+	culture = "tarkhan"
+	religion = "jewish"
+	
+	1235.6.21 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5021 = {
+	name = "Urumuda"
+	dynasty = 5021
+	
+	father = 5912
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1208.7.21 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 5040
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+5022 = {
+	name = "Arjis"
+	female = yes
+	dynasty = 5012
+	
+	father = 5012
+	mother = 5041
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1237.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5023 = {
+	name = "Atjahan"
+	female = yes
+	dynasty = 5007
+	
+	father = 5907
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1235.7.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5024 = {
+	name = "Ayasu"
+	female = yes
+	dynasty = 5017
+	
+	father = 5017
+	mother = 5030
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1237.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5025 = {
+	name = "Borge"
+	female = yes
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1207.5.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5026 = {
+	name = "Chedina"
+	female = yes
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1206.7.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5027 = {
+	name = "Dulua"
+	female = yes
+	dynasty = 5006
+	
+	father = 5006
+	mother = 5033
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1237.5.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5028 = {
+	name = "Hindal"
+	female = yes
+	dynasty = 5018
+	
+	father = 5918
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1235.6.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5029 = {
+	name = "Kefra"
+	female = yes
+	dynasty = 5004
+	
+	father = 5004
+	mother = 5026
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1237.5.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5030 = {
+	name = "Mahraz"
+	female = yes
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1207.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5031 = {
+	name = "Mechet"
+	female = yes
+	dynasty = 5013
+	
+	father = 5913
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1235.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5032 = {
+	name = "Nadha"
+	female = yes
+	dynasty = 5021
+	
+	father = 5021
+	mother = 5040
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1237.5.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5033 = {
+	name = "Nirvaz"
+	female = yes
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1207.6.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5034 = {
+	name = "Qutala"
+	female = yes
+	dynasty = 5014
+	
+	father = 5914
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1235.6.17 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5035 = {
+	name = "Ravin"
+	female = yes
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	1205.5.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5036 = {
+	name = "Ruha"
+	female = yes
+	dynasty = 5005
+	
+	father = 5005
+	mother = 5035
+	
+	culture = "najar"
+	religion = "sunni"
+	
+	1237.4.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5037 = {
+	name = "Selik"
+	female = yes
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1207.5.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5038 = {
+	name = "Thalatha"
+	female = yes
+	dynasty = 5010
+	
+	father = 5010
+	mother = 5037
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1237.8.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5039 = {
+	name = "Tuan"
+	female = yes
+	dynasty = 5003
+	
+	father = 5003
+	mother = 5025
+	
+	culture = "tarkhan"
+	religion = "sunni"
+	
+	1237.4.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5040 = {
+	name = "Yasreen"
+	female = yes
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1207.7.25 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+5041 = {
+	name = "Zenur"
+	female = yes
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	1207.5.26 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarch
+5100 = {
+	name = "Janakir" # Father of Sanjar & Dustum Khan
+	dynasty = 5000
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	1185.7.10 = {
+		birth = yes
+	}
+	
+	1248.5.18 = {
+		death = yes
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+5903 = {
+	name = "Noyan of Western Clans" # Belir & Brula & Alagur's Line
+	occluded = yes
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5904 = {
+	name = "Noyan of Nomadic Clans" # Asugan & Imirza's Line
+	occluded = yes
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5907 = {
+	name = "Noyan of" # Chaurka's Line
+	dynasty = 5007
+	occluded = yes
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5912 = {
+	name = "Noyan of Ergenek Clans" # Kramuk & Tonju & Urumuda's Line
+	occluded = yes
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5913 = {
+	name = "Noyan of" # Nasugei's Line
+	dynasty = 5013
+	occluded = yes
+	
+	culture = "ergenek"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5914 = {
+	name = "Noyan of" # Sebula's Line
+	dynasty = 5014
+	occluded = yes
+	
+	culture = "najar"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+5918 = {
+	name = "Noyan of" # Tulug's Line
+	dynasty = 5018
+	occluded = yes
+	
+	culture = "nomadic"
+	religion = "steppe_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

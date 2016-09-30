@@ -1,0 +1,22 @@
+# 445 - Vrokala
+
+# County Title
+title = c_vrokala
+
+# Settlements
+max_settlements = 1
+b_vrokala = castle
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = druzian
+	religion = orthodox
+}

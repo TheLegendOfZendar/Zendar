@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1019 # Count Ryis
+	liege = d_ryibelet
+}

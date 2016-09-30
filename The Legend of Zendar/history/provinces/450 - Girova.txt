@@ -1,0 +1,24 @@
+# 450 - Girova
+
+# County Title
+title = c_girova
+
+# Settlements
+max_settlements = 3
+b_girova = tribal
+#b_eshvlanchin = temple
+#b_crahheg = city
+
+# Misc
+culture = battanian
+religion = taiga_pagan
+terrain = arctic
+
+# History
+1057.1.1 = {
+	religion = orthodox
+}
+1100.1.1 = {
+	culture = taigan
+	religion = taiga_pagan
+}

@@ -1,0 +1,23 @@
+# 75 - Pacot
+
+# County Title
+title = c_pacot
+
+# Settlements
+max_settlements = 2
+b_pacot = castle
+#b_ibijeret = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

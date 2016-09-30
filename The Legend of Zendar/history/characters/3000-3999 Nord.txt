@@ -1,0 +1,1014 @@
+# STRUCTURE
+#3000-3099: Warband
+#3100-3499: Pre-Warband
+#3500-3899: Bannerlord
+#3900-3999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+3000 = {
+	name = "Ragnar"
+	dna = addbfhieeco
+	properties = aa0ba000000000
+	dynasty = 3000
+	
+	father = 3912
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1212.6.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Pretender
+3001 = {
+	name = "Lethwin"
+	dynasty = 3001
+	
+	father = 3100
+	
+	culture = "argadish"
+	religion = "calradic"
+	
+	1230.7.12 = {
+		birth = yes
+	}
+	
+	1245.3.13 = {
+		give_nickname = nick_far_seeker
+		add_claim = e_nords
+		add_claim = k_wercheg
+		employer = 3002
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Lords
+3002 = {
+	name = "Aedin"
+	dynasty = 3002
+	
+	father = 3902
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1204.5.1 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 3036
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3003 = {
+	name = "Aeric"
+	dynasty = 3003
+	
+	father = 3903
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1223.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3004 = {
+	name = "Bulba"
+	dynasty = 3004
+	
+	father = 3012
+	mother = 3027
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1235.5.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3005 = {
+	name = "Dirigun"
+	dynasty = 3005
+	
+	father = 3018
+	mother = 3029
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1217.7.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3006 = {
+	name = "Faarn"
+	dynasty = 3006
+	
+	father = 3002
+	mother = 3036
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1227.5.6 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3007 = {
+	name = "Gearth"
+	dynasty = 3007
+	
+	father = 3009
+	mother = 3033
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1231.6.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3008 = {
+	name = "Gerlad"
+	dynasty = 3008
+	
+	father = 3013
+	mother = 3028
+	
+	culture = "argadish"
+	religion = "orthodox"
+	
+	1233.6.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3009 = {
+	name = "Gundur"
+	dynasty = 3009
+	
+	father = 3909
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1207.6.7 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 3033
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3010 = {
+	name = "Haeda"
+	dynasty = 3010
+	
+	father = 3910
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1230.5.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3011 = {
+	name = "Harald"
+	dynasty = 3011
+	
+	father = 3909
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1193.6.8 = {
+		birth = yes
+	}
+	
+	1219.1.1 = {
+		add_spouse = 3035
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3012 = {
+	name = "Irya"
+	dynasty = 3012
+	
+	father = 3912
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1211.4.9 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 3027
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3013 = {
+	name = "Knudarr"
+	dynasty = 3013
+	
+	father = 3902
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1210.7.11 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 3028
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3014 = {
+	name = "Logarson"
+	dynasty = 3014
+	
+	father = 3914
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1221.8.12 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3015 = {
+	name = "Marayirr"
+	dynasty = 3015
+	
+	father = 3021
+	mother = 3034
+	
+	culture = "argadish"
+	religion = "calradic"
+	
+	1217.8.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3016 = {
+	name = "Olaf"
+	dynasty = 3016
+	
+	father = 3912
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1198.4.15 = {
+		birth = yes
+	}
+	
+	1222.1.1 = {
+		add_spouse = 3038
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3017 = {
+	name = "Rayeck"
+	dynasty = 3017
+	
+	father = 3016
+	mother = 3038
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1221.6.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3018 = {
+	name = "Reamald"
+	dynasty = 3018
+	
+	father = 3909
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1193.7.18 = {
+		birth = yes
+	}
+	
+	1217.1.1 = {
+		add_spouse = 3029
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3019 = {
+	name = "Surdun"
+	dynasty = 3019
+	
+	father = 3011
+	mother = 3035
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1218.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3020 = {
+	name = "Turegor"
+	dynasty = 3020
+	
+	father = 3920
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1222.7.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3021 = {
+	name = "Turya"
+	dynasty = 3021
+	
+	father = 3902
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1194.5.20 = {
+		birth = yes
+	}
+	
+	1218.1.1 = {
+		add_spouse = 3034
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+3022 = {
+	name = "Aesa"
+	female = yes
+	dynasty = 3020
+	
+	father = 3920
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1235.4.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3023 = {
+	name = "Afrid"
+	female = yes
+	dynasty = 3003
+	
+	father = 3903
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1235.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3024 = {
+	name = "Alfrun"
+	female = yes
+	dynasty = 3014
+	
+	father = 3914
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1235.6.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3025 = {
+	name = "Bergit"
+	female = yes
+	dynasty = 3010
+	
+	father = 3910
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1235.6.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3026 = {
+	name = "Bryn"
+	female = yes
+	dynasty = 3016
+	
+	father = 3016
+	mother = 3038
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1237.4.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3027 = {
+	name = "Dria"
+	female = yes
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1207.4.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3028 = {
+	name = "Eilif"
+	female = yes
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1207.5.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3029 = {
+	name = "Eir"
+	female = yes
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1201.3.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3030 = {
+	name = "Endegrid"
+	female = yes
+	dynasty = 3021
+	
+	father = 3021
+	mother = 3034
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1237.8.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3031 = {
+	name = "Glunde"
+	female = yes
+	dynasty = 3012
+	
+	father = 3012
+	mother = 3027
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1237.6.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3032 = {
+	name = "Gudrun"
+	female = yes
+	dynasty = 3013
+	
+	father = 3013
+	mother = 3028
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1237.6.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3033 = {
+	name = "Herjasa"
+	female = yes
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1207.7.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3034 = {
+	name = "Hild"
+	female = yes
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1201.4.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3035 = {
+	name = "Ingunn"
+	female = yes
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1202.6.9 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3036 = {
+	name = "Jadeth"
+	female = yes
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1207.6.10 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3037 = {
+	name = "Kaeteli"
+	female = yes
+	dynasty = 3011
+	
+	father = 3011
+	mother = 3035
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1237.7.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3038 = {
+	name = "Loeka"
+	female = yes
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	1205.5.12 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3039 = {
+	name = "Miar"
+	female = yes
+	dynasty = 3002
+	
+	father = 3002
+	mother = 3036
+	
+	culture = "gundigian"
+	religion = "calradic"
+	
+	1237.4.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3040 = {
+	name = "Svipul"
+	female = yes
+	dynasty = 3009
+	
+	father = 3009
+	mother = 3033
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1237.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+3041 = {
+	name = "Thera"
+	female = yes
+	dynasty = 3018
+	
+	father = 3018
+	mother = 3029
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	1237.5.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarchs
+3100 = {
+	name = "Hakrim" # Father of Lethwin Far-Seeker
+	dynasty = 3001
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	1172.6.8 = {
+		birth = yes
+	}
+	
+	1245.3.13 = {
+		death = yes
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+3902 = {
+	name = "Jarl af Sargoth" # Turya & Aedin & & Knudarr's Line
+	occluded = yes
+	
+	culture = "jumne"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3903 = {
+	name = "Jarl av" # Aeric's Line
+	dynasty = 3003
+	occluded = yes
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3909 = {
+	name = "Jarl af Tihr" # Harald & Reamald & Gundur's Line
+	occluded = yes
+	
+	culture = "jumne"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3910 = {
+	name = "Jarl av" # Haeda's Line
+	dynasty = 3010
+	occluded = yes
+	
+	culture = "gundigian"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3912 = {
+	name = "Jarl af Wercheg" # Olaf & Irya & Ragnar's Line
+	occluded = yes
+	
+	culture = "jumne"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3914 = {
+	name = "Logar" # Logarson's Line
+	dynasty = 3014
+	occluded = yes
+	
+	culture = "alaish"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+3920 = {
+	name = "Jarl av" # Turegor's Line
+	dynasty = 3020
+	occluded = yes
+	
+	culture = "argadish"
+	religion = "nordic_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = e_khergit
+	holder = 5 #Player of Khergit
+}

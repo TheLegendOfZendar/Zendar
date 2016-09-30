@@ -1,0 +1,22 @@
+# 59 - Baford
+
+# County Title
+title = c_baford
+
+# Settlements
+max_settlements = 1
+b_baford = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = tribesman
+	religion = calradian_pagan
+}

@@ -1,0 +1,250 @@
+spriteTypes = {
+	
+	### character stuff
+	spriteType = {
+		name = "GFX_charframe_150_imperial"
+		texturefile = "gfx\\interface\\charframe_150_imperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_imperial"
+		texturefile = "gfx\\interface\\charframe_100_imperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_imperial"
+		texturefile = "gfx\\interface\\charframe_75_imperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_imperial"
+		texturefile = "gfx\\interface\\charframe_50_imperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_imperial"
+		texturefile = "gfx\\interface\\charframe_34_imperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_150_confederation"
+		texturefile = "gfx\\interface\\charframe_150_confederation.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_100_confederation"
+		texturefile = "gfx\\interface\\charframe_100_confederation.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_confederation"
+		texturefile = "gfx\\interface\\charframe_75_confederation.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_confederation"
+		texturefile = "gfx\\interface\\charframe_50_confederation.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_confederation"
+		texturefile = "gfx\\interface\\charframe_34_confederation.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_citystate"
+		texturefile = "gfx\\interface\\charframe_150_citystate.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_citystate"
+		texturefile = "gfx\\interface\\charframe_100_citystate.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_citystate"
+		texturefile = "gfx\\interface\\charframe_75_citystate.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_citystate"
+		texturefile = "gfx\\interface\\charframe_50_citystate.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_citystate"
+		texturefile = "gfx\\interface\\charframe_34_citystate.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_seminomadic"
+		texturefile = "gfx\\interface\\charframe_150_seminomadic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_seminomadic"
+		texturefile = "gfx\\interface\\charframe_100_seminomadic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_seminomadic"
+		texturefile = "gfx\\interface\\charframe_75_seminomadic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_seminomadic"
+		texturefile = "gfx\\interface\\charframe_50_seminomadic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_seminomadic"
+		texturefile = "gfx\\interface\\charframe_34_seminomadic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_satrapy"
+		texturefile = "gfx\\interface\\charframe_150_satrapy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_satrapy"
+		texturefile = "gfx\\interface\\charframe_100_satrapy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_satrapy"
+		texturefile = "gfx\\interface\\charframe_75_satrapy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_satrapy"
+		texturefile = "gfx\\interface\\charframe_50_satrapy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_satrapy"
+		texturefile = "gfx\\interface\\charframe_34_satrapy.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_warband"
+		texturefile = "gfx\\interface\\charframe_150_warband.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_warband"
+		texturefile = "gfx\\interface\\charframe_100_warband.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_warband"
+		texturefile = "gfx\\interface\\charframe_75_warband.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_warband"
+		texturefile = "gfx\\interface\\charframe_50_warband.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_warband"
+		texturefile = "gfx\\interface\\charframe_34_warband.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_huntergatherer"
+		texturefile = "gfx\\interface\\charframe_150_huntergatherer.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_huntergatherer"
+		texturefile = "gfx\\interface\\charframe_100_huntergatherer.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_huntergatherer"
+		texturefile = "gfx\\interface\\charframe_75_huntergatherer.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_huntergatherer"
+		texturefile = "gfx\\interface\\charframe_50_huntergatherer.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_huntergatherer"
+		texturefile = "gfx\\interface\\charframe_34_huntergatherer.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	### government icons
+	spriteType = {
+		name = "GFX_icon_imperial_government"
+		texturefile = "gfx\\interface\\government_icon_imperial.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_confederation_government"
+		texturefile = "gfx\\interface\\government_icon_confederation.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_citystate_government"
+		texturefile = "gfx\\interface\\government_icon_citystate.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_seminomadic_government"
+		texturefile = "gfx\\interface\\government_icon_seminomadic.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_satrapy_government"
+		texturefile = "gfx\\interface\\government_icon_satrapy.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_warband_government"
+		texturefile = "gfx\\interface\\government_icon_warband.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_huntergatherer_government"
+		texturefile = "gfx\\interface\\government_icon_huntergatherer.dds"
+	}
+}

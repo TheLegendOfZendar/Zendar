@@ -1,0 +1,4 @@
+1257.1.1={
+	liege = d_saren
+	holder = 4005 #Count Fudreim
+}

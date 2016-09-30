@@ -1,0 +1,22 @@
+# 741 - Seridere
+
+# County Title
+title = c_seridere
+
+# Settlements
+max_settlements = 2
+b_seridere = castle
+
+# Misc
+culture = aserai
+religion = pagan
+terrain = desert
+
+# History
+1057.1.1 = {
+	religion = manichean
+}
+1100.1.1 = {
+	culture = qardeb
+	religion = shiite
+}

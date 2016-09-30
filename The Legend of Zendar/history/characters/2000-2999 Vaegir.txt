@@ -1,0 +1,1024 @@
+# STRUCTURE
+#2000-2099: Warband
+#2100-2499: Pre-Warband
+#2500-2899: Bannerlord
+#2900-2999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+2000 = {
+	name = "Yaroglek"
+	dna = afdddddbbct
+	properties = ao0bb000000000
+	dynasty = 2000
+	
+	father = 2100
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1203.8.25 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2001 = {
+	name = "Valdym"
+	dynasty = 2001
+	
+	father = 2900
+	
+	culture = "druzian"
+	religion = "taiga_pagan"
+	
+	1216.6.22 = {
+		birth = yes
+	}
+	
+	1216.6.23 = {
+		trait = legit_bastard
+		give_nickname = nick_the_bastard
+		add_claim = e_vaegirs
+		employer = 2012
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2002 = {
+	name = "Belgaru"
+	dynasty = 2002
+	
+	father = 2902
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1194.7.2 = {
+		birth = yes
+	}
+	
+	1219.1.1 = {
+		add_spouse = 2039
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2003 = {
+	name = "Bracha"
+	dynasty = 2003
+	
+	father = 2903
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1230.6.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2004 = {
+	name = "Crahask"
+	dynasty = 2004
+	
+	father = 2904
+	
+	culture = "pirash"
+	religion = "orthodox"
+	
+	1223.7.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2005 = {
+	name = "Doru"
+	dynasty = 2005
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1198.4.4 = {
+		birth = yes
+	}
+	
+	1223.1.1 = {
+		add_spouse = 2041
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2006 = {
+	name = "Druli"
+	dynasty = 2006
+	
+	father = 2021
+	mother = 2028
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1228.5.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2007 = {
+	name = "Gastya"
+	dynasty = 2007
+	
+	father = 2012
+	mother = 2031
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1234.6.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2008 = {
+	name = "Harish"
+	dynasty = 2008
+	
+	father = 2009
+	mother = 2033
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1232.6.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2009 = {
+	name = "Khavel"
+	dynasty = 2009
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1207.6.11 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2033
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2010 = {
+	name = "Kumipa"
+	dynasty = 2010
+	
+	father = 2020
+	mother = 2035
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1225.6.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2011 = {
+	name = "Marmun"
+	dynasty = 2011
+	
+	father = 2014
+	mother = 2034
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1234.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2012 = {
+	name = "Meriga"
+	dynasty = 2012
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1211.6.13 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2031
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2013 = {
+	name = "Mleza"
+	dynasty = 2013
+	
+	father = 2913
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1223.5.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2014 = {
+	name = "Naldera"
+	dynasty = 2014
+	
+	father = 2902
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1210.7.14 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2034
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2015 = {
+	name = "Nelag"
+	dynasty = 2015
+	
+	father = 2915
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1226.5.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2016 = {
+	name = "Ralcha"
+	dynasty = 2016
+	
+	culture = "pirash"
+	religion = "taiga_pagan"
+	
+	1202.6.18 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2030
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2017 = {
+	name = "Rudin"
+	dynasty = 2017
+	
+	father = 2016
+	mother = 2030
+	
+	culture = "pirash"
+	religion = "taiga_pagan"
+	
+	1225.5.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2018 = {
+	name = "Taisa"
+	dynasty = 2018
+	
+	father = 2005
+	mother = 2041
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1222.5.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2019 = {
+	name = "Valishin"
+	dynasty = 2019
+	
+	father = 2002
+	mother = 2039
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1218.8.22 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2020 = {
+	name = "Vlan"
+	dynasty = 2020
+	
+	father = 2902
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1202.4.22 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2035
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2021 = {
+	name = "Vuldrat"
+	dynasty = 2021
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1204.7.22 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 2028
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+2022 = {
+	name = "Akilina"
+	female = yes
+	dynasty = 2016
+	
+	father = 2016
+	mother = 2030
+	
+	culture = "pirash"
+	religion = "taiga_pagan"
+	
+	1237.7.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2023 = {
+	name = "Drina"
+	female = yes
+	dynasty = 2014
+	
+	father = 2014
+	mother = 2034
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1237.5.4 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2024 = {
+	name = "Erenchina"
+	female = yes
+	dynasty = 2015
+	
+	father = 2915
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1235.9.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2025 = {
+	name = "Haris"
+	female = yes
+	dynasty = 2009
+	
+	father = 2009
+	mother = 2033
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1237.5.8 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2026 = {
+	name = "Iarina"
+	female = yes
+	dynasty = 2020
+	
+	father = 2020
+	mother = 2035
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1237.6.9 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2027 = {
+	name = "Joaka"
+	female = yes
+	dynasty = 2005
+	
+	father = 2005
+	mother = 2041
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1237.5.10 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2028 = {
+	name = "Junitha"
+	female = yes
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1207.7.10 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2029 = {
+	name = "Katia"
+	female = yes
+	dynasty = 2021
+	
+	father = 2021
+	mother = 2028
+	
+	culture = "druzian"
+	religion = "orthodox"
+	
+	1237.5.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2030 = {
+	name = "Myntha"
+	female = yes
+	
+	culture = "pirash"
+	religion = "taiga_pagan"
+	
+	1207.6.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2031 = {
+	name = "Nesha"
+	female = yes
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1207.5.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2032 = {
+	name = "Olekseia"
+	female = yes
+	dynasty = 2002
+	
+	father = 2002
+	mother = 2039
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1237.8.15 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2033 = {
+	name = "Pelaeka"
+	female = yes
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1207.7.16 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2034 = {
+	name = "Seomis"
+	female = yes
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1207.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2035 = {
+	name = "Sepana"
+	female = yes
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1207.6.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2036 = {
+	name = "Sihavan"
+	female = yes
+	dynasty = 2013
+	
+	father = 2913
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1235.7.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2037 = {
+	name = "Tabath"
+	female = yes
+	dynasty = 2012
+	
+	father = 2012
+	mother = 2031
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	1237.6.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2038 = {
+	name = "Tamar"
+	female = yes
+	dynasty = 2004
+	
+	father = 2904
+	
+	culture = "pirash"
+	religion = "orthodox"
+	
+	1235.5.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2039 = {
+	name = "Tejina"
+	female = yes
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1202.6.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2040 = {
+	name = "Valka"
+	female = yes
+	dynasty = 2003
+	
+	father = 2903
+	
+	culture = "voivoch"
+	religion = "orthodox"
+	
+	1235.5.22 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+2041 = {
+	name = "Vayen"
+	female = yes
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1206.5.22 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarchs
+2100 = {
+	name = "Burelek" # Father of Yaroglek
+	dynasty = 2000
+	
+	father = 2101
+	
+	culture = "vadynian"
+	religion = "orthodox"
+	
+	1177.7.2 = {
+		birth = yes
+	}
+	
+	1220.4.11 = {
+		death = yes
+	}
+}
+
+2101 = {
+	name = "Yaroglek" # Father of Prince Valdym the Bastard
+	dynasty = 2001
+	
+	culture = "druzian"
+	religion = "taiga_pagan"
+	
+	1125.5.16 = {
+		birth = yes
+	}
+	
+	1199.12.31 = {
+		death = yes
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+
+2900 = {
+	name = "Line" # Grandfather of Prince Valdym the Bastard
+	dynasty = 2001
+	occluded = yes
+	
+	father = 2101
+	
+	culture = "druzian"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1176.1.1 = {
+		birth = yes
+	}
+	
+	1216.6.22 = {
+		death = yes
+	}
+}
+
+2902 = {
+	name = "Boyar z" # Belgaru & Vlan & Naldera's Line
+	occluded = yes
+	
+	culture = "vadynian"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+2903 = {
+	name = "Boyar de" # Bracha's Line
+	dynasty = 2003
+	occluded = yes
+	
+	culture = "voivoch"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+2904 = {
+	name = "Boyar iz" # Crahask's Line
+	dynasty = 2004
+	occluded = yes
+	
+	culture = "pirash"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+2905 = {
+	name = "Boyar" # Doru & Vuldrat & Meriga's Line
+	occluded = yes
+	
+	culture = "taigan"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+2913 = {
+	name = "Boyar" # Mleza's Line
+	dynasty = 2013
+	occluded = yes
+	
+	culture = "tundran"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+2915 = {
+	name = "Boyar iz" # Nelag's Line
+	dynasty = 2015
+	occluded = yes
+	
+	culture = "druzian"
+	religion = "taiga_pagan"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

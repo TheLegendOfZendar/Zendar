@@ -1,0 +1,23 @@
+# 407 - Sovola
+
+# County Title
+title = c_sovola
+
+# Settlements
+max_settlements = 2
+b_sovola = castle
+#b_maut = city
+
+# Misc
+culture = battanian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = taiga_pagan
+}
+1100.1.1 = {
+	culture = vadynian
+	religion = orthodox
+}

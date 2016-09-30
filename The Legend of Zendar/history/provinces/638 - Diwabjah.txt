@@ -1,0 +1,22 @@
+# 638 - Diwabjah
+
+# County Title
+title = c_diwabjah
+
+# Settlements
+max_settlements = 1
+b_diwabjah = castle
+
+# Misc
+culture = aserai
+religion = shiite
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = shiite
+}
+1100.1.1 = {
+	culture = bezanian
+	religion = shiite
+}

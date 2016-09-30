@@ -1,0 +1,23 @@
+# 110 - Replaty
+
+# County Title
+title = c_replaty
+
+# Settlements
+max_settlements = 2
+b_replaty = castle
+#b_burguns - city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = miaphysite
+}

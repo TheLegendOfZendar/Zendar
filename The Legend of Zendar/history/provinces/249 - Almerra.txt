@@ -1,0 +1,25 @@
+# 249 - Almerra
+
+# County Title
+title = c_almerra
+
+# Settlements
+max_settlements = 4
+b_almerra = castle
+b_sergrunra = city
+#b_antkurlez = temple
+#b_chstila = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = mountain
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = rhodok
+	religion = calradic
+}

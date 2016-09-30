@@ -1,0 +1,22 @@
+# 541 - Kipchi
+
+# County Title
+title = c_kipchi
+
+# Settlements
+max_settlements = 2
+b_kipchi = tribal
+
+# Misc
+culture = khuzait
+religion = pagan
+terrain = forest
+
+# History
+1057.1.1 = {
+	religion = steppe_pagan
+}
+1100.1.1 = {
+	culture = nomadic
+	religion = steppe_pagan
+}

@@ -1,0 +1,1039 @@
+# STRUCTURE
+#4000-4099: Warband
+#4100-4499: Pre-Warband
+#4500-4899: Bannerlord
+#4900-4999: Lineage
+
+# WARBAND CHARACTERS
+
+#Monarch
+4000 = {
+	name = "Graveth"
+	dna = bddhjhjbaai
+	properties = ac0bmd00000000
+	dynasty = 4000
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1204.7.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Pretender
+4001 = {
+	name = "Lord Kastor"
+	dynasty = 4001
+	
+	father = 4901
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1211.6.11 = {
+		birth = yes
+	}
+	
+	1235.5.8 = {
+		give_nickname = nick_del_casa_de_veluca
+		add_claim = e_rhodoks
+		employer = 4011
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Lords
+4002 = {
+	name = "Etrosq"
+	dynasty = 4002
+	
+	father = 4902
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1225.6.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4003 = {
+	name = "Falsevor"
+	dynasty = 4003
+	
+	father = 4903
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1231.8.6 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4004 = {
+	name = "Fraichin"
+	dynasty = 4004
+	
+	father = 4018
+	mother = 4033
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1229.8.6 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4005 = {
+	name = "Fudreim"
+	dynasty = 4005
+	
+	father = 4013
+	mother = 4031
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1220.7.6 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4006 = {
+	name = "Gerluchs"
+	dynasty = 4006
+	
+	father = 4010
+	mother = 4039
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1217.8.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4007 = {
+	name = "Gharmall"
+	dynasty = 4007
+	
+	father = 4907
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1201.8.7 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 4025
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4008 = {
+	name = "Gutlans"
+	dynasty = 4008
+	
+	father = 4908
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1202.7.7 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 4026
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4009 = {
+	name = "Kurnias"
+	dynasty = 4009
+	
+	father = 4909
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1221.7.11 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4010 = {
+	name = "Laruqen"
+	dynasty = 4010
+	
+	father = 4907
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1194.7.12 = {
+		birth = yes
+	}
+	
+	1218.1.1 = {
+		add_spouse = 4039
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4011 = {
+	name = "Matheas"
+	dynasty = 4011
+	
+	father = 4901
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1201.7.13 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 4028
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4012 = {
+	name = "Nealcha"
+	dynasty = 4012
+	
+	father = 4015
+	mother = 4022
+	
+	culture = "gleanntir"
+	religion = "calradic"
+	
+	1218.7.14 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4013 = {
+	name = "Raichs"
+	dynasty = 4013
+	
+	father = 4907
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1195.6.18 = {
+		birth = yes
+	}
+	
+	1221.1.1 = {
+		add_spouse = 4031
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4014 = {
+	name = "Reichsin"
+	dynasty = 4014
+	
+	father = 4017
+	mother = 4023
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1234.8.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4015 = {
+	name = "Reland"
+	dynasty = 4015
+	
+	father = 4908
+	
+	culture = "gleanntir"
+	religion = "calradic"
+	
+	1194.6.18 = {
+		birth = yes
+	}
+	
+	1219.1.1 = {
+		add_spouse = 4022
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4016 = {
+	name = "Rimusk"
+	dynasty = 4016
+	
+	father = 4916
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1224.6.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4017 = {
+	name = "Talbar"
+	dynasty = 4017
+	
+	father = 4900
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1210.6.20 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 4023
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4018 = {
+	name = "Tarchias"
+	dynasty = 4018
+	
+	father = 4901
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1204.8.20 = {
+		birth = yes
+	}
+	
+	1224.1.1 = {
+		add_spouse = 4033
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4019 = {
+	name = "Tellrog"
+	dynasty = 4019
+	
+	father = 4011
+	mother = 4028
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1225.7.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4020 = {
+	name = "Tribidan"
+	dynasty = 4020
+	
+	father = 4008
+	mother = 4026
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1226.8.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4021 = {
+	name = "Trimbau"
+	dynasty = 4021
+	
+	father = 4007
+	mother = 4025
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1224.7.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+#Ladies
+4022 = {
+	name = "Adelisa"
+	female = yes
+	
+	culture = "gleanntir"
+	religion = "calradic"
+	
+	1202.7.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4023 = {
+	name = "Agasia"
+	female = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1207.6.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4024 = {
+	name = "Aliena"
+	female = yes
+	dynasty = 4011
+	
+	father = 4011
+	mother = 4028
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1237.6.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4025 = {
+	name = "Anais"
+	female = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1207.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4026 = {
+	name = "Aneth"
+	female = yes
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1207.5.1 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4027 = {
+	name = "Baotheia"
+	female = yes
+	dynasty = 4010
+	
+	father = 4010
+	mother = 4039
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1237.8.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4028 = {
+	name = "Brina"
+	female = yes
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1207.5.2 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4029 = {
+	name = "Calantina"
+	female = yes
+	dynasty = 4015
+	
+	father = 4015
+	mother = 4022
+	
+	culture = "gleanntir"
+	religion = "calradic"
+	
+	1237.9.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4030 = {
+	name = "Claudora"
+	female = yes
+	dynasty = 4018
+	
+	father = 4018
+	mother = 4033
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1237.8.3 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4031 = {
+	name = "Eleandra"
+	female = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1204.8.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4032 = {
+	name = "Ellian"
+	female = yes
+	dynasty = 4002
+	
+	father = 4902
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1235.6.5 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4033 = {
+	name = "Forbesa"
+	female = yes
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1207.7.6 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4034 = {
+	name = "Geneiava"
+	female = yes
+	dynasty = 4017
+	
+	father = 4017
+	mother = 4023
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1237.8.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4035 = {
+	name = "Gwenael"
+	female = yes
+	dynasty = 4016
+	
+	father = 4916
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	1235.7.7 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4036 = {
+	name = "Meraced"
+	female = yes
+	dynasty = 4013
+	
+	father = 4013
+	mother = 4031
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1237.7.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4037 = {
+	name = "Miraeia"
+	female = yes
+	dynasty = 4007
+	
+	father = 4007
+	mother = 4025
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1237.7.13 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4038 = {
+	name = "Reada"
+	female = yes
+	dynasty = 4008
+	
+	father = 4008
+	mother = 4026
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1237.5.18 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4039 = {
+	name = "Saraten"
+	female = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1201.7.19 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4040 = {
+	name = "Timethi"
+	female = yes
+	dynasty = 4009
+	
+	father = 4909
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1235.7.20 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+4041 = {
+	name = "Ysueth"
+	female = yes
+	dynasty = 4003
+	
+	father = 4903
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	1235.6.25 = {
+		birth = yes
+	}
+	
+	1267.12.31 = {
+		death = yes
+	}
+}
+
+# PRE-WARBAND CHARACTERS
+
+#Ex-Monarchs
+4100 = {
+	name = "Grunwalder" # Leader of Rhodok Rebellion
+	
+	father = 4900
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	1199.10.7 = {
+		birth = yes
+	}
+	
+	1234.5.18 = {
+		death = {
+		death_reason = death_battle
+		killer = 1000 # King Harlaus
+		}
+	}
+}
+
+# LINEAGE
+
+#Warband Lineage
+4900 = {
+	name = "Line di Grunwalder" # Grunwalder's Line
+	occluded = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1120.1.1 = {
+		birth = yes
+	}
+	
+	1220.1.1 = {
+		death = yes
+	}
+}
+
+4901 = {
+	name = "Count de Veluca" # Matheas & Tarchias & Kastor's Line
+	occluded = yes
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4902 = {
+	name = "Count o" # Etrosq's Line
+	dynasty = 4002
+	occluded = yes
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4903 = {
+	name = "Count o" # Falsevor's Line
+	dynasty = 4003
+	occluded = yes
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4907 = {
+	name = "Count di Rhodoks" # Laruqen & Raichs & Gharmall's Line
+	occluded = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4908 = {
+	name = "Count o Yalen" # Gutlans & Reland's Line
+	occluded = yes
+	
+	culture = "highlander"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1150.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4909 = {
+	name = "Count di" # Kurnias' Line
+	dynasty = 4009
+	occluded = yes
+	
+	culture = "rhodok"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}
+
+4916 = {
+	name = "Count de" # Rimusk's Line
+	dynasty = 4016
+	occluded = yes
+	
+	culture = "velucan"
+	religion = "calradic"
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	disallow_random_traits = yes
+	
+	1200.1.1 = {
+		birth = yes
+	}
+	
+	1250.1.1 = {
+		death = yes
+	}
+}

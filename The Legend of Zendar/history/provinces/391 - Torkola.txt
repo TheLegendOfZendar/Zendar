@@ -1,0 +1,23 @@
+# 391 - Torkola
+
+# County Title
+title = c_torkola
+
+# Settlements
+max_settlements = 2
+b_torkola = castle
+#b_hergudlen = city
+
+# Misc
+culture = sturgian
+religion = nordic_pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = nordic_pagan
+}
+1100.1.1 = {
+	culture = argadish
+	religion = nordic_pagan
+}

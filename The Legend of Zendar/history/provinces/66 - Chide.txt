@@ -1,0 +1,23 @@
+# 66 - Chide
+
+# County Title
+title = c_chide
+
+# Settlements
+max_settlements = 2
+b_chide = castle
+#b_larchinli = city
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = plains
+
+# History
+1057.1.1 = {
+	religion = pagan
+}
+1100.1.1 = {
+	culture = imperial
+	religion = calradic
+}

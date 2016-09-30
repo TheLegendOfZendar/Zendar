@@ -1,0 +1,46 @@
+max_provinces = 831
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "island_region.txt"
+geographical_region = "geographical_region.txt"
+static = "statics"
+seasons = "seasons.txt"
+
+# Calradian Seas
+sea_zones = { 766 772 } # Alai Sea
+sea_zones = { 773 779 } # Argad Bay
+sea_zones = { 780 782 } # Gandig Point
+sea_zones = { 784 800 } # Bezan Sea
+sea_zones = { 801 803 } # Prezzar River
+sea_zones = { 804 808 } # Iyenn River
+sea_zones = { 809 814 } # Curin River
+sea_zones = { 815 823 } # Pirash River
+
+# Non-accessible sea zones
+sea_zones = { 783 783 }
+
+ocean_region = {	# Calradian Oceans
+	sea_zones = { 1 2 3 4 5 6 7 8 }
+}
+
+# Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
+tree = { 3 4 7 10 }
+
+major_rivers = 
+{
+	# Lakes
+	824 825
+}
+
+externals = {
+    831 831
+}

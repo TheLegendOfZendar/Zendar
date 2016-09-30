@@ -1,0 +1,22 @@
+# 584 - Tema
+
+# County Title
+title = c_tema
+
+# Settlements
+max_settlements = 2
+b_tema = castle
+
+# Misc
+culture = vlandian
+religion = pagan
+terrain = steppe
+
+# History
+1057.1.1 = {
+	religion = calradian_pagan
+}
+1100.1.1 = {
+	culture = lowlander
+	religion = orthodox
+}

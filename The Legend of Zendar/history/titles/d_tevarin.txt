@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 1017 # Count Regas
+	liege = k_praven
+}

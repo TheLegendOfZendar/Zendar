@@ -1,0 +1,4 @@
+1257.1.1={
+	holder = 4011 #Count Matheas
+	set_tribute_suzerain = { who = e_rhodoks percentage = 0.40 }
+}
